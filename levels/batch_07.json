@@ -630,7 +630,7 @@
   }
  },
  {
-  "difficulty": 4,
+  "difficulty": 5,
   "groups": [
    {
     "link": "Around the fireplace",
@@ -1250,6 +1250,12 @@
    ],
    "ZIP": [
     "On a jacket"
+   ],
+   "BUCKLE": [
+    "On a jacket"
+   ],
+   "TOGGLE": [
+    "On a jacket"
    ]
   }
  },
@@ -1338,11 +1344,14 @@
    ],
    "BARS": [
     "Parts of a bicycle"
+   ],
+   "NUT": [
+    "Parts of a bicycle"
    ]
   }
  },
  {
-  "difficulty": 5,
+  "difficulty": 4,
   "groups": [
    {
     "link": "Hairstyles",
@@ -1398,21 +1407,21 @@
     ]
    },
    {
-    "link": "Hidden NIT",
-    "note": "vaNITy, graNITe, moNITor, kNITting",
+    "link": "Milk ___",
+    "note": "Milk tooth, milkshake, milk float, milkmaid",
     "tiles": [
      [
-      "VANITY"
+      "TOOTH",
+      "🦷"
      ],
      [
-      "GRANITE"
+      "SHAKE"
      ],
      [
-      "MONITOR"
+      "FLOAT"
      ],
      [
-      "KNITTING",
-      "🧶"
+      "MAID"
      ]
     ]
    }
@@ -1521,6 +1530,9 @@
    ],
    "TENDER": [
     "Working boats"
+   ],
+   "TRAWLER": [
+    "___ man"
    ]
   }
  },
