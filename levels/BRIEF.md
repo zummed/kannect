@@ -59,8 +59,8 @@ Write one JSON file: a list of walls.
 - `overlaps`: every tile that could also reasonably be placed in another group of this wall, mapped to the
   exact `link` text of those other groups. Be honest and complete here: list every real overlap, because the
   checker uses this to prove the wall has exactly one solution. At least three words per wall.
-- Within your file: no link may be used twice, and **no tile word may be used twice** anywhere in the file.
-- Do not reuse any link or any word from the existing walls listed at the bottom of this brief.
+- No group may repeat one already used (the same four tiles, or three of the same four), in your file or in
+  the existing walls. Individual words may recur in different walls, ideally in a different sense.
 
 ## Checking
 

@@ -26,5 +26,5 @@ number, and new walls are appended to the end. Walls added in the same build are
 gentle to hard, alternating between their batch files so subjects do not clump. Commit `order.json` with
 every build, and do not delete or change the words of a wall that is already listed.
 
-A new wall is dropped if it fails validation, repeats a link already in the game, or would use the same
-tile word a third time across the whole game.
+Words may recur across walls. A new wall is dropped only if it fails validation or repeats a group already
+in the game (the same four tiles, or three of the same four).

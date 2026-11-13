@@ -7,6 +7,8 @@ A file is a JSON list of walls:
 """
 import json,sys,re,itertools,collections
 def norm(l): return re.sub(r'[^a-z0-9]+',' ',l.lower()).strip()
+def group_words(G): return frozenset(t[0] for t in G.get('tiles',[]) if t)
+def same_combo(a,b): return len(a&b)>=3   # the same four, or three of the same four, counts as a repeat
 def solutions(cands,limit=3):
     n=0
     def rec(i,used):
@@ -50,16 +52,14 @@ def check_wall(w,i):
     return errs
 def main():
     data=json.load(open(sys.argv[1],encoding='utf8')); errs=[]
-    seen={};wc=collections.Counter()
+    seen=[]
     for i,w in enumerate(data):
         errs+=check_wall(w,i)
         for G in w.get('groups',[]):
-            k=norm(G.get('link',''))
-            if k in seen: errs.append(f"wall {i+1}: link '{G['link']}' already used in wall {seen[k]+1}")
-            seen[k]=i
-            for t in G.get('tiles',[]): wc[t[0]]+=1
-    for x,c in wc.items():
-        if c>1: errs.append(f"word {x} used {c} times in this file (max 1)")
+            s=group_words(G)
+            for j,o in seen:
+                if same_combo(s,o): errs.append(f"wall {i+1}: group '{G.get('link')}' repeats a group in wall {j+1}")
+            seen.append((i,s))
     print(f"{len(data)} walls, {len(errs)} problems")
     for e in errs: print(" -",e)
     sys.exit(1 if errs else 0)
