@@ -43,6 +43,7 @@ pool=[];pending=[];regular=[];feature=[]
 for d in range(1,6):
     cols=[[(n,i,w) for i,w in enumerate(b) if w.get('difficulty')==d and 'groups' in w] for n,b in batches]
     for row in itertools.zip_longest(*cols): pool+=[x for x in row if x]
+pool.sort(key=lambda x: not x[2].get('feature'))  # feature walls claim their groups first (stable sort keeps the rest in order)
 for n,i,w in pool:
     try: k=wid(w)
     except Exception: dropped[n+': invalid']+=1; continue
