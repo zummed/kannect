@@ -1,0 +1,796 @@
+[
+{
+"groups": [
+{
+"link": "Birds",
+"tiles": [
+[
+"SWIFT"
+],
+[
+"KITE",
+"🪁"
+],
+[
+"WREN"
+],
+[
+"FINCH"
+]
+]
+},
+{
+"link": "Chess pieces",
+"tiles": [
+[
+"ROOK"
+],
+[
+"KNIGHT"
+],
+[
+"BISHOP"
+],
+[
+"PAWN",
+"♟️"
+]
+]
+},
+{
+"link": "Building site machines",
+"tiles": [
+[
+"CRANE",
+"🏗️"
+],
+[
+"DIGGER"
+],
+[
+"ROLLER"
+],
+[
+"DUMPER"
+]
+]
+},
+{
+"link": "Batman characters",
+"tiles": [
+[
+"ROBIN"
+],
+[
+"PENGUIN",
+"🐧"
+],
+[
+"JOKER",
+"🃏"
+],
+[
+"RIDDLER"
+]
+]
+}
+],
+"difficulty": 1
+},
+{
+"groups": [
+{
+"link": "Fish",
+"tiles": [
+[
+"PERCH"
+],
+[
+"SKATE",
+"⛸️"
+],
+[
+"RAY"
+],
+[
+"CARP"
+]
+]
+},
+{
+"link": "Parts of a shoe",
+"tiles": [
+[
+"SOLE"
+],
+[
+"HEEL",
+"👠"
+],
+[
+"TONGUE",
+"👅"
+],
+[
+"LACE"
+]
+]
+},
+{
+"link": "Medieval weapons",
+"tiles": [
+[
+"PIKE"
+],
+[
+"MACE"
+],
+[
+"LANCE"
+],
+[
+"AXE",
+"🪓"
+]
+]
+},
+{
+"link": "Singing voices",
+"tiles": [
+[
+"BASS"
+],
+[
+"TENOR"
+],
+[
+"ALTO"
+],
+[
+"SOPRANO"
+]
+]
+}
+],
+"difficulty": 1
+},
+{
+"groups": [
+{
+"link": "Fire ___",
+"note": "Firefly, firework, firearm, fireplace",
+"tiles": [
+[
+"FLY",
+"🪰"
+],
+[
+"WORK"
+],
+[
+"ARM",
+"💪"
+],
+[
+"PLACE"
+]
+]
+},
+{
+"link": "Insects",
+"tiles": [
+[
+"BEETLE",
+"🪲"
+],
+[
+"WASP"
+],
+[
+"MOTH"
+],
+[
+"CRICKET",
+"🏏"
+]
+]
+},
+{
+"link": "Vegetables",
+"tiles": [
+[
+"LEEK"
+],
+[
+"SWEDE"
+],
+[
+"MARROW"
+],
+[
+"SQUASH"
+]
+]
+},
+{
+"link": "Sports",
+"tiles": [
+[
+"GOLF",
+"⛳"
+],
+[
+"DARTS",
+"🎯"
+],
+[
+"BOWLS",
+"🥣"
+],
+[
+"POLO"
+]
+]
+}
+],
+"difficulty": 2
+},
+{
+"groups": [
+{
+"link": "One-name singers",
+"tiles": [
+[
+"SEAL",
+"🦭"
+],
+[
+"PRINCE",
+"🤴"
+],
+[
+"STING"
+],
+[
+"PINK"
+]
+]
+},
+{
+"link": "Old British coins",
+"tiles": [
+[
+"CROWN",
+"👑"
+],
+[
+"FLORIN"
+],
+[
+"GUINEA"
+],
+[
+"SOVEREIGN"
+]
+]
+},
+{
+"link": "Playing card suits",
+"tiles": [
+[
+"CLUB"
+],
+[
+"HEART",
+"❤️"
+],
+[
+"DIAMOND",
+"💎"
+],
+[
+"SPADE"
+]
+]
+},
+{
+"link": "Sports equipment",
+"tiles": [
+[
+"BAT",
+"🦇"
+],
+[
+"RACKET"
+],
+[
+"CUE"
+],
+[
+"PUCK"
+]
+]
+}
+],
+"difficulty": 2
+},
+{
+"groups": [
+{
+"link": "Sound like letters",
+"note": "B, T, I, U",
+"tiles": [
+[
+"BEE",
+"🐝"
+],
+[
+"TEA",
+"🍵"
+],
+[
+"EYE",
+"👁️"
+],
+[
+"EWE",
+"🐑"
+]
+]
+},
+{
+"link": "Drinks",
+"tiles": [
+[
+"COFFEE",
+"☕"
+],
+[
+"COLA"
+],
+[
+"CIDER"
+],
+[
+"COCOA"
+]
+]
+},
+{
+"link": "Parts of the face",
+"tiles": [
+[
+"NOSE",
+"👃"
+],
+[
+"CHIN"
+],
+[
+"CHEEK"
+],
+[
+"BROW"
+]
+]
+},
+{
+"link": "Honey ___",
+"note": "Honeymoon, honeycomb, honeydew, honeypot",
+"tiles": [
+[
+"MOON",
+"🌙"
+],
+[
+"COMB"
+],
+[
+"DEW"
+],
+[
+"POT",
+"🍲"
+]
+]
+}
+],
+"difficulty": 3
+},
+{
+"groups": [
+{
+"link": "Planets",
+"tiles": [
+[
+"VENUS"
+],
+[
+"SATURN",
+"🪐"
+],
+[
+"EARTH",
+"🌍"
+],
+[
+"NEPTUNE"
+]
+]
+},
+{
+"link": "Chocolate bars",
+"tiles": [
+[
+"MARS"
+],
+[
+"GALAXY",
+"🌌"
+],
+[
+"BOUNTY"
+],
+[
+"TWIRL"
+]
+]
+},
+{
+"link": "Members of Queen",
+"tiles": [
+[
+"MERCURY",
+"🌡️"
+],
+[
+"MAY"
+],
+[
+"DEACON"
+],
+[
+"TAYLOR"
+]
+]
+},
+{
+"link": "Disney characters",
+"tiles": [
+[
+"PLUTO"
+],
+[
+"GOOFY"
+],
+[
+"DUMBO",
+"🐘"
+],
+[
+"BAMBI",
+"🦌"
+]
+]
+}
+],
+"difficulty": 3
+},
+{
+"groups": [
+{
+"link": "___ board",
+"note": "Cupboard, cardboard, blackboard, dashboard",
+"tiles": [
+[
+"CUP",
+"🏆"
+],
+[
+"CARD",
+"💳"
+],
+[
+"BLACK",
+"⚫"
+],
+[
+"DASH",
+"🏃"
+]
+]
+},
+{
+"link": "Crockery",
+"tiles": [
+[
+"PLATE",
+"🍽️"
+],
+[
+"SAUCER"
+],
+[
+"MUG"
+],
+[
+"JUG"
+]
+]
+},
+{
+"link": "Punctuation",
+"tiles": [
+[
+"COLON"
+],
+[
+"COMMA"
+],
+[
+"HYPHEN"
+],
+[
+"BRACKET"
+]
+]
+},
+{
+"link": "___ bird",
+"note": "Bluebird, ladybird, jailbird, songbird",
+"tiles": [
+[
+"BLUE",
+"🔵"
+],
+[
+"LADY"
+],
+[
+"JAIL"
+],
+[
+"SONG",
+"🎵"
+]
+]
+}
+],
+"difficulty": 4
+},
+{
+"groups": [
+{
+"link": "Hidden numbers",
+"note": "kitTEN, caNINE, wEIGHT, bONE",
+"tiles": [
+[
+"KITTEN"
+],
+[
+"CANINE"
+],
+[
+"WEIGHT"
+],
+[
+"BONE",
+"🦴"
+]
+]
+},
+{
+"link": "Teeth",
+"tiles": [
+[
+"MOLAR"
+],
+[
+"INCISOR"
+],
+[
+"WISDOM"
+],
+[
+"MILK",
+"🥛"
+]
+]
+},
+{
+"link": "Young animals",
+"tiles": [
+[
+"CUB"
+],
+[
+"FOAL"
+],
+[
+"CALF"
+],
+[
+"PUPPY",
+"🐶"
+]
+]
+},
+{
+"link": "Units of weight",
+"tiles": [
+[
+"STONE",
+"🪨"
+],
+[
+"POUND",
+"💷"
+],
+[
+"OUNCE"
+],
+[
+"GRAM"
+]
+]
+}
+],
+"difficulty": 4
+},
+{
+"groups": [
+{
+"link": "Hidden animals",
+"note": "piRATe, grAPE, whEEL, BEARd",
+"tiles": [
+[
+"PIRATE",
+"🏴‍☠️"
+],
+[
+"GRAPE",
+"🍇"
+],
+[
+"WHEEL",
+"🛞"
+],
+[
+"BEARD",
+"🧔"
+]
+]
+},
+{
+"link": "Fruit",
+"tiles": [
+[
+"LIME"
+],
+[
+"DATE",
+"📅"
+],
+[
+"FIG"
+],
+[
+"PLUM"
+]
+]
+},
+{
+"link": "Facial hair",
+"tiles": [
+[
+"MOUSTACHE"
+],
+[
+"STUBBLE"
+],
+[
+"SIDEBURNS"
+],
+[
+"WHISKERS"
+]
+]
+},
+{
+"link": "Parts of a car",
+"tiles": [
+[
+"BOOT",
+"🥾"
+],
+[
+"BONNET"
+],
+[
+"CLUTCH"
+],
+[
+"BUMPER"
+]
+]
+}
+],
+"difficulty": 5
+},
+{
+"groups": [
+{
+"link": "Shipping forecast areas",
+"tiles": [
+[
+"VIKING"
+],
+[
+"DOGGER"
+],
+[
+"FISHER",
+"🎣"
+],
+[
+"THAMES"
+]
+]
+},
+{
+"link": "English rivers",
+"tiles": [
+[
+"SEVERN"
+],
+[
+"TRENT"
+],
+[
+"MERSEY"
+],
+[
+"AVON"
+]
+]
+},
+{
+"link": "Peoples who invaded Britain",
+"tiles": [
+[
+"SAXON"
+],
+[
+"NORMAN"
+],
+[
+"ANGLE",
+"📐"
+],
+[
+"JUTE"
+]
+]
+},
+{
+"link": "Text styles",
+"tiles": [
+[
+"ROMAN",
+"🏛️"
+],
+[
+"ITALIC"
+],
+[
+"BOLD"
+],
+[
+"UNDERLINE"
+]
+]
+}
+],
+"difficulty": 5
+}
+]

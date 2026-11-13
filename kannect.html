@@ -155,56 +155,16 @@ details ol{margin:8px 0 0;padding-left:1.2em;display:flex;flex-direction:column;
 /* Level data. Each wall has 4 groups. A tile is [WORD] or [WORD, picture].
    link = shown answer, accept = word-starts that count as naming it, note = optional explanation. */
 const LEVELS=[
- {groups:[
-  {link:'Birds',accept:['bird'],tiles:[['SWIFT'],['KITE','🪁'],['WREN'],['FINCH']]},
-  {link:'Chess pieces',accept:['chess'],tiles:[['ROOK'],['KNIGHT'],['BISHOP'],['PAWN','♟️']]},
-  {link:'Building site machines',accept:['construction','building','machine','plant','site','vehicle','jcb'],tiles:[['CRANE','🏗️'],['DIGGER'],['ROLLER'],['DUMPER']]},
-  {link:'Batman characters',accept:['batman','gotham','dc','dark knight'],tiles:[['ROBIN'],['PENGUIN','🐧'],['JOKER','🃏'],['RIDDLER']]}]},
- {groups:[
-  {link:'Fish',accept:['fish'],tiles:[['PERCH'],['SKATE','⛸️'],['RAY'],['CARP']]},
-  {link:'Parts of a shoe',accept:['shoe','boot','trainer','footwear'],tiles:[['SOLE'],['HEEL','👠'],['TONGUE','👅'],['LACE']]},
-  {link:'Medieval weapons',accept:['weapon','medieval','arms'],tiles:[['PIKE'],['MACE'],['LANCE'],['AXE','🪓']]},
-  {link:'Singing voices',accept:['voice','sing','choir','vocal','range'],tiles:[['BASS'],['TENOR'],['ALTO'],['SOPRANO']]}]},
- {groups:[
-  {link:'Fire ___',accept:['fire'],note:'Firefly, firework, firearm, fireplace',tiles:[['FLY','🪰'],['WORK'],['ARM','💪'],['PLACE']]},
-  {link:'Insects',accept:['insect','bug','creepy'],tiles:[['BEETLE','🪲'],['WASP'],['MOTH'],['CRICKET','🏏']]},
-  {link:'Vegetables',accept:['veg'],tiles:[['LEEK'],['SWEDE'],['MARROW'],['SQUASH']]},
-  {link:'Sports',accept:['sport','game'],tiles:[['GOLF','⛳'],['DARTS','🎯'],['BOWLS','🥣'],['POLO']]}]},
- {groups:[
-  {link:'One-name singers',accept:['sing','one name','single name','mononym','pop','music','artist','star'],tiles:[['SEAL','🦭'],['PRINCE','🤴'],['STING'],['PINK']]},
-  {link:'Old British coins',accept:['coin','money','currency','decimal'],tiles:[['CROWN','👑'],['FLORIN'],['GUINEA'],['SOVEREIGN']]},
-  {link:'Playing card suits',accept:['card','suit'],tiles:[['CLUB'],['HEART','❤️'],['DIAMOND','💎'],['SPADE']]},
-  {link:'Sports equipment',accept:['sport','equipment','kit','gear','hit'],tiles:[['BAT','🦇'],['RACKET'],['CUE'],['PUCK']]}]},
- {groups:[
-  {link:'Sound like letters',accept:['letter','alphabet','homophone','sound'],note:'B, T, I, U',tiles:[['BEE','🐝'],['TEA','🍵'],['EYE','👁️'],['EWE','🐑']]},
-  {link:'Drinks',accept:['drink','beverage'],tiles:[['COFFEE','☕'],['COLA'],['CIDER'],['COCOA']]},
-  {link:'Parts of the face',accept:['face','head','facial'],tiles:[['NOSE','👃'],['CHIN'],['CHEEK'],['BROW']]},
-  {link:'Honey ___',accept:['honey'],note:'Honeymoon, honeycomb, honeydew, honeypot',tiles:[['MOON','🌙'],['COMB'],['DEW'],['POT','🍲']]}]},
- {groups:[
-  {link:'Planets',accept:['planet','solar'],tiles:[['VENUS'],['SATURN','🪐'],['EARTH','🌍'],['NEPTUNE']]},
-  {link:'Chocolate bars',accept:['choc','sweet','bar','confection'],tiles:[['MARS'],['GALAXY','🌌'],['BOUNTY'],['TWIRL']]},
-  {link:'Members of Queen',accept:['queen','band'],tiles:[['MERCURY','🌡️'],['MAY'],['DEACON'],['TAYLOR']]},
-  {link:'Disney characters',accept:['disney','cartoon','animat'],tiles:[['PLUTO'],['GOOFY'],['DUMBO','🐘'],['BAMBI','🦌']]}]},
- {groups:[
-  {link:'___ board',accept:['board'],note:'Cupboard, cardboard, blackboard, dashboard',tiles:[['CUP','🏆'],['CARD','💳'],['BLACK','⚫'],['DASH','🏃']]},
-  {link:'Crockery',accept:['crockery','table','kitchen','china','dish','pottery'],tiles:[['PLATE','🍽️'],['SAUCER'],['MUG'],['JUG']]},
-  {link:'Punctuation',accept:['punctuat','grammar','mark'],tiles:[['COLON'],['COMMA'],['HYPHEN'],['BRACKET']]},
-  {link:'___ bird',accept:['bird'],note:'Bluebird, ladybird, jailbird, songbird',tiles:[['BLUE','🔵'],['LADY'],['JAIL'],['SONG','🎵']]}]},
- {groups:[
-  {link:'Hidden numbers',accept:['number','numeral','digit','count','hidden'],note:'kitTEN, caNINE, wEIGHT, bONE',tiles:[['KITTEN'],['CANINE'],['WEIGHT'],['BONE','🦴']]},
-  {link:'Teeth',accept:['teeth','tooth','dent'],tiles:[['MOLAR'],['INCISOR'],['WISDOM'],['MILK','🥛']]},
-  {link:'Young animals',accept:['young','baby','babies','offspring','juvenile','infant'],tiles:[['CUB'],['FOAL'],['CALF'],['PUPPY','🐶']]},
-  {link:'Units of weight',accept:['weight','unit','measure','mass','imperial'],tiles:[['STONE','🪨'],['POUND','💷'],['OUNCE'],['GRAM']]}]},
- {groups:[
-  {link:'Hidden animals',accept:['animal','creature','hidden'],note:'piRATe, grAPE, whEEL, BEARd',tiles:[['PIRATE','🏴‍☠️'],['GRAPE','🍇'],['WHEEL','🛞'],['BEARD','🧔']]},
-  {link:'Fruit',accept:['fruit'],tiles:[['LIME'],['DATE','📅'],['FIG'],['PLUM']]},
-  {link:'Facial hair',accept:['hair','shav','face','facial'],tiles:[['MOUSTACHE'],['STUBBLE'],['SIDEBURNS'],['WHISKERS']]},
-  {link:'Parts of a car',accept:['car','vehicle','motor'],tiles:[['BOOT','🥾'],['BONNET'],['CLUTCH'],['BUMPER']]}]},
- {groups:[
-  {link:'Shipping forecast areas',accept:['shipping','forecast','sea area','radio 4'],tiles:[['VIKING'],['DOGGER'],['FISHER','🎣'],['THAMES']]},
-  {link:'English rivers',accept:['river'],tiles:[['SEVERN'],['TRENT'],['MERSEY'],['AVON']]},
-  {link:'Peoples who invaded Britain',accept:['invad','settl','conquer','tribe','people','anglo'],tiles:[['SAXON'],['NORMAN'],['ANGLE','📐'],['JUTE']]},
-  {link:'Text styles',accept:['text','font','type','format','style','word process'],tiles:[['ROMAN','🏛️'],['ITALIC'],['BOLD'],['UNDERLINE']]}]}
+{"groups":[{"link":"Birds","tiles":[["SWIFT"],["KITE","🪁"],["WREN"],["FINCH"]]},{"link":"Chess pieces","tiles":[["ROOK"],["KNIGHT"],["BISHOP"],["PAWN","♟️"]]},{"link":"Building site machines","tiles":[["CRANE","🏗️"],["DIGGER"],["ROLLER"],["DUMPER"]]},{"link":"Batman characters","tiles":[["ROBIN"],["PENGUIN","🐧"],["JOKER","🃏"],["RIDDLER"]]}]},
+{"groups":[{"link":"Fish","tiles":[["PERCH"],["SKATE","⛸️"],["RAY"],["CARP"]]},{"link":"Parts of a shoe","tiles":[["SOLE"],["HEEL","👠"],["TONGUE","👅"],["LACE"]]},{"link":"Medieval weapons","tiles":[["PIKE"],["MACE"],["LANCE"],["AXE","🪓"]]},{"link":"Singing voices","tiles":[["BASS"],["TENOR"],["ALTO"],["SOPRANO"]]}]},
+{"groups":[{"link":"Fire ___","note":"Firefly, firework, firearm, fireplace","tiles":[["FLY","🪰"],["WORK"],["ARM","💪"],["PLACE"]]},{"link":"Insects","tiles":[["BEETLE","🪲"],["WASP"],["MOTH"],["CRICKET","🏏"]]},{"link":"Vegetables","tiles":[["LEEK"],["SWEDE"],["MARROW"],["SQUASH"]]},{"link":"Sports","tiles":[["GOLF","⛳"],["DARTS","🎯"],["BOWLS","🥣"],["POLO"]]}]},
+{"groups":[{"link":"One-name singers","tiles":[["SEAL","🦭"],["PRINCE","🤴"],["STING"],["PINK"]]},{"link":"Old British coins","tiles":[["CROWN","👑"],["FLORIN"],["GUINEA"],["SOVEREIGN"]]},{"link":"Playing card suits","tiles":[["CLUB"],["HEART","❤️"],["DIAMOND","💎"],["SPADE"]]},{"link":"Sports equipment","tiles":[["BAT","🦇"],["RACKET"],["CUE"],["PUCK"]]}]},
+{"groups":[{"link":"Sound like letters","note":"B, T, I, U","tiles":[["BEE","🐝"],["TEA","🍵"],["EYE","👁️"],["EWE","🐑"]]},{"link":"Drinks","tiles":[["COFFEE","☕"],["COLA"],["CIDER"],["COCOA"]]},{"link":"Parts of the face","tiles":[["NOSE","👃"],["CHIN"],["CHEEK"],["BROW"]]},{"link":"Honey ___","note":"Honeymoon, honeycomb, honeydew, honeypot","tiles":[["MOON","🌙"],["COMB"],["DEW"],["POT","🍲"]]}]},
+{"groups":[{"link":"Planets","tiles":[["VENUS"],["SATURN","🪐"],["EARTH","🌍"],["NEPTUNE"]]},{"link":"Chocolate bars","tiles":[["MARS"],["GALAXY","🌌"],["BOUNTY"],["TWIRL"]]},{"link":"Members of Queen","tiles":[["MERCURY","🌡️"],["MAY"],["DEACON"],["TAYLOR"]]},{"link":"Disney characters","tiles":[["PLUTO"],["GOOFY"],["DUMBO","🐘"],["BAMBI","🦌"]]}]},
+{"groups":[{"link":"___ board","note":"Cupboard, cardboard, blackboard, dashboard","tiles":[["CUP","🏆"],["CARD","💳"],["BLACK","⚫"],["DASH","🏃"]]},{"link":"Crockery","tiles":[["PLATE","🍽️"],["SAUCER"],["MUG"],["JUG"]]},{"link":"Punctuation","tiles":[["COLON"],["COMMA"],["HYPHEN"],["BRACKET"]]},{"link":"___ bird","note":"Bluebird, ladybird, jailbird, songbird","tiles":[["BLUE","🔵"],["LADY"],["JAIL"],["SONG","🎵"]]}]},
+{"groups":[{"link":"Hidden numbers","note":"kitTEN, caNINE, wEIGHT, bONE","tiles":[["KITTEN"],["CANINE"],["WEIGHT"],["BONE","🦴"]]},{"link":"Teeth","tiles":[["MOLAR"],["INCISOR"],["WISDOM"],["MILK","🥛"]]},{"link":"Young animals","tiles":[["CUB"],["FOAL"],["CALF"],["PUPPY","🐶"]]},{"link":"Units of weight","tiles":[["STONE","🪨"],["POUND","💷"],["OUNCE"],["GRAM"]]}]},
+{"groups":[{"link":"Hidden animals","note":"piRATe, grAPE, whEEL, BEARd","tiles":[["PIRATE","🏴‍☠️"],["GRAPE","🍇"],["WHEEL","🛞"],["BEARD","🧔"]]},{"link":"Fruit","tiles":[["LIME"],["DATE","📅"],["FIG"],["PLUM"]]},{"link":"Facial hair","tiles":[["MOUSTACHE"],["STUBBLE"],["SIDEBURNS"],["WHISKERS"]]},{"link":"Parts of a car","tiles":[["BOOT","🥾"],["BONNET"],["CLUTCH"],["BUMPER"]]}]},
+{"groups":[{"link":"Shipping forecast areas","tiles":[["VIKING"],["DOGGER"],["FISHER","🎣"],["THAMES"]]},{"link":"English rivers","tiles":[["SEVERN"],["TRENT"],["MERSEY"],["AVON"]]},{"link":"Peoples who invaded Britain","tiles":[["SAXON"],["NORMAN"],["ANGLE","📐"],["JUTE"]]},{"link":"Text styles","tiles":[["ROMAN","🏛️"],["ITALIC"],["BOLD"],["UNDERLINE"]]}]}
 ];
 
 const KEY='kannect.v1', $=id=>document.getElementById(id);
