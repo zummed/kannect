@@ -1,0 +1,2676 @@
+[
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Greek letters",
+    "tiles": [
+     [
+      "ALPHA"
+     ],
+     [
+      "OMEGA"
+     ],
+     [
+      "IOTA"
+     ],
+     [
+      "DELTA"
+     ]
+    ]
+   },
+   {
+    "link": "Rain ___",
+    "note": "Rainbow, raincoat, rainfall, rainstorm",
+    "tiles": [
+     [
+      "BOW",
+      "🎀"
+     ],
+     [
+      "COAT",
+      "🧥"
+     ],
+     [
+      "FALL"
+     ],
+     [
+      "STORM"
+     ]
+    ]
+   },
+   {
+    "link": "Small amounts",
+    "tiles": [
+     [
+      "DROP",
+      "💧"
+     ],
+     [
+      "JOT"
+     ],
+     [
+      "TAD"
+     ],
+     [
+      "SPECK"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a book",
+    "tiles": [
+     [
+      "SPINE"
+     ],
+     [
+      "COVER"
+     ],
+     [
+      "JACKET"
+     ],
+     [
+      "INDEX",
+      "☝️"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "IOTA": [
+    "Small amounts"
+   ],
+   "DROP": [
+    "Rain ___"
+   ],
+   "COVER": [
+    "Rain ___"
+   ],
+   "JACKET": [
+    "Rain ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "NATO alphabet",
+    "tiles": [
+     [
+      "HOTEL",
+      "🏨"
+     ],
+     [
+      "ECHO"
+     ],
+     [
+      "VICTOR"
+     ],
+     [
+      "OSCAR"
+     ]
+    ]
+   },
+   {
+    "link": "Boys' names that are verbs",
+    "tiles": [
+     [
+      "ROB"
+     ],
+     [
+      "NICK"
+     ],
+     [
+      "MARK"
+     ],
+     [
+      "PAT"
+     ]
+    ]
+   },
+   {
+    "link": "___ room",
+    "note": "Bathroom, classroom, cloakroom, storeroom",
+    "tiles": [
+     [
+      "BATH",
+      "🛁"
+     ],
+     [
+      "CLASS"
+     ],
+     [
+      "CLOAK"
+     ],
+     [
+      "STORE",
+      "🏪"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning steal",
+    "tiles": [
+     [
+      "PINCH",
+      "🤏"
+     ],
+     [
+      "SWIPE"
+     ],
+     [
+      "LIFT"
+     ],
+     [
+      "POCKET"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "HOTEL": [
+    "___ room"
+   ],
+   "ROB": [
+    "Words meaning steal"
+   ],
+   "NICK": [
+    "Words meaning steal"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Collective nouns for animals",
+    "tiles": [
+     [
+      "PRIDE"
+     ],
+     [
+      "MURDER"
+     ],
+     [
+      "SCHOOL",
+      "🏫"
+     ],
+     [
+      "PACK"
+     ]
+    ]
+   },
+   {
+    "link": "Rat ___",
+    "note": "Rat race, rat trap, rat run, ratbag",
+    "tiles": [
+     [
+      "RACE"
+     ],
+     [
+      "TRAP"
+     ],
+     [
+      "RUN",
+      "🏃"
+     ],
+     [
+      "BAG",
+      "👜"
+     ]
+    ]
+   },
+   {
+    "link": "Ways to walk",
+    "tiles": [
+     [
+      "TROOP"
+     ],
+     [
+      "MARCH"
+     ],
+     [
+      "PLOD"
+     ],
+     [
+      "STRUT"
+     ]
+    ]
+   },
+   {
+    "link": "Slang for the police",
+    "tiles": [
+     [
+      "COPPER"
+     ],
+     [
+      "BOBBY"
+     ],
+     [
+      "FUZZ"
+     ],
+     [
+      "PIG",
+      "🐷"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PACK": [
+    "Rat ___"
+   ],
+   "TROOP": [
+    "Collective nouns for animals"
+   ],
+   "PLOD": [
+    "Slang for the police"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Red ___",
+    "note": "Red tape, red carpet, red herring, red alert",
+    "tiles": [
+     [
+      "TAPE",
+      "📼"
+     ],
+     [
+      "CARPET"
+     ],
+     [
+      "HERRING"
+     ],
+     [
+      "ALERT",
+      "🚨"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning angry",
+    "tiles": [
+     [
+      "CROSS",
+      "❌"
+     ],
+     [
+      "LIVID"
+     ],
+     [
+      "IRATE"
+     ],
+     [
+      "MAD"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning crazy",
+    "tiles": [
+     [
+      "BONKERS"
+     ],
+     [
+      "BARMY"
+     ],
+     [
+      "NUTS",
+      "🥜"
+     ],
+     [
+      "BATTY"
+     ]
+    ]
+   },
+   {
+    "link": "Stationery",
+    "tiles": [
+     [
+      "STAPLER"
+     ],
+     [
+      "RULER",
+      "📏"
+     ],
+     [
+      "GLUE"
+     ],
+     [
+      "FOLDER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CROSS": [
+    "Red ___"
+   ],
+   "MAD": [
+    "Words meaning crazy"
+   ],
+   "TAPE": [
+    "Stationery"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Cockney rhyming slang",
+    "tiles": [
+     [
+      "BARNET"
+     ],
+     [
+      "BUTCHERS"
+     ],
+     [
+      "APPLES"
+     ],
+     [
+      "BOAT",
+      "⛵"
+     ]
+    ]
+   },
+   {
+    "link": "Slang for money",
+    "tiles": [
+     [
+      "BREAD",
+      "🍞"
+     ],
+     [
+      "DOUGH"
+     ],
+     [
+      "LOLLY",
+      "🍭"
+     ],
+     [
+      "BRASS"
+     ]
+    ]
+   },
+   {
+    "link": "___ race",
+    "note": "Rat race, arms race, human race, sack race",
+    "tiles": [
+     [
+      "RAT",
+      "🐀"
+     ],
+     [
+      "ARMS"
+     ],
+     [
+      "HUMAN"
+     ],
+     [
+      "SACK"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning chatter",
+    "tiles": [
+     [
+      "NATTER"
+     ],
+     [
+      "YAK"
+     ],
+     [
+      "RABBIT",
+      "🐇"
+     ],
+     [
+      "WAFFLE",
+      "🧇"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BREAD": [
+    "Cockney rhyming slang"
+   ],
+   "RABBIT": [
+    "Cockney rhyming slang"
+   ],
+   "BOAT": [
+    "___ race"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Made of Roman numerals",
+    "tiles": [
+     [
+      "MIX"
+     ],
+     [
+      "DIM"
+     ],
+     [
+      "LID"
+     ],
+     [
+      "MILD"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning stupid",
+    "tiles": [
+     [
+      "THICK"
+     ],
+     [
+      "DENSE"
+     ],
+     [
+      "SLOW"
+     ],
+     [
+      "DAFT"
+     ]
+    ]
+   },
+   {
+    "link": "Rhymes with QUICK",
+    "tiles": [
+     [
+      "BRICK",
+      "🧱"
+     ],
+     [
+      "TRICK",
+      "🪄"
+     ],
+     [
+      "WICK"
+     ],
+     [
+      "CLICK"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning unwell",
+    "tiles": [
+     [
+      "SICK",
+      "🤢"
+     ],
+     [
+      "POORLY"
+     ],
+     [
+      "ROUGH"
+     ],
+     [
+      "PEAKY"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "DIM": [
+    "Words meaning stupid"
+   ],
+   "THICK": [
+    "Rhymes with QUICK"
+   ],
+   "SICK": [
+    "Rhymes with QUICK"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Latin abbreviations",
+    "tiles": [
+     [
+      "AM"
+     ],
+     [
+      "PM"
+     ],
+     [
+      "NB"
+     ],
+     [
+      "ETC"
+     ]
+    ]
+   },
+   {
+    "link": "___ radio",
+    "note": "Ham radio, car radio, talk radio, local radio",
+    "tiles": [
+     [
+      "HAM"
+     ],
+     [
+      "CAR",
+      "🚗"
+     ],
+     [
+      "TALK"
+     ],
+     [
+      "LOCAL"
+     ]
+    ]
+   },
+   {
+    "link": "Text abbreviations",
+    "tiles": [
+     [
+      "LOL",
+      "😂"
+     ],
+     [
+      "OMG",
+      "😱"
+     ],
+     [
+      "BRB"
+     ],
+     [
+      "FYI"
+     ]
+    ]
+   },
+   {
+    "link": "Words for a pub",
+    "tiles": [
+     [
+      "BOOZER"
+     ],
+     [
+      "INN"
+     ],
+     [
+      "TAVERN"
+     ],
+     [
+      "BAR",
+      "🍫"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "AM": [
+    "___ radio"
+   ],
+   "PM": [
+    "Text abbreviations"
+   ],
+   "NB": [
+    "Text abbreviations"
+   ],
+   "LOCAL": [
+    "Words for a pub"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Verb tenses",
+    "tiles": [
+     [
+      "PAST"
+     ],
+     [
+      "PRESENT",
+      "🎁"
+     ],
+     [
+      "FUTURE",
+      "🔮"
+     ],
+     [
+      "PERFECT"
+     ]
+    ]
+   },
+   {
+    "link": "Things a verb has",
+    "tiles": [
+     [
+      "TENSE"
+     ],
+     [
+      "MOOD"
+     ],
+     [
+      "VOICE",
+      "🗣️"
+     ],
+     [
+      "ASPECT"
+     ]
+    ]
+   },
+   {
+    "link": "Rhymes with RUDE",
+    "tiles": [
+     [
+      "FOOD"
+     ],
+     [
+      "CRUDE"
+     ],
+     [
+      "LEWD"
+     ],
+     [
+      "GLUED"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning vulgar",
+    "tiles": [
+     [
+      "COARSE"
+     ],
+     [
+      "BAWDY"
+     ],
+     [
+      "SAUCY"
+     ],
+     [
+      "FRUITY"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MOOD": [
+    "Rhymes with RUDE"
+   ],
+   "CRUDE": [
+    "Words meaning vulgar"
+   ],
+   "LEWD": [
+    "Words meaning vulgar"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Terms of endearment",
+    "tiles": [
+     [
+      "PETAL"
+     ],
+     [
+      "DUCK",
+      "🦆"
+     ],
+     [
+      "TREASURE"
+     ],
+     [
+      "POPPET"
+     ]
+    ]
+   },
+   {
+    "link": "Rose ___",
+    "note": "Rose bush, rosehip, rosewater, rosewood",
+    "tiles": [
+     [
+      "BUSH"
+     ],
+     [
+      "HIP"
+     ],
+     [
+      "WATER",
+      "🚰"
+     ],
+     [
+      "WOOD",
+      "🪵"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning throw",
+    "tiles": [
+     [
+      "CHUCK"
+     ],
+     [
+      "LOB"
+     ],
+     [
+      "HURL"
+     ],
+     [
+      "SLING"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning avoid",
+    "tiles": [
+     [
+      "DODGE"
+     ],
+     [
+      "EVADE"
+     ],
+     [
+      "SHIRK"
+     ],
+     [
+      "SKIRT"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PETAL": [
+    "Rose ___"
+   ],
+   "DUCK": [
+    "Words meaning avoid"
+   ],
+   "CHUCK": [
+    "Terms of endearment"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Animal noises",
+    "tiles": [
+     [
+      "BARK",
+      "🐕"
+     ],
+     [
+      "PURR"
+     ],
+     [
+      "BLEAT"
+     ],
+     [
+      "HOOT"
+     ]
+    ]
+   },
+   {
+    "link": "Ways to laugh",
+    "tiles": [
+     [
+      "GIGGLE",
+      "🤭"
+     ],
+     [
+      "CHUCKLE"
+     ],
+     [
+      "SNIGGER"
+     ],
+     [
+      "TITTER"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding a ROW",
+    "note": "gROWl, thROW, arROW, tROWel",
+    "tiles": [
+     [
+      "GROWL"
+     ],
+     [
+      "THROW"
+     ],
+     [
+      "ARROW",
+      "🏹"
+     ],
+     [
+      "TROWEL"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning complain",
+    "tiles": [
+     [
+      "MOAN"
+     ],
+     [
+      "WHINGE"
+     ],
+     [
+      "GRIPE"
+     ],
+     [
+      "GROUSE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "GROWL": [
+    "Animal noises"
+   ],
+   "HOOT": [
+    "Ways to laugh"
+   ],
+   "BLEAT": [
+    "Words meaning complain"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Words from Hindi",
+    "tiles": [
+     [
+      "PYJAMAS"
+     ],
+     [
+      "DUNGAREES"
+     ],
+     [
+      "BUNGALOW"
+     ],
+     [
+      "PUNCH",
+      "👊"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning hit",
+    "tiles": [
+     [
+      "BELT"
+     ],
+     [
+      "CUFF"
+     ],
+     [
+      "CLOUT"
+     ],
+     [
+      "WALLOP"
+     ]
+    ]
+   },
+   {
+    "link": "Rhymes with ROCK",
+    "tiles": [
+     [
+      "FROCK",
+      "👗"
+     ],
+     [
+      "SMOCK"
+     ],
+     [
+      "CROCK"
+     ],
+     [
+      "SOCK",
+      "🧦"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning rubbish",
+    "tiles": [
+     [
+      "PANTS",
+      "🩲"
+     ],
+     [
+      "COBBLERS"
+     ],
+     [
+      "TOSH"
+     ],
+     [
+      "TRIPE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PUNCH": [
+    "Words meaning hit"
+   ],
+   "SOCK": [
+    "Words meaning hit"
+   ],
+   "CROCK": [
+    "Words meaning rubbish"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Girls' names that are flowers",
+    "tiles": [
+     [
+      "LILY"
+     ],
+     [
+      "DAISY"
+     ],
+     [
+      "POPPY"
+     ],
+     [
+      "IRIS"
+     ]
+    ]
+   },
+   {
+    "link": "Irregular past tenses",
+    "tiles": [
+     [
+      "ROSE",
+      "🌹"
+     ],
+     [
+      "SAW",
+      "🪚"
+     ],
+     [
+      "WON"
+     ],
+     [
+      "FELT"
+     ]
+    ]
+   },
+   {
+    "link": "Reversible words",
+    "note": "Reward, regal, warts, flow",
+    "tiles": [
+     [
+      "DRAWER"
+     ],
+     [
+      "LAGER"
+     ],
+     [
+      "STRAW"
+     ],
+     [
+      "WOLF",
+      "🐺"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning eat greedily",
+    "tiles": [
+     [
+      "SCOFF"
+     ],
+     [
+      "GOBBLE"
+     ],
+     [
+      "GUZZLE"
+     ],
+     [
+      "BOLT",
+      "⚡"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ROSE": [
+    "Girls' names that are flowers"
+   ],
+   "SAW": [
+    "Reversible words"
+   ],
+   "WON": [
+    "Reversible words"
+   ],
+   "WOLF": [
+    "Words meaning eat greedily"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Groups of people",
+    "tiles": [
+     [
+      "CAST"
+     ],
+     [
+      "PANEL"
+     ],
+     [
+      "JURY"
+     ],
+     [
+      "STAFF"
+     ]
+    ]
+   },
+   {
+    "link": "Rhymes with QUEUE",
+    "tiles": [
+     [
+      "CREW"
+     ],
+     [
+      "SHOE",
+      "👞"
+     ],
+     [
+      "ZOO"
+     ],
+     [
+      "CANOE",
+      "🛶"
+     ]
+    ]
+   },
+   {
+    "link": "Crossword terms",
+    "tiles": [
+     [
+      "CLUE",
+      "🔍"
+     ],
+     [
+      "GRID"
+     ],
+     [
+      "SETTER"
+     ],
+     [
+      "ACROSS"
+     ]
+    ]
+   },
+   {
+    "link": "Word puzzles",
+    "tiles": [
+     [
+      "ANAGRAM"
+     ],
+     [
+      "ACROSTIC"
+     ],
+     [
+      "REBUS"
+     ],
+     [
+      "CODEWORD"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CREW": [
+    "Groups of people"
+   ],
+   "CLUE": [
+    "Rhymes with QUEUE"
+   ],
+   "ANAGRAM": [
+    "Crossword terms"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Typefaces",
+    "tiles": [
+     [
+      "ARIAL"
+     ],
+     [
+      "COURIER"
+     ],
+     [
+      "IMPACT"
+     ],
+     [
+      "TIMES"
+     ]
+    ]
+   },
+   {
+    "link": "Girls' names that are places",
+    "tiles": [
+     [
+      "CHELSEA"
+     ],
+     [
+      "FLORENCE"
+     ],
+     [
+      "SIENNA"
+     ],
+     [
+      "GEORGIA"
+     ]
+    ]
+   },
+   {
+    "link": "Rhymes with RHYMES",
+    "tiles": [
+     [
+      "CHIMES",
+      "🎐"
+     ],
+     [
+      "CRIMES"
+     ],
+     [
+      "CLIMBS",
+      "🧗"
+     ],
+     [
+      "MIMES"
+     ]
+    ]
+   },
+   {
+    "link": "Words for a collision",
+    "tiles": [
+     [
+      "CRASH",
+      "💥"
+     ],
+     [
+      "SMASH"
+     ],
+     [
+      "BUMP"
+     ],
+     [
+      "PRANG"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "GEORGIA": [
+    "Typefaces"
+   ],
+   "TIMES": [
+    "Rhymes with RHYMES"
+   ],
+   "IMPACT": [
+    "Words for a collision"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Slang sums of money",
+    "tiles": [
+     [
+      "PONY",
+      "🐴"
+     ],
+     [
+      "MONKEY",
+      "🐒"
+     ],
+     [
+      "SCORE"
+     ],
+     [
+      "TON"
+     ]
+    ]
+   },
+   {
+    "link": "Words for a practical joke",
+    "tiles": [
+     [
+      "JAPE"
+     ],
+     [
+      "HOAX"
+     ],
+     [
+      "LARK"
+     ],
+     [
+      "CAPER"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning odd",
+    "tiles": [
+     [
+      "WEIRD"
+     ],
+     [
+      "PECULIAR"
+     ],
+     [
+      "RUM"
+     ],
+     [
+      "FUNNY"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding RAN",
+    "note": "gRANd, pRANk, stRANge, oRANge",
+    "tiles": [
+     [
+      "GRAND"
+     ],
+     [
+      "PRANK"
+     ],
+     [
+      "STRANGE"
+     ],
+     [
+      "ORANGE",
+      "🍊"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "GRAND": [
+    "Slang sums of money"
+   ],
+   "PRANK": [
+    "Words for a practical joke"
+   ],
+   "STRANGE": [
+    "Words meaning odd"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Words from Japanese",
+    "tiles": [
+     [
+      "KARAOKE",
+      "🎤"
+     ],
+     [
+      "TYCOON"
+     ],
+     [
+      "EMOJI",
+      "😀"
+     ],
+     [
+      "FUTON"
+     ]
+    ]
+   },
+   {
+    "link": "Rhymes with QUAY",
+    "tiles": [
+     [
+      "SKI",
+      "🎿"
+     ],
+     [
+      "KNEE"
+     ],
+     [
+      "FLEA"
+     ],
+     [
+      "PLEA"
+     ]
+    ]
+   },
+   {
+    "link": "Pronouns",
+    "tiles": [
+     [
+      "ME"
+     ],
+     [
+      "SHE"
+     ],
+     [
+      "WE"
+     ],
+     [
+      "THEM"
+     ]
+    ]
+   },
+   {
+    "link": "Yes in other languages",
+    "tiles": [
+     [
+      "OUI"
+     ],
+     [
+      "SI"
+     ],
+     [
+      "JA"
+     ],
+     [
+      "DA"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ME": [
+    "Rhymes with QUAY"
+   ],
+   "SHE": [
+    "Rhymes with QUAY"
+   ],
+   "WE": [
+    "Rhymes with QUAY"
+   ],
+   "OUI": [
+    "Rhymes with QUAY"
+   ],
+   "SI": [
+    "Rhymes with QUAY"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Short for Elizabeth",
+    "tiles": [
+     [
+      "LIZ"
+     ],
+     [
+      "BETH"
+     ],
+     [
+      "BETTY"
+     ],
+     [
+      "ELIZA"
+     ]
+    ]
+   },
+   {
+    "link": "Rhymes with QUIZ",
+    "tiles": [
+     [
+      "FIZZ"
+     ],
+     [
+      "WHIZZ"
+     ],
+     [
+      "SHOWBIZ"
+     ],
+     [
+      "HIS"
+     ]
+    ]
+   },
+   {
+    "link": "Possessive pronouns",
+    "tiles": [
+     [
+      "HERS"
+     ],
+     [
+      "MINE",
+      "⛏️"
+     ],
+     [
+      "OURS"
+     ],
+     [
+      "YOURS"
+     ]
+    ]
+   },
+   {
+    "link": "Ways to sign off a letter",
+    "tiles": [
+     [
+      "REGARDS"
+     ],
+     [
+      "SINCERELY"
+     ],
+     [
+      "LOVE",
+      "❤️"
+     ],
+     [
+      "CHEERS",
+      "🥂"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LIZ": [
+    "Rhymes with QUIZ"
+   ],
+   "HIS": [
+    "Possessive pronouns"
+   ],
+   "YOURS": [
+    "Ways to sign off a letter"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Words from Italian",
+    "tiles": [
+     [
+      "OPERA"
+     ],
+     [
+      "UMBRELLA",
+      "☂️"
+     ],
+     [
+      "VOLCANO",
+      "🌋"
+     ],
+     [
+      "CONFETTI"
+     ]
+    ]
+   },
+   {
+    "link": "Rock ___",
+    "note": "Rock pool, rock cake, rock salt, rock garden",
+    "tiles": [
+     [
+      "POOL"
+     ],
+     [
+      "CAKE",
+      "🎂"
+     ],
+     [
+      "SALT",
+      "🧂"
+     ],
+     [
+      "GARDEN"
+     ]
+    ]
+   },
+   {
+    "link": "Keyboard symbols",
+    "tiles": [
+     [
+      "HASH"
+     ],
+     [
+      "STAR",
+      "⭐"
+     ],
+     [
+      "SLASH"
+     ],
+     [
+      "DOLLAR"
+     ]
+    ]
+   },
+   {
+    "link": "Words for a pot of money",
+    "tiles": [
+     [
+      "KITTY"
+     ],
+     [
+      "FUND"
+     ],
+     [
+      "PURSE",
+      "👛"
+     ],
+     [
+      "JACKPOT"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "OPERA": [
+    "Rock ___"
+   ],
+   "STAR": [
+    "Rock ___"
+   ],
+   "POOL": [
+    "Words for a pot of money"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Words that began as acronyms",
+    "tiles": [
+     [
+      "LASER"
+     ],
+     [
+      "RADAR"
+     ],
+     [
+      "SCUBA",
+      "🤿"
+     ],
+     [
+      "SONAR"
+     ]
+    ]
+   },
+   {
+    "link": "Portmanteau words",
+    "tiles": [
+     [
+      "BRUNCH"
+     ],
+     [
+      "SMOG"
+     ],
+     [
+      "MOTEL"
+     ],
+     [
+      "SPORK"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding a RUN",
+    "note": "gRUNt, cRUNch, pRUNe, tRUNk",
+    "tiles": [
+     [
+      "GRUNT"
+     ],
+     [
+      "CRUNCH"
+     ],
+     [
+      "PRUNE"
+     ],
+     [
+      "TRUNK"
+     ]
+    ]
+   },
+   {
+    "link": "Onomatopoeia",
+    "tiles": [
+     [
+      "SIZZLE"
+     ],
+     [
+      "WHOOSH",
+      "💨"
+     ],
+     [
+      "THUD"
+     ],
+     [
+      "SPLASH",
+      "💦"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BRUNCH": [
+    "Words hiding a RUN"
+   ],
+   "GRUNT": [
+    "Onomatopoeia"
+   ],
+   "CRUNCH": [
+    "Onomatopoeia"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Slang for prison",
+    "tiles": [
+     [
+      "CLINK"
+     ],
+     [
+      "STIR"
+     ],
+     [
+      "SLAMMER"
+     ],
+     [
+      "PORRIDGE",
+      "🥣"
+     ]
+    ]
+   },
+   {
+    "link": "Modal verbs",
+    "tiles": [
+     [
+      "CAN",
+      "🥫"
+     ],
+     [
+      "MIGHT"
+     ],
+     [
+      "MUST"
+     ],
+     [
+      "WILL"
+     ]
+    ]
+   },
+   {
+    "link": "Things to write with",
+    "tiles": [
+     [
+      "PEN",
+      "🖊️"
+     ],
+     [
+      "QUILL"
+     ],
+     [
+      "CHALK"
+     ],
+     [
+      "CRAYON",
+      "🖍️"
+     ]
+    ]
+   },
+   {
+    "link": "Add R at the front",
+    "note": "Rink, reel, roar, rice",
+    "tiles": [
+     [
+      "INK"
+     ],
+     [
+      "EEL"
+     ],
+     [
+      "OAR"
+     ],
+     [
+      "ICE",
+      "🧊"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CAN": [
+    "Slang for prison"
+   ],
+   "PEN": [
+    "Slang for prison"
+   ],
+   "INK": [
+    "Things to write with"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Words for a fool",
+    "tiles": [
+     [
+      "TWIT"
+     ],
+     [
+      "WALLY"
+     ],
+     [
+      "MUPPET"
+     ],
+     [
+      "CHUMP"
+     ]
+    ]
+   },
+   {
+    "link": "Slang for the head",
+    "tiles": [
+     [
+      "BLOCK"
+     ],
+     [
+      "BONCE"
+     ],
+     [
+      "NOGGIN"
+     ],
+     [
+      "LOAF",
+      "🍞"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding a RAT",
+    "note": "pRAT, celebRATe, kaRATe, opeRATe",
+    "tiles": [
+     [
+      "PRAT"
+     ],
+     [
+      "CELEBRATE",
+      "🎉"
+     ],
+     [
+      "KARATE",
+      "🥋"
+     ],
+     [
+      "OPERATE"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning laze",
+    "tiles": [
+     [
+      "LOUNGE"
+     ],
+     [
+      "IDLE"
+     ],
+     [
+      "LOLL"
+     ],
+     [
+      "SLOUCH"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PRAT": [
+    "Words for a fool"
+   ],
+   "CHUMP": [
+    "Slang for the head"
+   ],
+   "LOAF": [
+    "Words meaning laze"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Words from French",
+    "tiles": [
+     [
+      "CUISINE"
+     ],
+     [
+      "CHAUFFEUR"
+     ],
+     [
+      "BOUQUET",
+      "💐"
+     ],
+     [
+      "SOUVENIR"
+     ]
+    ]
+   },
+   {
+    "link": "Rhymes with QUEEN",
+    "tiles": [
+     [
+      "BEAN"
+     ],
+     [
+      "CLEAN"
+     ],
+     [
+      "SCREEN",
+      "🖥️"
+     ],
+     [
+      "SPLEEN"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning eager",
+    "tiles": [
+     [
+      "KEEN"
+     ],
+     [
+      "EAGER"
+     ],
+     [
+      "AVID"
+     ],
+     [
+      "GAME",
+      "🎮"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning inexperienced",
+    "tiles": [
+     [
+      "GREEN"
+     ],
+     [
+      "RAW"
+     ],
+     [
+      "CALLOW"
+     ],
+     [
+      "NAIVE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CUISINE": [
+    "Rhymes with QUEEN"
+   ],
+   "KEEN": [
+    "Rhymes with QUEEN"
+   ],
+   "GREEN": [
+    "Rhymes with QUEEN"
+   ],
+   "NAIVE": [
+    "Words from French"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Scots words",
+    "tiles": [
+     [
+      "KIRK",
+      "⛪"
+     ],
+     [
+      "LOCH"
+     ],
+     [
+      "BAIRN",
+      "👶"
+     ],
+     [
+      "WEE"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning small",
+    "tiles": [
+     [
+      "TINY"
+     ],
+     [
+      "DINKY"
+     ],
+     [
+      "MINI"
+     ],
+     [
+      "COMPACT"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning thin",
+    "tiles": [
+     [
+      "SLIGHT"
+     ],
+     [
+      "SLIM"
+     ],
+     [
+      "LEAN"
+     ],
+     [
+      "LANKY"
+     ]
+    ]
+   },
+   {
+    "link": "Rhymes with QUILT",
+    "tiles": [
+     [
+      "KILT"
+     ],
+     [
+      "GUILT"
+     ],
+     [
+      "WILT",
+      "🥀"
+     ],
+     [
+      "STILT"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "WEE": [
+    "Words meaning small"
+   ],
+   "SLIGHT": [
+    "Words meaning small"
+   ],
+   "SLIM": [
+    "Words meaning small"
+   ],
+   "KILT": [
+    "Scots words"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "British accents",
+    "tiles": [
+     [
+      "SCOUSE"
+     ],
+     [
+      "GEORDIE"
+     ],
+     [
+      "BRUMMIE"
+     ],
+     [
+      "ESTUARY"
+     ]
+    ]
+   },
+   {
+    "link": "River ___",
+    "note": "Riverbed, river mouth, Riverdance, riverside",
+    "tiles": [
+     [
+      "BED",
+      "🛏️"
+     ],
+     [
+      "MOUTH",
+      "👄"
+     ],
+     [
+      "DANCE",
+      "💃"
+     ],
+     [
+      "SIDE"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning cheek",
+    "tiles": [
+     [
+      "LIP"
+     ],
+     [
+      "NERVE"
+     ],
+     [
+      "NECK"
+     ],
+     [
+      "SAUCE"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning rely on",
+    "tiles": [
+     [
+      "BANK",
+      "🏦"
+     ],
+     [
+      "COUNT"
+     ],
+     [
+      "DEPEND"
+     ],
+     [
+      "TRUST"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ESTUARY": [
+    "River ___"
+   ],
+   "BANK": [
+    "River ___"
+   ],
+   "MOUTH": [
+    "Words meaning cheek"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Languages",
+    "tiles": [
+     [
+      "POLISH",
+      "💅"
+     ],
+     [
+      "MANDARIN",
+      "🍊"
+     ],
+     [
+      "DANISH"
+     ],
+     [
+      "FINNISH"
+     ]
+    ]
+   },
+   {
+    "link": "Ways to clean",
+    "tiles": [
+     [
+      "WIPE"
+     ],
+     [
+      "SCOUR"
+     ],
+     [
+      "RINSE"
+     ],
+     [
+      "DUST"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding a RUB",
+    "note": "scRUB, shRUB, cheRUB, RUBble",
+    "tiles": [
+     [
+      "SCRUB"
+     ],
+     [
+      "SHRUB"
+     ],
+     [
+      "CHERUB",
+      "👼"
+     ],
+     [
+      "RUBBLE"
+     ]
+    ]
+   },
+   {
+    "link": "Words for a bigwig",
+    "tiles": [
+     [
+      "BIGWIG"
+     ],
+     [
+      "NOB"
+     ],
+     [
+      "MOGUL"
+     ],
+     [
+      "BARON"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "POLISH": [
+    "Ways to clean"
+   ],
+   "SCRUB": [
+    "Ways to clean"
+   ],
+   "MANDARIN": [
+    "Words for a bigwig"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Question words",
+    "tiles": [
+     [
+      "WHO"
+     ],
+     [
+      "WHAT"
+     ],
+     [
+      "WHY"
+     ],
+     [
+      "HOW"
+     ]
+    ]
+   },
+   {
+    "link": "Prepositions",
+    "tiles": [
+     [
+      "BY"
+     ],
+     [
+      "UNDER"
+     ],
+     [
+      "BEHIND"
+     ],
+     [
+      "AGAINST"
+     ]
+    ]
+   },
+   {
+    "link": "Rhymes with RYE",
+    "tiles": [
+     [
+      "PIE",
+      "🥧"
+     ],
+     [
+      "THIGH",
+      "🦵"
+     ],
+     [
+      "SIGH"
+     ],
+     [
+      "TIE",
+      "👔"
+     ]
+    ]
+   },
+   {
+    "link": "Exclamations of surprise",
+    "tiles": [
+     [
+      "GOSH"
+     ],
+     [
+      "BLIMEY"
+     ],
+     [
+      "CRIKEY"
+     ],
+     [
+      "MY"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "WHY": [
+    "Rhymes with RYE",
+    "Exclamations of surprise"
+   ],
+   "BY": [
+    "Rhymes with RYE"
+   ],
+   "MY": [
+    "Rhymes with RYE"
+   ],
+   "WHAT": [
+    "Exclamations of surprise"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Accent marks",
+    "tiles": [
+     [
+      "ACUTE"
+     ],
+     [
+      "GRAVE",
+      "🪦"
+     ],
+     [
+      "UMLAUT"
+     ],
+     [
+      "CEDILLA"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning serious",
+    "tiles": [
+     [
+      "SOLEMN"
+     ],
+     [
+      "SOMBRE"
+     ],
+     [
+      "STERN"
+     ],
+     [
+      "SOBER"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning clever",
+    "tiles": [
+     [
+      "ASTUTE"
+     ],
+     [
+      "CANNY"
+     ],
+     [
+      "SMART",
+      "🤓"
+     ],
+     [
+      "BRIGHT",
+      "💡"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding a RIG",
+    "note": "fRIGht, bRIGade, oRIGin, fRIGate",
+    "tiles": [
+     [
+      "FRIGHT"
+     ],
+     [
+      "BRIGADE"
+     ],
+     [
+      "ORIGIN"
+     ],
+     [
+      "FRIGATE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "GRAVE": [
+    "Words meaning serious"
+   ],
+   "ACUTE": [
+    "Words meaning serious",
+    "Words meaning clever"
+   ],
+   "BRIGHT": [
+    "Words hiding a RIG"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Parts of speech",
+    "tiles": [
+     [
+      "NOUN"
+     ],
+     [
+      "VERB"
+     ],
+     [
+      "ADVERB"
+     ],
+     [
+      "PRONOUN"
+     ]
+    ]
+   },
+   {
+    "link": "Figures of speech",
+    "tiles": [
+     [
+      "SIMILE"
+     ],
+     [
+      "METAPHOR"
+     ],
+     [
+      "IRONY"
+     ],
+     [
+      "PUN"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding RON",
+    "note": "bRONze, thRONe, apRON, saffRON",
+    "tiles": [
+     [
+      "BRONZE",
+      "🥉"
+     ],
+     [
+      "THRONE"
+     ],
+     [
+      "APRON"
+     ],
+     [
+      "SAFFRON"
+     ]
+    ]
+   },
+   {
+    "link": "Words from Arabic",
+    "tiles": [
+     [
+      "SOFA",
+      "🛋️"
+     ],
+     [
+      "LEMON",
+      "🍋"
+     ],
+     [
+      "GIRAFFE",
+      "🦒"
+     ],
+     [
+      "ALGEBRA"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PRONOUN": [
+    "Words hiding RON"
+   ],
+   "IRONY": [
+    "Words hiding RON"
+   ],
+   "SAFFRON": [
+    "Words from Arabic"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Reference books",
+    "tiles": [
+     [
+      "ATLAS",
+      "🗺️"
+     ],
+     [
+      "THESAURUS"
+     ],
+     [
+      "ALMANAC"
+     ],
+     [
+      "DIRECTORY"
+     ]
+    ]
+   },
+   {
+    "link": "Road ___",
+    "note": "Roadworks, road rage, road hog, road sign",
+    "tiles": [
+     [
+      "WORKS"
+     ],
+     [
+      "RAGE"
+     ],
+     [
+      "HOG",
+      "🐗"
+     ],
+     [
+      "SIGN"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning anger",
+    "tiles": [
+     [
+      "FURY"
+     ],
+     [
+      "WRATH"
+     ],
+     [
+      "IRE"
+     ],
+     [
+      "TEMPER"
+     ]
+    ]
+   },
+   {
+    "link": "Things you do to a letter",
+    "tiles": [
+     [
+      "POST",
+      "📮"
+     ],
+     [
+      "ADDRESS"
+     ],
+     [
+      "FRANK"
+     ],
+     [
+      "FOLD"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ATLAS": [
+    "Road ___"
+   ],
+   "RAGE": [
+    "Words meaning anger"
+   ],
+   "SIGN": [
+    "Things you do to a letter"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Words meaning get smaller",
+    "tiles": [
+     [
+      "DWINDLE"
+     ],
+     [
+      "WANE",
+      "🌘"
+     ],
+     [
+      "EBB"
+     ],
+     [
+      "LESSEN"
+     ]
+    ]
+   },
+   {
+    "link": "Typography terms",
+    "tiles": [
+     [
+      "WIDOW"
+     ],
+     [
+      "ORPHAN"
+     ],
+     [
+      "GUTTER"
+     ],
+     [
+      "MARGIN"
+     ]
+    ]
+   },
+   {
+    "link": "Words meaning edge",
+    "tiles": [
+     [
+      "BRINK"
+     ],
+     [
+      "BORDER"
+     ],
+     [
+      "VERGE"
+     ],
+     [
+      "FRINGE",
+      "💇"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding a RINK",
+    "note": "dRINK, shRINK, wRINKle, tRINKet",
+    "tiles": [
+     [
+      "DRINK",
+      "🍹"
+     ],
+     [
+      "SHRINK"
+     ],
+     [
+      "WRINKLE"
+     ],
+     [
+      "TRINKET"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MARGIN": [
+    "Words meaning edge"
+   ],
+   "BRINK": [
+    "Words hiding a RINK"
+   ],
+   "SHRINK": [
+    "Words meaning get smaller"
+   ]
+  }
+ }
+]
