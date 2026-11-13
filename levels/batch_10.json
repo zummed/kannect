@@ -1,0 +1,2694 @@
+[
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Relatives",
+    "tiles": [
+     [
+      "AUNT"
+     ],
+     [
+      "UNCLE"
+     ],
+     [
+      "NIECE"
+     ],
+     [
+      "COUSIN"
+     ]
+    ]
+   },
+   {
+    "link": "Step ___",
+    "note": "Stepladder, stepson, stepmother, stepbrother",
+    "tiles": [
+     [
+      "LADDER",
+      "🪜"
+     ],
+     [
+      "SON"
+     ],
+     [
+      "MOTHER"
+     ],
+     [
+      "BROTHER"
+     ]
+    ]
+   },
+   {
+    "link": "Hospital staff",
+    "tiles": [
+     [
+      "NURSE",
+      "👩‍⚕️"
+     ],
+     [
+      "SISTER"
+     ],
+     [
+      "SURGEON"
+     ],
+     [
+      "MATRON"
+     ]
+    ]
+   },
+   {
+    "link": "Railway jobs",
+    "tiles": [
+     [
+      "GUARD",
+      "💂"
+     ],
+     [
+      "DRIVER"
+     ],
+     [
+      "SIGNALMAN"
+     ],
+     [
+      "PORTER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SON": [
+    "Relatives"
+   ],
+   "MOTHER": [
+    "Relatives"
+   ],
+   "BROTHER": [
+    "Relatives"
+   ],
+   "SISTER": [
+    "Relatives",
+    "Step ___"
+   ],
+   "PORTER": [
+    "Hospital staff"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Army ranks",
+    "tiles": [
+     [
+      "CORPORAL"
+     ],
+     [
+      "COLONEL"
+     ],
+     [
+      "BRIGADIER"
+     ],
+     [
+      "PRIVATE"
+     ]
+    ]
+   },
+   {
+    "link": "Prime ministers",
+    "tiles": [
+     [
+      "MAJOR"
+     ],
+     [
+      "HEATH"
+     ],
+     [
+      "BROWN",
+      "🟤"
+     ],
+     [
+      "BLAIR"
+     ]
+    ]
+   },
+   {
+    "link": "___ secretary",
+    "note": "Foreign, press, social, company secretary",
+    "tiles": [
+     [
+      "FOREIGN"
+     ],
+     [
+      "PRESS",
+      "📰"
+     ],
+     [
+      "SOCIAL"
+     ],
+     [
+      "COMPANY",
+      "🏢"
+     ]
+    ]
+   },
+   {
+    "link": "Army units",
+    "tiles": [
+     [
+      "PLATOON"
+     ],
+     [
+      "SQUAD"
+     ],
+     [
+      "REGIMENT"
+     ],
+     [
+      "BATTALION"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MAJOR": [
+    "Army ranks"
+   ],
+   "PRIVATE": [
+    "___ secretary"
+   ],
+   "COMPANY": [
+    "Army units"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Ranks of the peerage",
+    "tiles": [
+     [
+      "DUKE"
+     ],
+     [
+      "EARL"
+     ],
+     [
+      "BARON"
+     ],
+     [
+      "MARQUESS"
+     ]
+    ]
+   },
+   {
+    "link": "Silent S",
+    "note": "viScount, iSland, debriS, corpS",
+    "tiles": [
+     [
+      "VISCOUNT"
+     ],
+     [
+      "ISLAND",
+      "🏝️"
+     ],
+     [
+      "DEBRIS"
+     ],
+     [
+      "CORPS"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a church",
+    "tiles": [
+     [
+      "NAVE"
+     ],
+     [
+      "ALTAR"
+     ],
+     [
+      "TOWER",
+      "🗼"
+     ],
+     [
+      "AISLE"
+     ]
+    ]
+   },
+   {
+    "link": "Military formations",
+    "tiles": [
+     [
+      "SQUADRON"
+     ],
+     [
+      "BRIGADE"
+     ],
+     [
+      "FLOTILLA"
+     ],
+     [
+      "FLIGHT",
+      "✈️"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "VISCOUNT": [
+    "Ranks of the peerage"
+   ],
+   "AISLE": [
+    "Silent S"
+   ],
+   "CORPS": [
+    "Military formations"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Comes in the post",
+    "tiles": [
+     [
+      "PARCEL",
+      "📦"
+     ],
+     [
+      "POSTCARD"
+     ],
+     [
+      "PACKET"
+     ],
+     [
+      "BILL"
+     ]
+    ]
+   },
+   {
+    "link": "Anagrams of SPOT",
+    "tiles": [
+     [
+      "POST"
+     ],
+     [
+      "STOP",
+      "🛑"
+     ],
+     [
+      "TOPS"
+     ],
+     [
+      "OPTS"
+     ]
+    ]
+   },
+   {
+    "link": "Newspaper sections",
+    "tiles": [
+     [
+      "SPORT"
+     ],
+     [
+      "LETTERS"
+     ],
+     [
+      "TRAVEL"
+     ],
+     [
+      "WEATHER",
+      "🌦️"
+     ]
+    ]
+   },
+   {
+    "link": "In Parliament",
+    "tiles": [
+     [
+      "SPEAKER",
+      "🔊"
+     ],
+     [
+      "WHIP"
+     ],
+     [
+      "MOTION"
+     ],
+     [
+      "DIVISION"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LETTERS": [
+    "Comes in the post"
+   ],
+   "BILL": [
+    "In Parliament"
+   ],
+   "POST": [
+    "Comes in the post"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "US presidents",
+    "tiles": [
+     [
+      "FORD"
+     ],
+     [
+      "BUSH"
+     ],
+     [
+      "NIXON"
+     ],
+     [
+      "GRANT"
+     ]
+    ]
+   },
+   {
+    "link": "Old occupations",
+    "tiles": [
+     [
+      "COOPER"
+     ],
+     [
+      "FLETCHER"
+     ],
+     [
+      "CARTER"
+     ],
+     [
+      "ARCHER",
+      "🏹"
+     ]
+    ]
+   },
+   {
+    "link": "20th-century PMs",
+    "tiles": [
+     [
+      "THATCHER"
+     ],
+     [
+      "BALDWIN"
+     ],
+     [
+      "ATTLEE"
+     ],
+     [
+      "WILSON"
+     ]
+    ]
+   },
+   {
+    "link": "Words ending in SON",
+    "note": "maSON, perSON, biSON, priSON",
+    "tiles": [
+     [
+      "MASON"
+     ],
+     [
+      "PERSON",
+      "🧍"
+     ],
+     [
+      "BISON",
+      "🦬"
+     ],
+     [
+      "PRISON"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CARTER": [
+    "US presidents"
+   ],
+   "WILSON": [
+    "US presidents",
+    "Words ending in SON"
+   ],
+   "THATCHER": [
+    "Old occupations"
+   ],
+   "MASON": [
+    "Old occupations"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Clergy",
+    "tiles": [
+     [
+      "VICAR"
+     ],
+     [
+      "CURATE"
+     ],
+     [
+      "DEAN"
+     ],
+     [
+      "RECTOR"
+     ]
+    ]
+   },
+   {
+    "link": "Slang for money",
+    "tiles": [
+     [
+      "BREAD",
+      "🍞"
+     ],
+     [
+      "DOUGH"
+     ],
+     [
+      "LOLLY"
+     ],
+     [
+      "BRASS"
+     ]
+    ]
+   },
+   {
+    "link": "Sweet ___",
+    "note": "Sweetcorn, sweet pea, sweet tooth, sweet potato",
+    "tiles": [
+     [
+      "CORN",
+      "🌽"
+     ],
+     [
+      "PEA"
+     ],
+     [
+      "TOOTH",
+      "🦷"
+     ],
+     [
+      "POTATO",
+      "🥔"
+     ]
+    ]
+   },
+   {
+    "link": "University posts",
+    "tiles": [
+     [
+      "DON"
+     ],
+     [
+      "FELLOW"
+     ],
+     [
+      "TUTOR"
+     ],
+     [
+      "BURSAR"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "DEAN": [
+    "University posts"
+   ],
+   "RECTOR": [
+    "University posts"
+   ],
+   "BREAD": [
+    "Sweet ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Slang for prison",
+    "tiles": [
+     [
+      "CLINK"
+     ],
+     [
+      "STIR"
+     ],
+     [
+      "SLAMMER"
+     ],
+     [
+      "NICK"
+     ]
+    ]
+   },
+   {
+    "link": "Slang for police",
+    "tiles": [
+     [
+      "BOBBY"
+     ],
+     [
+      "PLOD"
+     ],
+     [
+      "FUZZ"
+     ],
+     [
+      "PEELER"
+     ]
+    ]
+   },
+   {
+    "link": "Cash, informally",
+    "tiles": [
+     [
+      "DOSH"
+     ],
+     [
+      "QUID"
+     ],
+     [
+      "WONGA"
+     ],
+     [
+      "MOOLAH"
+     ]
+    ]
+   },
+   {
+    "link": "___ smith",
+    "note": "Locksmith, tinsmith, silversmith, coppersmith",
+    "tiles": [
+     [
+      "LOCK",
+      "🔒"
+     ],
+     [
+      "TIN",
+      "🥫"
+     ],
+     [
+      "SILVER",
+      "🥈"
+     ],
+     [
+      "COPPER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "COPPER": [
+    "Slang for police",
+    "Cash, informally"
+   ],
+   "SILVER": [
+    "Cash, informally"
+   ],
+   "TIN": [
+    "Cash, informally"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Royal houses",
+    "tiles": [
+     [
+      "TUDOR"
+     ],
+     [
+      "STUART"
+     ],
+     [
+      "HANOVER"
+     ],
+     [
+      "ORANGE",
+      "🍊"
+     ]
+    ]
+   },
+   {
+    "link": "Royal dukedoms",
+    "tiles": [
+     [
+      "YORK"
+     ],
+     [
+      "SUSSEX"
+     ],
+     [
+      "CAMBRIDGE"
+     ],
+     [
+      "CORNWALL"
+     ]
+    ]
+   },
+   {
+    "link": "___ sauce",
+    "note": "Soy, mint, chilli, Worcester sauce",
+    "tiles": [
+     [
+      "SOY"
+     ],
+     [
+      "MINT",
+      "🌿"
+     ],
+     [
+      "CHILLI",
+      "🌶️"
+     ],
+     [
+      "WORCESTER"
+     ]
+    ]
+   },
+   {
+    "link": "UK universities",
+    "tiles": [
+     [
+      "DURHAM"
+     ],
+     [
+      "EXETER"
+     ],
+     [
+      "WARWICK"
+     ],
+     [
+      "KEELE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "YORK": [
+    "Royal houses",
+    "UK universities"
+   ],
+   "SUSSEX": [
+    "UK universities"
+   ],
+   "CAMBRIDGE": [
+    "UK universities"
+   ],
+   "ORANGE": [
+    "___ sauce"
+   ],
+   "WORCESTER": [
+    "UK universities"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "School subjects",
+    "tiles": [
+     [
+      "MATHS"
+     ],
+     [
+      "HISTORY"
+     ],
+     [
+      "ART",
+      "🎨"
+     ],
+     [
+      "DRAMA"
+     ]
+    ]
+   },
+   {
+    "link": "In a pencil case",
+    "tiles": [
+     [
+      "RULER",
+      "📏"
+     ],
+     [
+      "RUBBER"
+     ],
+     [
+      "COMPASS",
+      "🧭"
+     ],
+     [
+      "SHARPENER"
+     ]
+    ]
+   },
+   {
+    "link": "___ school",
+    "note": "High, grammar, Sunday, night school",
+    "tiles": [
+     [
+      "HIGH"
+     ],
+     [
+      "GRAMMAR"
+     ],
+     [
+      "SUNDAY"
+     ],
+     [
+      "NIGHT",
+      "🌃"
+     ]
+    ]
+   },
+   {
+    "link": "Exam words",
+    "tiles": [
+     [
+      "MOCK"
+     ],
+     [
+      "RESIT"
+     ],
+     [
+      "GRADE"
+     ],
+     [
+      "PAPER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ART": [
+    "___ school"
+   ],
+   "DRAMA": [
+    "___ school"
+   ],
+   "PAPER": [
+    "In a pencil case"
+   ],
+   "GRADE": [
+    "___ school"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "High street banks",
+    "tiles": [
+     [
+      "BARCLAYS"
+     ],
+     [
+      "LLOYDS"
+     ],
+     [
+      "HALIFAX"
+     ],
+     [
+      "METRO",
+      "🚇"
+     ]
+    ]
+   },
+   {
+    "link": "Hidden STAR",
+    "note": "muSTARd, cuSTARd, STARve, STARling",
+    "tiles": [
+     [
+      "MUSTARD"
+     ],
+     [
+      "CUSTARD",
+      "🍮"
+     ],
+     [
+      "STARVE"
+     ],
+     [
+      "STARLING"
+     ]
+    ]
+   },
+   {
+    "link": "21st-century PMs",
+    "tiles": [
+     [
+      "STARMER"
+     ],
+     [
+      "CAMERON"
+     ],
+     [
+      "SUNAK"
+     ],
+     [
+      "TRUSS"
+     ]
+    ]
+   },
+   {
+    "link": "Chancellors of the Exchequer",
+    "tiles": [
+     [
+      "OSBORNE"
+     ],
+     [
+      "DARLING"
+     ],
+     [
+      "LAWSON"
+     ],
+     [
+      "BARBER",
+      "💈"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "STARLING": [
+    "High street banks"
+   ],
+   "STARMER": [
+    "Hidden STAR"
+   ],
+   "SUNAK": [
+    "Chancellors of the Exchequer"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Domestic servants",
+    "tiles": [
+     [
+      "BUTLER"
+     ],
+     [
+      "FOOTMAN"
+     ],
+     [
+      "MAID"
+     ],
+     [
+      "PAGE",
+      "📄"
+     ]
+    ]
+   },
+   {
+    "link": "Ship's crew",
+    "tiles": [
+     [
+      "PURSER"
+     ],
+     [
+      "BOSUN"
+     ],
+     [
+      "COOK",
+      "🧑‍🍳"
+     ],
+     [
+      "STEWARD"
+     ]
+    ]
+   },
+   {
+    "link": "Ship ___",
+    "note": "Shipwreck, shipyard, shipshape, shipmate",
+    "tiles": [
+     [
+      "WRECK"
+     ],
+     [
+      "YARD"
+     ],
+     [
+      "SHAPE"
+     ],
+     [
+      "MATE",
+      "🧉"
+     ]
+    ]
+   },
+   {
+    "link": "Warships",
+    "tiles": [
+     [
+      "FRIGATE"
+     ],
+     [
+      "DESTROYER"
+     ],
+     [
+      "CRUISER"
+     ],
+     [
+      "CARRIER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "COOK": [
+    "Domestic servants"
+   ],
+   "STEWARD": [
+    "Domestic servants"
+   ],
+   "MATE": [
+    "Ship's crew"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Newspaper jobs",
+    "tiles": [
+     [
+      "REPORTER"
+     ],
+     [
+      "COLUMNIST"
+     ],
+     [
+      "CRITIC"
+     ],
+     [
+      "HACK"
+     ]
+    ]
+   },
+   {
+    "link": "Sub ___",
+    "note": "Subeditor, subtitle, suburban, subheading",
+    "tiles": [
+     [
+      "EDITOR"
+     ],
+     [
+      "TITLE"
+     ],
+     [
+      "URBAN",
+      "🏙️"
+     ],
+     [
+      "HEADING"
+     ]
+    ]
+   },
+   {
+    "link": "In a newspaper",
+    "tiles": [
+     [
+      "HEADLINE"
+     ],
+     [
+      "CROSSWORD"
+     ],
+     [
+      "CARTOON"
+     ],
+     [
+      "HOROSCOPE"
+     ]
+    ]
+   },
+   {
+    "link": "Popes' names",
+    "tiles": [
+     [
+      "PIUS"
+     ],
+     [
+      "LEO",
+      "🦁"
+     ],
+     [
+      "CLEMENT"
+     ],
+     [
+      "INNOCENT",
+      "😇"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "EDITOR": [
+    "Newspaper jobs"
+   ],
+   "URBAN": [
+    "Popes' names"
+   ],
+   "HEADING": [
+    "In a newspaper"
+   ],
+   "TITLE": [
+    "In a newspaper"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "High street shops",
+    "tiles": [
+     [
+      "BUTCHER"
+     ],
+     [
+      "BAKER"
+     ],
+     [
+      "GROCER"
+     ],
+     [
+      "FLORIST",
+      "💐"
+     ]
+    ]
+   },
+   {
+    "link": "Shop ___",
+    "note": "Shoplifter, shopfront, shop window, shopkeeper",
+    "tiles": [
+     [
+      "LIFTER",
+      "🏋️"
+     ],
+     [
+      "FRONT"
+     ],
+     [
+      "WINDOW",
+      "🪟"
+     ],
+     [
+      "KEEPER"
+     ]
+    ]
+   },
+   {
+    "link": "Scientists",
+    "tiles": [
+     [
+      "CHEMIST"
+     ],
+     [
+      "BOTANIST"
+     ],
+     [
+      "GEOLOGIST"
+     ],
+     [
+      "PHYSICIST"
+     ]
+    ]
+   },
+   {
+    "link": "Surnames from jobs",
+    "tiles": [
+     [
+      "TURNER"
+     ],
+     [
+      "POTTER"
+     ],
+     [
+      "WEAVER"
+     ],
+     [
+      "GLOVER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CHEMIST": [
+    "High street shops"
+   ],
+   "BAKER": [
+    "Surnames from jobs"
+   ],
+   "BUTCHER": [
+    "Surnames from jobs"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Currencies",
+    "tiles": [
+     [
+      "DOLLAR"
+     ],
+     [
+      "EURO"
+     ],
+     [
+      "YEN"
+     ],
+     [
+      "RUPEE"
+     ]
+    ]
+   },
+   {
+    "link": "In a bank",
+    "tiles": [
+     [
+      "COUNTER"
+     ],
+     [
+      "VAULT"
+     ],
+     [
+      "TELLER"
+     ],
+     [
+      "CASHPOINT"
+     ]
+    ]
+   },
+   {
+    "link": "Cockney cash amounts",
+    "note": "Pony £25, monkey £500, score £20, grand £1,000",
+    "tiles": [
+     [
+      "PONY"
+     ],
+     [
+      "MONKEY",
+      "🐒"
+     ],
+     [
+      "SCORE"
+     ],
+     [
+      "GRAND"
+     ]
+    ]
+   },
+   {
+    "link": "___ sign",
+    "note": "Road sign, plus sign, star sign, call sign",
+    "tiles": [
+     [
+      "ROAD",
+      "🛣️"
+     ],
+     [
+      "PLUS"
+     ],
+     [
+      "STAR",
+      "⭐"
+     ],
+     [
+      "CALL"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "DOLLAR": [
+    "___ sign"
+   ],
+   "EURO": [
+    "___ sign"
+   ],
+   "YEN": [
+    "___ sign"
+   ],
+   "COUNTER": [
+    "___ sign"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "On Bank of England notes",
+    "tiles": [
+     [
+      "DARWIN"
+     ],
+     [
+      "AUSTEN"
+     ],
+     [
+      "TURING"
+     ],
+     [
+      "CHURCHILL"
+     ]
+    ]
+   },
+   {
+    "link": "Stephen ___",
+    "note": "Stephen Fry, King, Hawking, Hendry",
+    "tiles": [
+     [
+      "FRY",
+      "🍳"
+     ],
+     [
+      "KING",
+      "👑"
+     ],
+     [
+      "HAWKING"
+     ],
+     [
+      "HENDRY"
+     ]
+    ]
+   },
+   {
+    "link": "Wives of Henry VIII",
+    "tiles": [
+     [
+      "BOLEYN"
+     ],
+     [
+      "SEYMOUR"
+     ],
+     [
+      "PARR"
+     ],
+     [
+      "CLEVES"
+     ]
+    ]
+   },
+   {
+    "link": "Leaders of the Opposition",
+    "tiles": [
+     [
+      "HAGUE"
+     ],
+     [
+      "FOOT",
+      "🦶"
+     ],
+     [
+      "CORBYN"
+     ],
+     [
+      "HOWARD"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "FRY": [
+    "On Bank of England notes"
+   ],
+   "HOWARD": [
+    "Wives of Henry VIII"
+   ],
+   "CHURCHILL": [
+    "Leaders of the Opposition"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Hospital departments",
+    "tiles": [
+     [
+      "CASUALTY"
+     ],
+     [
+      "MATERNITY"
+     ],
+     [
+      "PHARMACY"
+     ],
+     [
+      "RADIOLOGY"
+     ]
+    ]
+   },
+   {
+    "link": "Sick ___",
+    "note": "Sickbay, sickbed, sick note, sick leave",
+    "tiles": [
+     [
+      "BAY"
+     ],
+     [
+      "BED",
+      "🛏️"
+     ],
+     [
+      "NOTE",
+      "🎵"
+     ],
+     [
+      "LEAVE"
+     ]
+    ]
+   },
+   {
+    "link": "In an employment contract",
+    "tiles": [
+     [
+      "SALARY"
+     ],
+     [
+      "PENSION"
+     ],
+     [
+      "BONUS"
+     ],
+     [
+      "HOLIDAY"
+     ]
+    ]
+   },
+   {
+    "link": "On a hospital ward",
+    "tiles": [
+     [
+      "DRIP"
+     ],
+     [
+      "CHART",
+      "📊"
+     ],
+     [
+      "SCREEN"
+     ],
+     [
+      "MONITOR",
+      "🖥️"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BAY": [
+    "On a hospital ward"
+   ],
+   "BED": [
+    "On a hospital ward"
+   ],
+   "LEAVE": [
+    "In an employment contract"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Court people",
+    "tiles": [
+     [
+      "JUDGE",
+      "🧑‍⚖️"
+     ],
+     [
+      "JURY"
+     ],
+     [
+      "USHER"
+     ],
+     [
+      "CLERK"
+     ]
+    ]
+   },
+   {
+    "link": "Hidden SHE",
+    "note": "caSHEw, buSHEl, SHEep, SHEll",
+    "tiles": [
+     [
+      "CASHEW"
+     ],
+     [
+      "BUSHEL"
+     ],
+     [
+      "SHEEP",
+      "🐑"
+     ],
+     [
+      "SHELL",
+      "🐚"
+     ]
+    ]
+   },
+   {
+    "link": "Legal documents",
+    "tiles": [
+     [
+      "WILL"
+     ],
+     [
+      "DEED"
+     ],
+     [
+      "WRIT"
+     ],
+     [
+      "BRIEF"
+     ]
+    ]
+   },
+   {
+    "link": "A barrister's world",
+    "tiles": [
+     [
+      "SILK"
+     ],
+     [
+      "WIG"
+     ],
+     [
+      "GOWN"
+     ],
+     [
+      "CHAMBERS"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "USHER": [
+    "Hidden SHE"
+   ],
+   "BRIEF": [
+    "A barrister's world"
+   ],
+   "CLERK": [
+    "A barrister's world"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Rulers' titles",
+    "tiles": [
+     [
+      "EMPEROR"
+     ],
+     [
+      "SULTAN"
+     ],
+     [
+      "KAISER"
+     ],
+     [
+      "RAJAH"
+     ]
+    ]
+   },
+   {
+    "link": "Anagrams of STAR",
+    "tiles": [
+     [
+      "TSAR"
+     ],
+     [
+      "RATS",
+      "🐀"
+     ],
+     [
+      "ARTS"
+     ],
+     [
+      "TARS"
+     ]
+    ]
+   },
+   {
+    "link": "University faculties",
+    "tiles": [
+     [
+      "LAW"
+     ],
+     [
+      "MEDICINE",
+      "💊"
+     ],
+     [
+      "SCIENCE",
+      "🔬"
+     ],
+     [
+      "DIVINITY"
+     ]
+    ]
+   },
+   {
+    "link": "18th and 19th-century PMs",
+    "tiles": [
+     [
+      "PITT"
+     ],
+     [
+      "PEEL"
+     ],
+     [
+      "NORTH",
+      "🧭"
+     ],
+     [
+      "GREY"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TSAR": [
+    "Rulers' titles"
+   ],
+   "ARTS": [
+    "University faculties"
+   ],
+   "LAW": [
+    "18th and 19th-century PMs"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "State occasions",
+    "tiles": [
+     [
+      "WEDDING"
+     ],
+     [
+      "JUBILEE"
+     ],
+     [
+      "BANQUET"
+     ],
+     [
+      "FUNERAL",
+      "⚰️"
+     ]
+    ]
+   },
+   {
+    "link": "___ Street",
+    "note": "Downing, Fleet, Wall, Bow Street",
+    "tiles": [
+     [
+      "DOWNING"
+     ],
+     [
+      "FLEET"
+     ],
+     [
+      "WALL",
+      "🧱"
+     ],
+     [
+      "BOW",
+      "🎀"
+     ]
+    ]
+   },
+   {
+    "link": "Royal roles",
+    "tiles": [
+     [
+      "MONARCH"
+     ],
+     [
+      "REGENT"
+     ],
+     [
+      "CONSORT"
+     ],
+     [
+      "QUEEN"
+     ]
+    ]
+   },
+   {
+    "link": "Investments",
+    "tiles": [
+     [
+      "SHARE"
+     ],
+     [
+      "STOCK"
+     ],
+     [
+      "GILT"
+     ],
+     [
+      "BOND"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "QUEEN": [
+    "___ Street"
+   ],
+   "REGENT": [
+    "___ Street"
+   ],
+   "BOND": [
+    "___ Street"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "In the family",
+    "tiles": [
+     [
+      "DADDY"
+     ],
+     [
+      "BABY",
+      "👶"
+     ],
+     [
+      "TWIN",
+      "👯"
+     ],
+     [
+      "GRANNY",
+      "👵"
+     ]
+    ]
+   },
+   {
+    "link": "Sugar ___",
+    "note": "Sugar lump, sugar beet, sugar cube, sugarloaf",
+    "tiles": [
+     [
+      "LUMP"
+     ],
+     [
+      "BEET"
+     ],
+     [
+      "CUBE",
+      "🧊"
+     ],
+     [
+      "LOAF"
+     ]
+    ]
+   },
+   {
+    "link": "Old school punishments",
+    "tiles": [
+     [
+      "CANE"
+     ],
+     [
+      "LINES"
+     ],
+     [
+      "DETENTION"
+     ],
+     [
+      "SLIPPER"
+     ]
+    ]
+   },
+   {
+    "link": "Royal jubilees",
+    "tiles": [
+     [
+      "GOLDEN"
+     ],
+     [
+      "RUBY"
+     ],
+     [
+      "PLATINUM"
+     ],
+     [
+      "SAPPHIRE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "DADDY": [
+    "Sugar ___"
+   ],
+   "BABY": [
+    "Sugar ___"
+   ],
+   "CANE": [
+    "Sugar ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Types of soldier",
+    "tiles": [
+     [
+      "GUNNER"
+     ],
+     [
+      "SAPPER"
+     ],
+     [
+      "TROOPER"
+     ],
+     [
+      "FUSILIER"
+     ]
+    ]
+   },
+   {
+    "link": "Sand ___",
+    "note": "Sandcastle, sandpit, sandstorm, sandbag",
+    "tiles": [
+     [
+      "CASTLE",
+      "🏰"
+     ],
+     [
+      "PIT"
+     ],
+     [
+      "STORM"
+     ],
+     [
+      "BAG",
+      "👜"
+     ]
+    ]
+   },
+   {
+    "link": "In the Commons chamber",
+    "tiles": [
+     [
+      "LOBBY"
+     ],
+     [
+      "CHAIR",
+      "🪑"
+     ],
+     [
+      "TABLE"
+     ],
+     [
+      "GANGWAY"
+     ]
+    ]
+   },
+   {
+    "link": "In a courtroom",
+    "tiles": [
+     [
+      "DOCK"
+     ],
+     [
+      "BENCH"
+     ],
+     [
+      "BAR"
+     ],
+     [
+      "BOX",
+      "📦"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BENCH": [
+    "In the Commons chamber"
+   ],
+   "BAR": [
+    "Sand ___",
+    "In the Commons chamber"
+   ],
+   "BOX": [
+    "Sand ___",
+    "In the Commons chamber"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Stationery",
+    "tiles": [
+     [
+      "STAPLER"
+     ],
+     [
+      "FOLDER"
+     ],
+     [
+      "LABEL",
+      "🏷️"
+     ],
+     [
+      "TAPE",
+      "📼"
+     ]
+    ]
+   },
+   {
+    "link": "Office machines",
+    "tiles": [
+     [
+      "PRINTER",
+      "🖨️"
+     ],
+     [
+      "COPIER"
+     ],
+     [
+      "SHREDDER"
+     ],
+     [
+      "SCANNER"
+     ]
+    ]
+   },
+   {
+    "link": "Sticky ___",
+    "note": "Sticky bun, sticky wicket, sticky toffee, sticky fingers",
+    "tiles": [
+     [
+      "BUN"
+     ],
+     [
+      "WICKET"
+     ],
+     [
+      "TOFFEE"
+     ],
+     [
+      "FINGERS"
+     ]
+    ]
+   },
+   {
+    "link": "Building trades",
+    "tiles": [
+     [
+      "PLUMBER"
+     ],
+     [
+      "JOINER"
+     ],
+     [
+      "GLAZIER"
+     ],
+     [
+      "ROOFER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TAPE": [
+    "Sticky ___"
+   ],
+   "LABEL": [
+    "Sticky ___"
+   ],
+   "PRINTER": [
+    "Building trades"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Oxbridge colleges",
+    "tiles": [
+     [
+      "BALLIOL"
+     ],
+     [
+      "MAGDALEN"
+     ],
+     [
+      "KEBLE"
+     ],
+     [
+      "GIRTON"
+     ]
+    ]
+   },
+   {
+    "link": "Oxbridge term names",
+    "note": "Hilary and Trinity at Oxford, Lent and Easter at Cambridge",
+    "tiles": [
+     [
+      "HILARY"
+     ],
+     [
+      "TRINITY"
+     ],
+     [
+      "LENT"
+     ],
+     [
+      "EASTER"
+     ]
+    ]
+   },
+   {
+    "link": "___ Sunday",
+    "note": "Palm, Whit, Super, Bloody Sunday",
+    "tiles": [
+     [
+      "PALM",
+      "🌴"
+     ],
+     [
+      "WHIT"
+     ],
+     [
+      "SUPER",
+      "🦸"
+     ],
+     [
+      "BLOODY",
+      "🩸"
+     ]
+    ]
+   },
+   {
+    "link": "Church calendar",
+    "tiles": [
+     [
+      "ADVENT"
+     ],
+     [
+      "EPIPHANY"
+     ],
+     [
+      "PENTECOST"
+     ],
+     [
+      "CANDLEMAS"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TRINITY": [
+    "Oxbridge colleges",
+    "___ Sunday",
+    "Church calendar"
+   ],
+   "EASTER": [
+    "___ Sunday",
+    "Church calendar"
+   ],
+   "LENT": [
+    "Church calendar"
+   ],
+   "ADVENT": [
+    "___ Sunday"
+   ],
+   "PENTECOST": [
+    "___ Sunday"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Public schools",
+    "tiles": [
+     [
+      "ETON"
+     ],
+     [
+      "HARROW"
+     ],
+     [
+      "RUGBY"
+     ],
+     [
+      "STOWE"
+     ]
+    ]
+   },
+   {
+    "link": "___ shirt",
+    "note": "Sweatshirt, dress shirt, stuffed shirt, hair shirt",
+    "tiles": [
+     [
+      "SWEAT",
+      "💦"
+     ],
+     [
+      "DRESS",
+      "👗"
+     ],
+     [
+      "STUFFED"
+     ],
+     [
+      "HAIR"
+     ]
+    ]
+   },
+   {
+    "link": "School life",
+    "tiles": [
+     [
+      "REGISTER"
+     ],
+     [
+      "ASSEMBLY"
+     ],
+     [
+      "HOUSE",
+      "🏠"
+     ],
+     [
+      "PREFECT"
+     ]
+    ]
+   },
+   {
+    "link": "Legislatures",
+    "tiles": [
+     [
+      "SENATE"
+     ],
+     [
+      "CONGRESS"
+     ],
+     [
+      "DIET",
+      "🥗"
+     ],
+     [
+      "KNESSET"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "RUGBY": [
+    "___ shirt"
+   ],
+   "ASSEMBLY": [
+    "Legislatures"
+   ],
+   "HOUSE": [
+    "Legislatures"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Add S at the front",
+    "note": "Shop, sale, store, stall",
+    "tiles": [
+     [
+      "HOP"
+     ],
+     [
+      "ALE"
+     ],
+     [
+      "TORE"
+     ],
+     [
+      "TALL"
+     ]
+    ]
+   },
+   {
+    "link": "Paying in a shop",
+    "tiles": [
+     [
+      "TILL"
+     ],
+     [
+      "PIN",
+      "📌"
+     ],
+     [
+      "RECEIPT",
+      "🧾"
+     ],
+     [
+      "CHANGE"
+     ]
+    ]
+   },
+   {
+    "link": "Places to shop",
+    "tiles": [
+     [
+      "MALL"
+     ],
+     [
+      "MART"
+     ],
+     [
+      "ARCADE"
+     ],
+     [
+      "BAZAAR"
+     ]
+    ]
+   },
+   {
+    "link": "Defunct high street names",
+    "tiles": [
+     [
+      "COMET",
+      "☄️"
+     ],
+     [
+      "DIXONS"
+     ],
+     [
+      "TANDY"
+     ],
+     [
+      "WILKO"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TILL": [
+    "Add S at the front"
+   ],
+   "PIN": [
+    "Add S at the front"
+   ],
+   "MALL": [
+    "Add S at the front"
+   ],
+   "MART": [
+    "Add S at the front"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Crimes",
+    "tiles": [
+     [
+      "ARSON"
+     ],
+     [
+      "FRAUD"
+     ],
+     [
+      "THEFT"
+     ],
+     [
+      "PERJURY"
+     ]
+    ]
+   },
+   {
+    "link": "Court sentences",
+    "tiles": [
+     [
+      "FINE",
+      "👌"
+     ],
+     [
+      "CUSTODY"
+     ],
+     [
+      "CAUTION",
+      "⚠️"
+     ],
+     [
+      "CURFEW"
+     ]
+    ]
+   },
+   {
+    "link": "___ service",
+    "note": "Civil, secret, military, community service",
+    "tiles": [
+     [
+      "CIVIL"
+     ],
+     [
+      "SECRET",
+      "🤫"
+     ],
+     [
+      "MILITARY"
+     ],
+     [
+      "COMMUNITY"
+     ]
+    ]
+   },
+   {
+    "link": "Branches of law",
+    "tiles": [
+     [
+      "CRIMINAL"
+     ],
+     [
+      "COMMON"
+     ],
+     [
+      "CONTRACT"
+     ],
+     [
+      "TORT"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "COMMUNITY": [
+    "Court sentences"
+   ],
+   "CIVIL": [
+    "Branches of law"
+   ],
+   "MILITARY": [
+    "Branches of law"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "In the police",
+    "tiles": [
+     [
+      "CONSTABLE"
+     ],
+     [
+      "SERGEANT"
+     ],
+     [
+      "INSPECTOR"
+     ],
+     [
+      "DETECTIVE",
+      "🕵️"
+     ]
+    ]
+   },
+   {
+    "link": "Special ___",
+    "note": "Special Branch, special offer, special effects, special delivery",
+    "tiles": [
+     [
+      "BRANCH"
+     ],
+     [
+      "OFFER"
+     ],
+     [
+      "EFFECTS"
+     ],
+     [
+      "DELIVERY"
+     ]
+    ]
+   },
+   {
+    "link": "Postal words",
+    "tiles": [
+     [
+      "STAMP"
+     ],
+     [
+      "ENVELOPE",
+      "✉️"
+     ],
+     [
+      "POSTMARK"
+     ],
+     [
+      "ADDRESS"
+     ]
+    ]
+   },
+   {
+    "link": "Royal Navy ranks",
+    "tiles": [
+     [
+      "ADMIRAL"
+     ],
+     [
+      "COMMODORE"
+     ],
+     [
+      "CAPTAIN",
+      "🧑‍✈️"
+     ],
+     [
+      "COMMANDER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CONSTABLE": [
+    "Special ___"
+   ],
+   "DELIVERY": [
+    "Postal words"
+   ],
+   "COMMANDER": [
+    "In the police"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Found in a monastery",
+    "tiles": [
+     [
+      "ABBOT"
+     ],
+     [
+      "MONK"
+     ],
+     [
+      "PRIOR"
+     ],
+     [
+      "CLOISTER"
+     ]
+    ]
+   },
+   {
+    "link": "Church vestments",
+    "tiles": [
+     [
+      "CASSOCK"
+     ],
+     [
+      "SURPLICE"
+     ],
+     [
+      "MITRE"
+     ],
+     [
+      "HABIT"
+     ]
+    ]
+   },
+   {
+    "link": "Royal regalia",
+    "tiles": [
+     [
+      "ORB",
+      "🔮"
+     ],
+     [
+      "SCEPTRE"
+     ],
+     [
+      "TIARA"
+     ],
+     [
+      "ROBE"
+     ]
+    ]
+   },
+   {
+    "link": "Hidden SIN",
+    "note": "baSIN, raiSIN, caSINo, buSINess",
+    "tiles": [
+     [
+      "BASIN"
+     ],
+     [
+      "RAISIN"
+     ],
+     [
+      "CASINO",
+      "🎰"
+     ],
+     [
+      "BUSINESS",
+      "💼"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "HABIT": [
+    "Found in a monastery"
+   ],
+   "ROBE": [
+    "Church vestments"
+   ],
+   "TIARA": [
+    "Church vestments"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Liberal and Lib Dem leaders",
+    "tiles": [
+     [
+      "STEEL"
+     ],
+     [
+      "ASHDOWN"
+     ],
+     [
+      "CLEGG"
+     ],
+     [
+      "CABLE"
+     ]
+    ]
+   },
+   {
+    "link": "US vice presidents",
+    "tiles": [
+     [
+      "GORE"
+     ],
+     [
+      "CHENEY"
+     ],
+     [
+      "QUAYLE"
+     ],
+     [
+      "PENCE"
+     ]
+    ]
+   },
+   {
+    "link": "US presidents since 1960",
+    "tiles": [
+     [
+      "KENNEDY"
+     ],
+     [
+      "REAGAN"
+     ],
+     [
+      "OBAMA"
+     ],
+     [
+      "BIDEN"
+     ]
+    ]
+   },
+   {
+    "link": "___ stitch",
+    "note": "Cross, blanket, chain, running stitch",
+    "tiles": [
+     [
+      "CROSS",
+      "✝️"
+     ],
+     [
+      "BLANKET"
+     ],
+     [
+      "CHAIN",
+      "⛓️"
+     ],
+     [
+      "RUNNING",
+      "🏃"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CABLE": [
+    "___ stitch"
+   ],
+   "KENNEDY": [
+    "Liberal and Lib Dem leaders"
+   ],
+   "BIDEN": [
+    "US vice presidents"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "At school",
+    "tiles": [
+     [
+      "TEACHER",
+      "🧑‍🏫"
+     ],
+     [
+      "PUPIL"
+     ],
+     [
+      "LESSON"
+     ],
+     [
+      "HOMEWORK"
+     ]
+    ]
+   },
+   {
+    "link": "Degree types",
+    "tiles": [
+     [
+      "BACHELOR"
+     ],
+     [
+      "MASTER"
+     ],
+     [
+      "DOCTOR",
+      "🩺"
+     ],
+     [
+      "HONOURS"
+     ]
+    ]
+   },
+   {
+    "link": "Titles",
+    "tiles": [
+     [
+      "MISTER"
+     ],
+     [
+      "MISS"
+     ],
+     [
+      "LORD"
+     ],
+     [
+      "DAME"
+     ]
+    ]
+   },
+   {
+    "link": "Spin ___",
+    "note": "Spin drier, spin-off, spin bowler, spin class",
+    "tiles": [
+     [
+      "DRIER"
+     ],
+     [
+      "OFF"
+     ],
+     [
+      "BOWLER",
+      "🎳"
+     ],
+     [
+      "CLASS"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "DOCTOR": [
+    "Titles",
+    "Spin ___"
+   ],
+   "MASTER": [
+    "At school",
+    "Titles"
+   ],
+   "CLASS": [
+    "At school"
+   ]
+  }
+ }
+]

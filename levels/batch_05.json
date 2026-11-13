@@ -1,0 +1,896 @@
+[
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Tennis shots",
+    "tiles": [
+     [
+      "SMASH"
+     ],
+     [
+      "VOLLEY"
+     ],
+     [
+      "SLICE"
+     ],
+     [
+      "BACKHAND"
+     ]
+    ]
+   },
+   {
+    "link": "Golf shots",
+    "tiles": [
+     [
+      "PUTT"
+     ],
+     [
+      "HOOK",
+      "🪝"
+     ],
+     [
+      "FADE"
+     ],
+     [
+      "SHANK"
+     ]
+    ]
+   },
+   {
+    "link": "Fishing tackle",
+    "tiles": [
+     [
+      "FLOAT"
+     ],
+     [
+      "BAIT"
+     ],
+     [
+      "LURE"
+     ],
+     [
+      "SINKER"
+     ]
+    ]
+   },
+   {
+    "link": "Hot ___",
+    "note": "Hot dog, hot seat, hotspot, hotline",
+    "tiles": [
+     [
+      "DOG",
+      "🐶"
+     ],
+     [
+      "SEAT",
+      "💺"
+     ],
+     [
+      "SPOT"
+     ],
+     [
+      "LINE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SLICE": [
+    "Golf shots"
+   ],
+   "HOOK": [
+    "Fishing tackle"
+   ],
+   "LINE": [
+    "Fishing tackle"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Gym exercises",
+    "tiles": [
+     [
+      "PLANK"
+     ],
+     [
+      "SQUAT"
+     ],
+     [
+      "CRUNCH"
+     ],
+     [
+      "LUNGE"
+     ]
+    ]
+   },
+   {
+    "link": "Yoga poses",
+    "tiles": [
+     [
+      "COBRA"
+     ],
+     [
+      "TREE",
+      "🌳"
+     ],
+     [
+      "WARRIOR"
+     ],
+     [
+      "LOTUS"
+     ]
+    ]
+   },
+   {
+    "link": "Card games",
+    "tiles": [
+     [
+      "BRIDGE",
+      "🌉"
+     ],
+     [
+      "WHIST"
+     ],
+     [
+      "RUMMY"
+     ],
+     [
+      "SNAP"
+     ]
+    ]
+   },
+   {
+    "link": "___ jack",
+    "note": "Union Jack, flapjack, lumberjack, crackerjack",
+    "tiles": [
+     [
+      "UNION"
+     ],
+     [
+      "FLAP"
+     ],
+     [
+      "LUMBER",
+      "🪵"
+     ],
+     [
+      "CRACKER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PLANK": [
+    "Yoga poses"
+   ],
+   "LUNGE": [
+    "Yoga poses"
+   ],
+   "BRIDGE": [
+    "Yoga poses",
+    "Gym exercises"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Monopoly tokens",
+    "tiles": [
+     [
+      "IRON"
+     ],
+     [
+      "THIMBLE"
+     ],
+     [
+      "CAT",
+      "🐱"
+     ],
+     [
+      "CAR",
+      "🚗"
+     ]
+    ]
+   },
+   {
+    "link": "Sewing kit",
+    "tiles": [
+     [
+      "NEEDLE"
+     ],
+     [
+      "THREAD",
+      "🧵"
+     ],
+     [
+      "BOBBIN"
+     ],
+     [
+      "PIN",
+      "📌"
+     ]
+    ]
+   },
+   {
+    "link": "Golf clubs",
+    "tiles": [
+     [
+      "DRIVER"
+     ],
+     [
+      "PUTTER"
+     ],
+     [
+      "WEDGE"
+     ],
+     [
+      "WOOD",
+      "🪵"
+     ]
+    ]
+   },
+   {
+    "link": "Hair ___",
+    "note": "Haircut, hairbrush, hairspray, hairnet",
+    "tiles": [
+     [
+      "CUT"
+     ],
+     [
+      "BRUSH"
+     ],
+     [
+      "SPRAY"
+     ],
+     [
+      "NET"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "IRON": [
+    "Golf clubs",
+    "Hair ___"
+   ],
+   "THIMBLE": [
+    "Sewing kit"
+   ],
+   "PIN": [
+    "Hair ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Dances",
+    "tiles": [
+     [
+      "WALTZ"
+     ],
+     [
+      "FOXTROT"
+     ],
+     [
+      "RUMBA"
+     ],
+     [
+      "SAMBA"
+     ]
+    ]
+   },
+   {
+    "link": "Fairground rides",
+    "tiles": [
+     [
+      "WALTZER"
+     ],
+     [
+      "DODGEMS"
+     ],
+     [
+      "CAROUSEL",
+      "🎠"
+     ],
+     [
+      "TWISTER"
+     ]
+    ]
+   },
+   {
+    "link": "Party games",
+    "tiles": [
+     [
+      "CHARADES"
+     ],
+     [
+      "SARDINES"
+     ],
+     [
+      "STATUES"
+     ],
+     [
+      "LIMBO"
+     ]
+    ]
+   },
+   {
+    "link": "Hand ___",
+    "note": "Hand jive, handbag, handbrake, handbook",
+    "tiles": [
+     [
+      "JIVE"
+     ],
+     [
+      "BAG",
+      "🛍️"
+     ],
+     [
+      "BRAKE"
+     ],
+     [
+      "BOOK",
+      "📖"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LIMBO": [
+    "Dances"
+   ],
+   "JIVE": [
+    "Dances"
+   ],
+   "TWISTER": [
+    "Party games"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Boxing punches",
+    "tiles": [
+     [
+      "JAB"
+     ],
+     [
+      "CROSS"
+     ],
+     [
+      "UPPERCUT"
+     ],
+     [
+      "HAYMAKER"
+     ]
+    ]
+   },
+   {
+    "link": "Sewing stitches",
+    "tiles": [
+     [
+      "CHAIN",
+      "⛓️"
+     ],
+     [
+      "SATIN"
+     ],
+     [
+      "BLANKET"
+     ],
+     [
+      "RUNNING",
+      "🏃"
+     ]
+    ]
+   },
+   {
+    "link": "Bicycle parts",
+    "tiles": [
+     [
+      "PEDAL"
+     ],
+     [
+      "SPOKE"
+     ],
+     [
+      "FRAME",
+      "🖼️"
+     ],
+     [
+      "GEARS"
+     ]
+    ]
+   },
+   {
+    "link": "Horse ___",
+    "note": "Horseshoe, horsebox, horsepower, horseradish",
+    "tiles": [
+     [
+      "SHOE",
+      "👟"
+     ],
+     [
+      "BOX",
+      "📦"
+     ],
+     [
+      "POWER"
+     ],
+     [
+      "RADISH"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CROSS": [
+    "Sewing stitches"
+   ],
+   "CHAIN": [
+    "Bicycle parts"
+   ],
+   "BLANKET": [
+    "Horse ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Rugby positions",
+    "tiles": [
+     [
+      "HOOKER"
+     ],
+     [
+      "PROP"
+     ],
+     [
+      "FLANKER"
+     ],
+     [
+      "WINGER"
+     ]
+    ]
+   },
+   {
+    "link": "Football positions",
+    "tiles": [
+     [
+      "STRIKER"
+     ],
+     [
+      "SWEEPER"
+     ],
+     [
+      "GOALIE"
+     ],
+     [
+      "DEFENDER"
+     ]
+    ]
+   },
+   {
+    "link": "Head ___",
+    "note": "Headband, headache, headmaster, headlock",
+    "tiles": [
+     [
+      "BAND"
+     ],
+     [
+      "ACHE"
+     ],
+     [
+      "MASTER"
+     ],
+     [
+      "LOCK",
+      "🔒"
+     ]
+    ]
+   },
+   {
+    "link": "House ___",
+    "note": "Houseplant, houseboat, household, housekeeper",
+    "tiles": [
+     [
+      "PLANT",
+      "🪴"
+     ],
+     [
+      "BOAT",
+      "⛵"
+     ],
+     [
+      "HOLD"
+     ],
+     [
+      "KEEPER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LOCK": [
+    "Rugby positions"
+   ],
+   "WINGER": [
+    "Football positions"
+   ],
+   "KEEPER": [
+    "Football positions"
+   ],
+   "MASTER": [
+    "House ___"
+   ],
+   "BAND": [
+    "House ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Board games",
+    "tiles": [
+     [
+      "LUDO"
+     ],
+     [
+      "OPERATION"
+     ],
+     [
+      "SORRY"
+     ],
+     [
+      "CLUEDO"
+     ]
+    ]
+   },
+   {
+    "link": "Chess terms",
+    "tiles": [
+     [
+      "CHECK"
+     ],
+     [
+      "MATE"
+     ],
+     [
+      "GAMBIT"
+     ],
+     [
+      "DRAW"
+     ]
+    ]
+   },
+   {
+    "link": "Poker terms",
+    "tiles": [
+     [
+      "BLUFF"
+     ],
+     [
+      "FOLD"
+     ],
+     [
+      "RAISE"
+     ],
+     [
+      "CALL",
+      "📞"
+     ]
+    ]
+   },
+   {
+    "link": "High ___",
+    "note": "High chair, high street, high tide, high life",
+    "tiles": [
+     [
+      "CHAIR",
+      "🪑"
+     ],
+     [
+      "STREET"
+     ],
+     [
+      "TIDE"
+     ],
+     [
+      "LIFE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LIFE": [
+    "Board games"
+   ],
+   "CHECK": [
+    "Poker terms"
+   ],
+   "DRAW": [
+    "Poker terms"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Cricket fielding positions",
+    "tiles": [
+     [
+      "SLIP"
+     ],
+     [
+      "GULLY"
+     ],
+     [
+      "POINT"
+     ],
+     [
+      "COVER"
+     ]
+    ]
+   },
+   {
+    "link": "Knitting terms",
+    "tiles": [
+     [
+      "PURL"
+     ],
+     [
+      "CAST"
+     ],
+     [
+      "RIB"
+     ],
+     [
+      "CABLE"
+     ]
+    ]
+   },
+   {
+    "link": "Pottery terms",
+    "tiles": [
+     [
+      "KILN"
+     ],
+     [
+      "GLAZE"
+     ],
+     [
+      "CLAY"
+     ],
+     [
+      "THROW"
+     ]
+    ]
+   },
+   {
+    "link": "Hard ___",
+    "note": "Hardback, hard luck, hardship, hard hat",
+    "tiles": [
+     [
+      "BACK"
+     ],
+     [
+      "LUCK",
+      "🍀"
+     ],
+     [
+      "SHIP",
+      "🚢"
+     ],
+     [
+      "HAT",
+      "🎩"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SLIP": [
+    "Pottery terms",
+    "Knitting terms"
+   ],
+   "CAST": [
+    "Pottery terms"
+   ],
+   "COVER": [
+    "Hard ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Gymnastics apparatus",
+    "tiles": [
+     [
+      "BEAM"
+     ],
+     [
+      "VAULT"
+     ],
+     [
+      "RINGS"
+     ],
+     [
+      "BARS"
+     ]
+    ]
+   },
+   {
+    "link": "Playground equipment",
+    "tiles": [
+     [
+      "SLIDE"
+     ],
+     [
+      "SEESAW"
+     ],
+     [
+      "SANDPIT"
+     ],
+     [
+      "ZIPWIRE"
+     ]
+    ]
+   },
+   {
+    "link": "Cricket bowling styles",
+    "tiles": [
+     [
+      "SWING"
+     ],
+     [
+      "SEAM"
+     ],
+     [
+      "SPIN"
+     ],
+     [
+      "PACE"
+     ]
+    ]
+   },
+   {
+    "link": "___ horse",
+    "note": "Pommel horse, seahorse, dark horse, sawhorse",
+    "tiles": [
+     [
+      "POMMEL"
+     ],
+     [
+      "SEA",
+      "🌊"
+     ],
+     [
+      "DARK",
+      "🌑"
+     ],
+     [
+      "SAW",
+      "🪚"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "POMMEL": [
+    "Gymnastics apparatus"
+   ],
+   "BARS": [
+    "Playground equipment"
+   ],
+   "SWING": [
+    "Playground equipment"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Winter Olympic sports",
+    "tiles": [
+     [
+      "LUGE"
+     ],
+     [
+      "SKELETON"
+     ],
+     [
+      "CURLING",
+      "🥌"
+     ],
+     [
+      "BIATHLON"
+     ]
+    ]
+   },
+   {
+    "link": "Team sports",
+    "tiles": [
+     [
+      "NETBALL"
+     ],
+     [
+      "RUGBY",
+      "🏉"
+     ],
+     [
+      "ROUNDERS"
+     ],
+     [
+      "LACROSSE"
+     ]
+    ]
+   },
+   {
+    "link": "Figure skating jumps",
+    "tiles": [
+     [
+      "AXEL"
+     ],
+     [
+      "LUTZ"
+     ],
+     [
+      "SALCHOW"
+     ],
+     [
+      "LOOP"
+     ]
+    ]
+   },
+   {
+    "link": "Ice ___",
+    "note": "Ice hockey, ice skating, ice cream, ice cube",
+    "tiles": [
+     [
+      "HOCKEY",
+      "🏑"
+     ],
+     [
+      "SKATING"
+     ],
+     [
+      "CREAM"
+     ],
+     [
+      "CUBE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "HOCKEY": [
+    "Team sports",
+    "Winter Olympic sports"
+   ],
+   "SKATING": [
+    "Winter Olympic sports"
+   ],
+   "CURLING": [
+    "Team sports"
+   ]
+  }
+ }
+]
