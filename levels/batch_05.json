@@ -170,6 +170,9 @@
    "LUNGE": [
     "Yoga poses"
    ],
+   "SQUAT": [
+    "Yoga poses"
+   ],
    "BRIDGE": [
     "Yoga poses",
     "Gym exercises"
@@ -712,6 +715,9 @@
    "CAST": [
     "Pottery terms"
    ],
+   "RIB": [
+    "Pottery terms"
+   ],
    "COVER": [
     "Hard ___"
    ]
@@ -797,6 +803,9 @@
    "POMMEL": [
     "Gymnastics apparatus"
    ],
+   "BEAM": [
+    "Playground equipment"
+   ],
    "BARS": [
     "Playground equipment"
    ],
@@ -857,7 +866,7 @@
       "SALCHOW"
      ],
      [
-      "LOOP"
+      "FLIP"
      ]
     ]
    },
@@ -1246,6 +1255,9 @@
    ],
    "FOUL": [
     "Snooker terms"
+   ],
+   "LINKS": [
+    "Golf course features"
    ]
   }
  },
@@ -1436,14 +1448,13 @@
       "🏹"
      ],
      [
-      "FENCING"
-     ],
-     [
       "SHOOTING"
      ],
      [
-      "BOXING",
-      "🥊"
+      "HANDBALL"
+     ],
+     [
+      "TRIATHLON"
      ]
     ]
    },
@@ -1468,7 +1479,8 @@
     "link": "Fitness classes",
     "tiles": [
      [
-      "YOGA"
+      "YOGA",
+      "🧘"
      ],
      [
       "PILATES"
@@ -1932,7 +1944,7 @@
    },
    {
     "link": "___ hat",
-    "note": "Top hat, bowler hat, sun hat, hat-trick",
+    "note": "Top hat, bowler hat, sun hat, party hat",
     "tiles": [
      [
       "TOP"
@@ -1945,7 +1957,8 @@
       "☀️"
      ],
      [
-      "TRICK"
+      "PARTY",
+      "🎉"
      ]
     ]
    }
@@ -2319,7 +2332,7 @@
   }
  },
  {
-  "difficulty": 1,
+  "difficulty": 2,
   "groups": [
    {
     "link": "Racecourses",
@@ -2591,7 +2604,7 @@
     "link": "Nintendo characters",
     "tiles": [
      [
-      "MARIO"
+      "BOWSER"
      ],
      [
       "LUIGI"

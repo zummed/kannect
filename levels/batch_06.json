@@ -179,7 +179,7 @@
   }
  },
  {
-  "difficulty": 3,
+  "difficulty": 4,
   "groups": [
    {
     "link": "Units in physics",
@@ -201,7 +201,7 @@
    },
    {
     "link": "___'s law",
-    "note": "Sod's law, Murphy's law, Moore's law, Boyle's law",
+    "note": "Sod's law, Murphy's law, Parkinson's law, Boyle's law",
     "tiles": [
      [
       "SOD"
@@ -210,7 +210,7 @@
       "MURPHY"
      ],
      [
-      "MOORE"
+      "PARKINSON"
      ],
      [
       "BOYLE"
@@ -260,9 +260,13 @@
     "Astronomers"
    ],
    "PASCAL": [
-    "Units in physics"
+    "Units in physics",
+    "___'s law"
    ],
    "KEPLER": [
+    "___'s law"
+   ],
+   "HUBBLE": [
     "___'s law"
    ]
   }
@@ -826,19 +830,19 @@
     ]
    },
    {
-    "link": "Units of time longer than a week",
+    "link": "Types of number",
     "tiles": [
      [
-      "DECADE"
+      "PRIME"
      ],
      [
-      "CENTURY"
+      "ODD"
      ],
      [
-      "MONTH"
+      "EVEN"
      ],
      [
-      "YEAR"
+      "DECIMAL"
      ]
     ]
    },
@@ -880,9 +884,6 @@
    }
   ],
   "overlaps": {
-   "YEAR": [
-    "Light ___"
-   ],
    "BULB": [
     "Circuit components"
    ],
@@ -980,6 +981,1692 @@
    ],
    "BAR": [
     "Units of measurement"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Long ___",
+    "note": "Long shot, long jump, long haul, longhorn",
+    "tiles": [
+     [
+      "SHOT"
+     ],
+     [
+      "JUMP"
+     ],
+     [
+      "HAUL"
+     ],
+     [
+      "HORN",
+      "📯"
+     ]
+    ]
+   },
+   {
+    "link": "Renewable energy",
+    "tiles": [
+     [
+      "SOLAR"
+     ],
+     [
+      "WIND",
+      "🌬️"
+     ],
+     [
+      "TIDAL"
+     ],
+     [
+      "WAVE",
+      "👋"
+     ]
+    ]
+   },
+   {
+    "link": "Senses",
+    "tiles": [
+     [
+      "SMELL"
+     ],
+     [
+      "TOUCH"
+     ],
+     [
+      "TASTE"
+     ],
+     [
+      "SIGHT"
+     ]
+    ]
+   },
+   {
+    "link": "Statistics terms",
+    "tiles": [
+     [
+      "MEAN"
+     ],
+     [
+      "MEDIAN"
+     ],
+     [
+      "MODE"
+     ],
+     [
+      "RANGE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "WAVE": [
+    "Long ___"
+   ],
+   "SIGHT": [
+    "Long ___"
+   ],
+   "RANGE": [
+    "Long ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Social media actions",
+    "tiles": [
+     [
+      "SHARE"
+     ],
+     [
+      "TAG",
+      "🏷️"
+     ],
+     [
+      "COMMENT"
+     ],
+     [
+      "LIKE",
+      "👍"
+     ]
+    ]
+   },
+   {
+    "link": "Last ___",
+    "note": "Last Post, last word, last straw, last laugh",
+    "tiles": [
+     [
+      "POST"
+     ],
+     [
+      "WORD"
+     ],
+     [
+      "STRAW"
+     ],
+     [
+      "LAUGH",
+      "😂"
+     ]
+    ]
+   },
+   {
+    "link": "Hidden LOW",
+    "note": "folLOW, pilLOW, fLOWer, cLOWn",
+    "tiles": [
+     [
+      "FOLLOW"
+     ],
+     [
+      "PILLOW"
+     ],
+     [
+      "FLOWER",
+      "🌸"
+     ],
+     [
+      "CLOWN",
+      "🤡"
+     ]
+    ]
+   },
+   {
+    "link": "Microsoft Office programs",
+    "tiles": [
+     [
+      "EXCEL"
+     ],
+     [
+      "OUTLOOK"
+     ],
+     [
+      "ACCESS"
+     ],
+     [
+      "TEAMS"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "POST": [
+    "Social media actions"
+   ],
+   "FOLLOW": [
+    "Social media actions"
+   ],
+   "WORD": [
+    "Microsoft Office programs"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "States of matter",
+    "tiles": [
+     [
+      "LIQUID"
+     ],
+     [
+      "PLASMA"
+     ],
+     [
+      "SOLID"
+     ],
+     [
+      "GAS"
+     ]
+    ]
+   },
+   {
+    "link": "Hidden LID",
+    "note": "vaLID, hoLIDay, colLIDe, EucLID",
+    "tiles": [
+     [
+      "VALID"
+     ],
+     [
+      "HOLIDAY"
+     ],
+     [
+      "COLLIDE"
+     ],
+     [
+      "EUCLID"
+     ]
+    ]
+   },
+   {
+    "link": "Fuels",
+    "tiles": [
+     [
+      "OIL",
+      "🛢️"
+     ],
+     [
+      "PETROL",
+      "⛽"
+     ],
+     [
+      "PEAT"
+     ],
+     [
+      "DIESEL"
+     ]
+    ]
+   },
+   {
+    "link": "Inventors",
+    "tiles": [
+     [
+      "EDISON"
+     ],
+     [
+      "BAIRD"
+     ],
+     [
+      "DYSON"
+     ],
+     [
+      "BELL",
+      "🔔"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SOLID": [
+    "Hidden LID"
+   ],
+   "GAS": [
+    "Fuels"
+   ],
+   "DIESEL": [
+    "Inventors"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Parts of the eye",
+    "tiles": [
+     [
+      "PUPIL"
+     ],
+     [
+      "IRIS"
+     ],
+     [
+      "RETINA"
+     ],
+     [
+      "CORNEA"
+     ]
+    ]
+   },
+   {
+    "link": "Photography terms",
+    "tiles": [
+     [
+      "LENS",
+      "🔍"
+     ],
+     [
+      "SHUTTER"
+     ],
+     [
+      "ZOOM"
+     ],
+     [
+      "FOCUS"
+     ]
+    ]
+   },
+   {
+    "link": "___lock",
+    "note": "Wedlock, hemlock, deadlock, gridlock",
+    "tiles": [
+     [
+      "WED"
+     ],
+     [
+      "HEM"
+     ],
+     [
+      "DEAD",
+      "💀"
+     ],
+     [
+      "GRID"
+     ]
+    ]
+   },
+   {
+    "link": "Mains electricity",
+    "tiles": [
+     [
+      "PLUG",
+      "🔌"
+     ],
+     [
+      "CABLE"
+     ],
+     [
+      "MAINS"
+     ],
+     [
+      "METER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LENS": [
+    "Parts of the eye"
+   ],
+   "GRID": [
+    "Mains electricity"
+   ],
+   "METER": [
+    "Photography terms"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Hidden LEG",
+    "note": "eLEGant, colLEGe, deLEGate, alLEGro",
+    "tiles": [
+     [
+      "ELEGANT"
+     ],
+     [
+      "COLLEGE",
+      "🎓"
+     ],
+     [
+      "DELEGATE"
+     ],
+     [
+      "ALLEGRO"
+     ]
+    ]
+   },
+   {
+    "link": "Messaging apps",
+    "tiles": [
+     [
+      "WHATSAPP"
+     ],
+     [
+      "SIGNAL",
+      "🚦"
+     ],
+     [
+      "SNAPCHAT",
+      "👻"
+     ],
+     [
+      "TELEGRAM"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a graph",
+    "tiles": [
+     [
+      "AXIS"
+     ],
+     [
+      "ORIGIN"
+     ],
+     [
+      "SCALE"
+     ],
+     [
+      "LEGEND"
+     ]
+    ]
+   },
+   {
+    "link": "Mobile phone needs",
+    "tiles": [
+     [
+      "CHARGER"
+     ],
+     [
+      "SIM"
+     ],
+     [
+      "DATA"
+     ],
+     [
+      "CREDIT"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TELEGRAM": [
+    "Hidden LEG"
+   ],
+   "LEGEND": [
+    "Hidden LEG"
+   ],
+   "SIGNAL": [
+    "Mobile phone needs"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "___ lamp",
+    "note": "Lava lamp, fog lamp, hurricane lamp, sun lamp",
+    "tiles": [
+     [
+      "LAVA"
+     ],
+     [
+      "FOG",
+      "🌫️"
+     ],
+     [
+      "HURRICANE",
+      "🌀"
+     ],
+     [
+      "SUN",
+      "☀️"
+     ]
+    ]
+   },
+   {
+    "link": "British scientists",
+    "tiles": [
+     [
+      "DARWIN"
+     ],
+     [
+      "FARADAY"
+     ],
+     [
+      "HAWKING"
+     ],
+     [
+      "DAVY"
+     ]
+    ]
+   },
+   {
+    "link": "Database terms",
+    "tiles": [
+     [
+      "FIELD"
+     ],
+     [
+      "RECORD"
+     ],
+     [
+      "QUERY"
+     ],
+     [
+      "TABLE"
+     ]
+    ]
+   },
+   {
+    "link": "Stars",
+    "tiles": [
+     [
+      "SIRIUS"
+     ],
+     [
+      "POLARIS"
+     ],
+     [
+      "VEGA"
+     ],
+     [
+      "RIGEL"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "DAVY": [
+    "___ lamp"
+   ],
+   "TABLE": [
+    "___ lamp"
+   ],
+   "SUN": [
+    "Stars"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Life ___",
+    "note": "Lifeboat, life jacket, life force, lifeblood",
+    "tiles": [
+     [
+      "BOAT",
+      "⛵"
+     ],
+     [
+      "JACKET",
+      "🧥"
+     ],
+     [
+      "FORCE"
+     ],
+     [
+      "BLOOD",
+      "🩸"
+     ]
+    ]
+   },
+   {
+    "link": "Geometry terms",
+    "tiles": [
+     [
+      "POINT"
+     ],
+     [
+      "PLANE",
+      "✈️"
+     ],
+     [
+      "CURVE"
+     ],
+     [
+      "LINE"
+     ]
+    ]
+   },
+   {
+    "link": "Physics quantities",
+    "tiles": [
+     [
+      "MASS"
+     ],
+     [
+      "SPEED"
+     ],
+     [
+      "DENSITY"
+     ],
+     [
+      "PRESSURE"
+     ]
+    ]
+   },
+   {
+    "link": "Body fluids",
+    "tiles": [
+     [
+      "SWEAT"
+     ],
+     [
+      "TEARS"
+     ],
+     [
+      "BILE"
+     ],
+     [
+      "SALIVA"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LINE": [
+    "Life ___"
+   ],
+   "FORCE": [
+    "Physics quantities"
+   ],
+   "BLOOD": [
+    "Body fluids"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Lip ___",
+    "note": "Lipstick, lip gloss, lip sync, lip salve",
+    "tiles": [
+     [
+      "STICK"
+     ],
+     [
+      "GLOSS"
+     ],
+     [
+      "SYNC"
+     ],
+     [
+      "SALVE"
+     ]
+    ]
+   },
+   {
+    "link": "First aid kit",
+    "tiles": [
+     [
+      "PLASTER"
+     ],
+     [
+      "BANDAGE"
+     ],
+     [
+      "GLOVES",
+      "🧤"
+     ],
+     [
+      "GAUZE"
+     ]
+    ]
+   },
+   {
+    "link": "File actions",
+    "tiles": [
+     [
+      "SAVE",
+      "💾"
+     ],
+     [
+      "UPLOAD"
+     ],
+     [
+      "DOWNLOAD"
+     ],
+     [
+      "RENAME"
+     ]
+    ]
+   },
+   {
+    "link": "File formats",
+    "tiles": [
+     [
+      "PDF"
+     ],
+     [
+      "JPEG"
+     ],
+     [
+      "GIF"
+     ],
+     [
+      "ZIP",
+      "🤐"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SALVE": [
+    "First aid kit"
+   ],
+   "SYNC": [
+    "File actions"
+   ],
+   "ZIP": [
+    "File actions"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Hidden LIP",
+    "note": "tuLIP, sLIPper, fLIPper, cLIP",
+    "tiles": [
+     [
+      "TULIP",
+      "🌷"
+     ],
+     [
+      "SLIPPER"
+     ],
+     [
+      "FLIPPER"
+     ],
+     [
+      "CLIP",
+      "📎"
+     ]
+    ]
+   },
+   {
+    "link": "Events in the sky",
+    "tiles": [
+     [
+      "EQUINOX"
+     ],
+     [
+      "SOLSTICE"
+     ],
+     [
+      "SUPERNOVA"
+     ],
+     [
+      "ECLIPSE"
+     ]
+    ]
+   },
+   {
+    "link": "Curves",
+    "tiles": [
+     [
+      "PARABOLA"
+     ],
+     [
+      "SPIRAL"
+     ],
+     [
+      "HELIX",
+      "🧬"
+     ],
+     [
+      "ELLIPSE"
+     ]
+    ]
+   },
+   {
+    "link": "Online video",
+    "tiles": [
+     [
+      "STREAM"
+     ],
+     [
+      "VLOG"
+     ],
+     [
+      "REEL"
+     ],
+     [
+      "CHANNEL"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ECLIPSE": [
+    "Hidden LIP"
+   ],
+   "ELLIPSE": [
+    "Hidden LIP"
+   ],
+   "CLIP": [
+    "Online video"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "___ key",
+    "note": "Skeleton key, latchkey, Allen key, master key",
+    "tiles": [
+     [
+      "SKELETON"
+     ],
+     [
+      "LATCH"
+     ],
+     [
+      "ALLEN"
+     ],
+     [
+      "MASTER"
+     ]
+    ]
+   },
+   {
+    "link": "Ways to unlock a phone",
+    "tiles": [
+     [
+      "PASSWORD"
+     ],
+     [
+      "PATTERN"
+     ],
+     [
+      "PIN",
+      "📌"
+     ],
+     [
+      "FACE",
+      "😀"
+     ]
+    ]
+   },
+   {
+    "link": "Programming terms",
+    "tiles": [
+     [
+      "LOOP"
+     ],
+     [
+      "STRING"
+     ],
+     [
+      "FUNCTION"
+     ],
+     [
+      "CODE"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a watch",
+    "tiles": [
+     [
+      "STRAP"
+     ],
+     [
+      "DIAL"
+     ],
+     [
+      "HANDS",
+      "🙌"
+     ],
+     [
+      "WINDER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "FUNCTION": [
+    "___ key"
+   ],
+   "CODE": [
+    "Ways to unlock a phone"
+   ],
+   "FACE": [
+    "Parts of a watch"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Kick ___",
+    "note": "Kick-off, kickboxing, kickflip, kickstand",
+    "tiles": [
+     [
+      "OFF"
+     ],
+     [
+      "BOXING",
+      "🥊"
+     ],
+     [
+      "FLIP"
+     ],
+     [
+      "STAND"
+     ]
+    ]
+   },
+   {
+    "link": "Joints",
+    "tiles": [
+     [
+      "KNEE"
+     ],
+     [
+      "ELBOW"
+     ],
+     [
+      "WRIST"
+     ],
+     [
+      "HIP"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of the torso",
+    "tiles": [
+     [
+      "CHEST"
+     ],
+     [
+      "WAIST"
+     ],
+     [
+      "BACK"
+     ],
+     [
+      "BELLY"
+     ]
+    ]
+   },
+   {
+    "link": "Remote control buttons",
+    "tiles": [
+     [
+      "PLAY"
+     ],
+     [
+      "PAUSE"
+     ],
+     [
+      "MUTE",
+      "🔇"
+     ],
+     [
+      "STOP",
+      "🛑"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "HIP": [
+    "Parts of the torso"
+   ],
+   "BACK": [
+    "Kick ___",
+    "Remote control buttons"
+   ],
+   "OFF": [
+    "Remote control buttons"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Add a silent K",
+    "note": "Knight, knit, know, knot",
+    "tiles": [
+     [
+      "NIGHT",
+      "🌃"
+     ],
+     [
+      "NIT"
+     ],
+     [
+      "NO",
+      "🙅"
+     ],
+     [
+      "NOT"
+     ]
+    ]
+   },
+   {
+    "link": "Logic gates",
+    "tiles": [
+     [
+      "AND"
+     ],
+     [
+      "OR"
+     ],
+     [
+      "NOR"
+     ],
+     [
+      "XOR"
+     ]
+    ]
+   },
+   {
+    "link": "Phases of the Moon",
+    "tiles": [
+     [
+      "FULL"
+     ],
+     [
+      "CRESCENT"
+     ],
+     [
+      "GIBBOUS"
+     ],
+     [
+      "NEW"
+     ]
+    ]
+   },
+   {
+    "link": "Fractions",
+    "tiles": [
+     [
+      "THIRD",
+      "🥉"
+     ],
+     [
+      "TENTH"
+     ],
+     [
+      "FIFTH"
+     ],
+     [
+      "QUARTER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "NOT": [
+    "Logic gates"
+   ],
+   "NEW": [
+    "Add a silent K"
+   ],
+   "QUARTER": [
+    "Phases of the Moon"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Hidden LAD",
+    "note": "balLAD, LADle, saLAD, gLAD",
+    "tiles": [
+     [
+      "BALLAD"
+     ],
+     [
+      "LADLE"
+     ],
+     [
+      "SALAD",
+      "🥗"
+     ],
+     [
+      "GLAD"
+     ]
+    ]
+   },
+   {
+    "link": "Precious metals",
+    "tiles": [
+     [
+      "GOLD",
+      "🥇"
+     ],
+     [
+      "SILVER"
+     ],
+     [
+      "PLATINUM"
+     ],
+     [
+      "PALLADIUM"
+     ]
+    ]
+   },
+   {
+    "link": "Moons",
+    "tiles": [
+     [
+      "TITAN"
+     ],
+     [
+      "EUROPA"
+     ],
+     [
+      "CALLISTO"
+     ],
+     [
+      "ENCELADUS"
+     ]
+    ]
+   },
+   {
+    "link": "Wind turbine parts",
+    "tiles": [
+     [
+      "TOWER",
+      "🗼"
+     ],
+     [
+      "ROTOR"
+     ],
+     [
+      "HUB"
+     ],
+     [
+      "BLADE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PALLADIUM": [
+    "Hidden LAD"
+   ],
+   "ENCELADUS": [
+    "Hidden LAD"
+   ],
+   "BLADE": [
+    "Hidden LAD"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Hidden LOG",
+    "note": "sLOGan, cLOG, cataLOGue, triLOGy",
+    "tiles": [
+     [
+      "SLOGAN"
+     ],
+     [
+      "CLOG"
+     ],
+     [
+      "CATALOGUE"
+     ],
+     [
+      "TRILOGY"
+     ]
+    ]
+   },
+   {
+    "link": "Sciences",
+    "tiles": [
+     [
+      "PHYSICS"
+     ],
+     [
+      "BOTANY"
+     ],
+     [
+      "BIOLOGY"
+     ],
+     [
+      "GEOLOGY"
+     ]
+    ]
+   },
+   {
+    "link": "Things online",
+    "tiles": [
+     [
+      "FORUM"
+     ],
+     [
+      "WIKI"
+     ],
+     [
+      "PODCAST",
+      "🎙️"
+     ],
+     [
+      "BLOG"
+     ]
+    ]
+   },
+   {
+    "link": "Kitchen gadgets",
+    "tiles": [
+     [
+      "WHISK"
+     ],
+     [
+      "GRATER"
+     ],
+     [
+      "TIMER",
+      "⏲️"
+     ],
+     [
+      "SCALES",
+      "⚖️"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BIOLOGY": [
+    "Hidden LOG"
+   ],
+   "GEOLOGY": [
+    "Hidden LOG"
+   ],
+   "BLOG": [
+    "Hidden LOG"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Quarks",
+    "tiles": [
+     [
+      "STRANGE"
+     ],
+     [
+      "CHARM"
+     ],
+     [
+      "TOP"
+     ],
+     [
+      "BOTTOM"
+     ]
+    ]
+   },
+   {
+    "link": "Lock ___",
+    "note": "Locksmith, lockout, lock-up, lockdown",
+    "tiles": [
+     [
+      "SMITH"
+     ],
+     [
+      "OUT"
+     ],
+     [
+      "UP",
+      "👆"
+     ],
+     [
+      "DOWN"
+     ]
+    ]
+   },
+   {
+    "link": "Lap ___",
+    "note": "Lapdog, lap dance, lapwing, lap tray",
+    "tiles": [
+     [
+      "DOG",
+      "🐕"
+     ],
+     [
+      "DANCE",
+      "💃"
+     ],
+     [
+      "WING"
+     ],
+     [
+      "TRAY"
+     ]
+    ]
+   },
+   {
+    "link": "Types of angle",
+    "tiles": [
+     [
+      "ACUTE"
+     ],
+     [
+      "OBTUSE"
+     ],
+     [
+      "REFLEX"
+     ],
+     [
+      "RIGHT",
+      "👉"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "UP": [
+    "Quarks",
+    "Lap ___"
+   ],
+   "DOWN": [
+    "Quarks"
+   ],
+   "TOP": [
+    "Lap ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Laser ___",
+    "note": "Laser beam, Laser Quest, laser pointer, laser pen",
+    "tiles": [
+     [
+      "BEAM"
+     ],
+     [
+      "QUEST"
+     ],
+     [
+      "POINTER"
+     ],
+     [
+      "PEN",
+      "🖊️"
+     ]
+    ]
+   },
+   {
+    "link": "Home office devices",
+    "tiles": [
+     [
+      "SCANNER"
+     ],
+     [
+      "WEBCAM"
+     ],
+     [
+      "ROUTER"
+     ],
+     [
+      "PRINTER",
+      "🖨️"
+     ]
+    ]
+   },
+   {
+    "link": "Computer storage",
+    "tiles": [
+     [
+      "DRIVE"
+     ],
+     [
+      "CLOUD",
+      "☁️"
+     ],
+     [
+      "TAPE",
+      "📼"
+     ],
+     [
+      "DISC",
+      "💿"
+     ]
+    ]
+   },
+   {
+    "link": "Places for medical care",
+    "tiles": [
+     [
+      "CLINIC"
+     ],
+     [
+      "HOSPITAL"
+     ],
+     [
+      "PHARMACY"
+     ],
+     [
+      "SURGERY"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PRINTER": [
+    "Laser ___"
+   ],
+   "SCANNER": [
+    "Laser ___"
+   ],
+   "DISC": [
+    "Laser ___"
+   ],
+   "SURGERY": [
+    "Laser ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Imperial units of length",
+    "tiles": [
+     [
+      "INCH"
+     ],
+     [
+      "YARD"
+     ],
+     [
+      "MILE"
+     ],
+     [
+      "FOOT",
+      "🦶"
+     ]
+    ]
+   },
+   {
+    "link": "Left ___",
+    "note": "Leftover, left luggage, Left Bank, left turn",
+    "tiles": [
+     [
+      "OVER"
+     ],
+     [
+      "LUGGAGE",
+      "🧳"
+     ],
+     [
+      "BANK",
+      "🏦"
+     ],
+     [
+      "TURN"
+     ]
+    ]
+   },
+   {
+    "link": "Mouse actions",
+    "tiles": [
+     [
+      "DRAG"
+     ],
+     [
+      "SCROLL",
+      "📜"
+     ],
+     [
+      "HOVER"
+     ],
+     [
+      "CLICK"
+     ]
+    ]
+   },
+   {
+    "link": "Forces",
+    "tiles": [
+     [
+      "GRAVITY"
+     ],
+     [
+      "FRICTION"
+     ],
+     [
+      "TENSION"
+     ],
+     [
+      "THRUST"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "FOOT": [
+    "Left ___"
+   ],
+   "CLICK": [
+    "Left ___"
+   ],
+   "DRAG": [
+    "Forces"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Kitchen ___",
+    "note": "Kitchen sink, kitchen roll, kitchen foil, kitchen bin",
+    "tiles": [
+     [
+      "SINK"
+     ],
+     [
+      "ROLL",
+      "🧻"
+     ],
+     [
+      "FOIL"
+     ],
+     [
+      "BIN",
+      "🗑️"
+     ]
+    ]
+   },
+   {
+    "link": "Email folders",
+    "tiles": [
+     [
+      "INBOX"
+     ],
+     [
+      "SENT"
+     ],
+     [
+      "DRAFTS"
+     ],
+     [
+      "JUNK"
+     ]
+    ]
+   },
+   {
+    "link": "Printer supplies",
+    "tiles": [
+     [
+      "INK"
+     ],
+     [
+      "TONER"
+     ],
+     [
+      "CARTRIDGE"
+     ],
+     [
+      "PAPER",
+      "📄"
+     ]
+    ]
+   },
+   {
+    "link": "Hospital staff",
+    "tiles": [
+     [
+      "NURSE"
+     ],
+     [
+      "SURGEON"
+     ],
+     [
+      "MIDWIFE"
+     ],
+     [
+      "PORTER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BIN": [
+    "Email folders"
+   ],
+   "PAPER": [
+    "Kitchen ___"
+   ],
+   "PORTER": [
+    "Kitchen ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Lunar ___",
+    "note": "Lunar module, lunar calendar, lunar orbit, lunar landing",
+    "tiles": [
+     [
+      "MODULE"
+     ],
+     [
+      "CALENDAR",
+      "📆"
+     ],
+     [
+      "ORBIT"
+     ],
+     [
+      "LANDING",
+      "🛬"
+     ]
+    ]
+   },
+   {
+    "link": "Stages of a space mission",
+    "tiles": [
+     [
+      "COUNTDOWN"
+     ],
+     [
+      "LAUNCH",
+      "🚀"
+     ],
+     [
+      "DOCKING"
+     ],
+     [
+      "REENTRY"
+     ]
+    ]
+   },
+   {
+    "link": "iPod models",
+    "tiles": [
+     [
+      "NANO"
+     ],
+     [
+      "MINI"
+     ],
+     [
+      "SHUFFLE"
+     ],
+     [
+      "CLASSIC"
+     ]
+    ]
+   },
+   {
+    "link": "Metric prefixes",
+    "tiles": [
+     [
+      "KILO"
+     ],
+     [
+      "MEGA"
+     ],
+     [
+      "GIGA"
+     ],
+     [
+      "MILLI"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ORBIT": [
+    "Stages of a space mission"
+   ],
+   "LANDING": [
+    "Stages of a space mission"
+   ],
+   "NANO": [
+    "Metric prefixes"
    ]
   }
  }
