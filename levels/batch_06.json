@@ -1,0 +1,986 @@
+[
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Metals",
+    "tiles": [
+     [
+      "TIN",
+      "🥫"
+     ],
+     [
+      "COPPER",
+      "👮"
+     ],
+     [
+      "ZINC"
+     ],
+     [
+      "NICKEL"
+     ]
+    ]
+   },
+   {
+    "link": "Key ___",
+    "note": "Keyhole, keyring, keynote, keypad",
+    "tiles": [
+     [
+      "HOLE",
+      "🕳️"
+     ],
+     [
+      "RING",
+      "💍"
+     ],
+     [
+      "NOTE"
+     ],
+     [
+      "PAD"
+     ]
+    ]
+   },
+   {
+    "link": "Computer parts",
+    "tiles": [
+     [
+      "MOUSE",
+      "🐭"
+     ],
+     [
+      "SCREEN"
+     ],
+     [
+      "CHIP",
+      "🍟"
+     ],
+     [
+      "FAN"
+     ]
+    ]
+   },
+   {
+    "link": "Household appliances",
+    "tiles": [
+     [
+      "IRON"
+     ],
+     [
+      "KETTLE"
+     ],
+     [
+      "TOASTER"
+     ],
+     [
+      "BLENDER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "IRON": [
+    "Metals"
+   ],
+   "FAN": [
+    "Household appliances"
+   ],
+   "PAD": [
+    "Computer parts"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Noble gases",
+    "tiles": [
+     [
+      "NEON"
+     ],
+     [
+      "ARGON"
+     ],
+     [
+      "HELIUM"
+     ],
+     [
+      "XENON"
+     ]
+    ]
+   },
+   {
+    "link": "___ light",
+    "note": "Floodlight, spotlight, headlight, fairy light",
+    "tiles": [
+     [
+      "FLOOD"
+     ],
+     [
+      "SPOT"
+     ],
+     [
+      "HEAD"
+     ],
+     [
+      "FAIRY",
+      "🧚"
+     ]
+    ]
+   },
+   {
+    "link": "Things in space",
+    "tiles": [
+     [
+      "COMET",
+      "☄️"
+     ],
+     [
+      "STAR",
+      "⭐"
+     ],
+     [
+      "NEBULA"
+     ],
+     [
+      "ASTEROID"
+     ]
+    ]
+   },
+   {
+    "link": "Skin complaints",
+    "tiles": [
+     [
+      "RASH"
+     ],
+     [
+      "WART"
+     ],
+     [
+      "BOIL"
+     ],
+     [
+      "BLISTER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "NEON": [
+    "___ light"
+   ],
+   "STAR": [
+    "___ light"
+   ],
+   "SPOT": [
+    "Skin complaints"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Units in physics",
+    "tiles": [
+     [
+      "WATT"
+     ],
+     [
+      "JOULE"
+     ],
+     [
+      "HERTZ"
+     ],
+     [
+      "NEWTON",
+      "🍎"
+     ]
+    ]
+   },
+   {
+    "link": "___'s law",
+    "note": "Sod's law, Murphy's law, Moore's law, Boyle's law",
+    "tiles": [
+     [
+      "SOD"
+     ],
+     [
+      "MURPHY"
+     ],
+     [
+      "MOORE"
+     ],
+     [
+      "BOYLE"
+     ]
+    ]
+   },
+   {
+    "link": "Programming languages",
+    "tiles": [
+     [
+      "PYTHON",
+      "🐍"
+     ],
+     [
+      "JAVA",
+      "☕"
+     ],
+     [
+      "RUBY"
+     ],
+     [
+      "PASCAL"
+     ]
+    ]
+   },
+   {
+    "link": "Astronomers",
+    "tiles": [
+     [
+      "HUBBLE"
+     ],
+     [
+      "GALILEO"
+     ],
+     [
+      "KEPLER"
+     ],
+     [
+      "HALLEY"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "NEWTON": [
+    "___'s law",
+    "Astronomers"
+   ],
+   "PASCAL": [
+    "Units in physics"
+   ],
+   "KEPLER": [
+    "___'s law"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Injuries",
+    "tiles": [
+     [
+      "SPRAIN"
+     ],
+     [
+      "BRUISE"
+     ],
+     [
+      "GRAZE"
+     ],
+     [
+      "BURN"
+     ]
+    ]
+   },
+   {
+    "link": "Lunch ___",
+    "note": "Lunchbox, lunchtime, lunch meat, lunch break",
+    "tiles": [
+     [
+      "BOX",
+      "📦"
+     ],
+     [
+      "TIME"
+     ],
+     [
+      "MEAT",
+      "🥩"
+     ],
+     [
+      "BREAK"
+     ]
+    ]
+   },
+   {
+    "link": "Units of time",
+    "tiles": [
+     [
+      "SECOND",
+      "🥈"
+     ],
+     [
+      "MINUTE"
+     ],
+     [
+      "WEEK"
+     ],
+     [
+      "HOUR"
+     ]
+    ]
+   },
+   {
+    "link": "Edit menu commands",
+    "tiles": [
+     [
+      "COPY"
+     ],
+     [
+      "PASTE"
+     ],
+     [
+      "UNDO"
+     ],
+     [
+      "CUT",
+      "✂️"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BREAK": [
+    "Injuries"
+   ],
+   "HOUR": [
+    "Lunch ___"
+   ],
+   "CUT": [
+    "Injuries"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Parts of a circle",
+    "tiles": [
+     [
+      "ARC"
+     ],
+     [
+      "CHORD"
+     ],
+     [
+      "SECTOR"
+     ],
+     [
+      "TANGENT"
+     ]
+    ]
+   },
+   {
+    "link": "Bones",
+    "tiles": [
+     [
+      "RADIUS"
+     ],
+     [
+      "SKULL",
+      "☠️"
+     ],
+     [
+      "FEMUR"
+     ],
+     [
+      "TIBIA"
+     ]
+    ]
+   },
+   {
+    "link": "___ line",
+    "note": "Jawline, hairline, neckline, fishing line",
+    "tiles": [
+     [
+      "JAW"
+     ],
+     [
+      "HAIR",
+      "💇"
+     ],
+     [
+      "NECK"
+     ],
+     [
+      "FISHING",
+      "🎣"
+     ]
+    ]
+   },
+   {
+    "link": "Arithmetic terms",
+    "tiles": [
+     [
+      "POWER"
+     ],
+     [
+      "ROOT"
+     ],
+     [
+      "PRODUCT"
+     ],
+     [
+      "FACTOR"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "RADIUS": [
+    "Parts of a circle"
+   ],
+   "JAW": [
+    "Bones"
+   ],
+   "POWER": [
+    "___ line"
+   ],
+   "PRODUCT": [
+    "___ line"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Web browsers",
+    "tiles": [
+     [
+      "SAFARI"
+     ],
+     [
+      "OPERA"
+     ],
+     [
+      "FIREFOX"
+     ],
+     [
+      "CHROME"
+     ]
+    ]
+   },
+   {
+    "link": "Put L in front",
+    "note": "Ledge, lion, larch, lice",
+    "tiles": [
+     [
+      "EDGE"
+     ],
+     [
+      "ION"
+     ],
+     [
+      "ARCH"
+     ],
+     [
+      "ICE",
+      "🧊"
+     ]
+    ]
+   },
+   {
+    "link": "Subatomic particles",
+    "tiles": [
+     [
+      "PROTON"
+     ],
+     [
+      "NEUTRON"
+     ],
+     [
+      "ELECTRON"
+     ],
+     [
+      "QUARK"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of the foot",
+    "tiles": [
+     [
+      "TOE"
+     ],
+     [
+      "BALL",
+      "⚽"
+     ],
+     [
+      "ANKLE"
+     ],
+     [
+      "NAIL",
+      "💅"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "EDGE": [
+    "Web browsers"
+   ],
+   "ION": [
+    "Subatomic particles"
+   ],
+   "ARCH": [
+    "Parts of the foot"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Love ___",
+    "note": "Love letter, love story, Love Island, lovebug",
+    "tiles": [
+     [
+      "LETTER",
+      "✉️"
+     ],
+     [
+      "STORY"
+     ],
+     [
+      "ISLAND",
+      "🏝️"
+     ],
+     [
+      "BUG",
+      "🐛"
+     ]
+    ]
+   },
+   {
+    "link": "Shapes",
+    "tiles": [
+     [
+      "SQUARE"
+     ],
+     [
+      "CIRCLE"
+     ],
+     [
+      "OVAL"
+     ],
+     [
+      "TRIANGLE"
+     ]
+    ]
+   },
+   {
+    "link": "Malware",
+    "tiles": [
+     [
+      "VIRUS"
+     ],
+     [
+      "WORM",
+      "🪱"
+     ],
+     [
+      "TROJAN"
+     ],
+     [
+      "SPYWARE"
+     ]
+    ]
+   },
+   {
+    "link": "Ailments",
+    "tiles": [
+     [
+      "COLD",
+      "🥶"
+     ],
+     [
+      "FLU"
+     ],
+     [
+      "MUMPS"
+     ],
+     [
+      "GOUT"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TRIANGLE": [
+    "Love ___"
+   ],
+   "BUG": [
+    "Malware",
+    "Ailments"
+   ],
+   "VIRUS": [
+    "Ailments"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Spacecraft",
+    "tiles": [
+     [
+      "APOLLO"
+     ],
+     [
+      "VOYAGER"
+     ],
+     [
+      "PIONEER"
+     ],
+     [
+      "EAGLE",
+      "🦅"
+     ]
+    ]
+   },
+   {
+    "link": "Constellations",
+    "tiles": [
+     [
+      "PEGASUS"
+     ],
+     [
+      "HERCULES"
+     ],
+     [
+      "ANDROMEDA"
+     ],
+     [
+      "GEMINI"
+     ]
+    ]
+   },
+   {
+    "link": "Land ___",
+    "note": "Land Rover, landlord, landmark, landfill",
+    "tiles": [
+     [
+      "ROVER"
+     ],
+     [
+      "LORD"
+     ],
+     [
+      "MARK"
+     ],
+     [
+      "FILL"
+     ]
+    ]
+   },
+   {
+    "link": "Laboratory equipment",
+    "tiles": [
+     [
+      "GOGGLES",
+      "🥽"
+     ],
+     [
+      "FLASK",
+      "⚗️"
+     ],
+     [
+      "TRIPOD"
+     ],
+     [
+      "SLIDE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "GEMINI": [
+    "Spacecraft"
+   ],
+   "ROVER": [
+    "Spacecraft"
+   ],
+   "SLIDE": [
+    "Land ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Organs",
+    "tiles": [
+     [
+      "LIVER"
+     ],
+     [
+      "LUNG",
+      "🫁"
+     ],
+     [
+      "BRAIN",
+      "🧠"
+     ],
+     [
+      "SPLEEN"
+     ]
+    ]
+   },
+   {
+    "link": "Hidden KIN",
+    "note": "sKIN, napKIN, pumpKIN, KINdle",
+    "tiles": [
+     [
+      "SKIN"
+     ],
+     [
+      "NAPKIN"
+     ],
+     [
+      "PUMPKIN",
+      "🎃"
+     ],
+     [
+      "KINDLE"
+     ]
+    ]
+   },
+   {
+    "link": "Gadgets",
+    "tiles": [
+     [
+      "LAPTOP",
+      "💻"
+     ],
+     [
+      "SATNAV"
+     ],
+     [
+      "DRONE"
+     ],
+     [
+      "TABLET"
+     ]
+    ]
+   },
+   {
+    "link": "Forms of medicine",
+    "tiles": [
+     [
+      "CAPSULE"
+     ],
+     [
+      "SYRUP"
+     ],
+     [
+      "LOZENGE"
+     ],
+     [
+      "DROPS"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SKIN": [
+    "Organs"
+   ],
+   "KINDLE": [
+    "Gadgets"
+   ],
+   "TABLET": [
+    "Forms of medicine"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Light ___",
+    "note": "Lighthouse, lightsabre, light bulb, light switch",
+    "tiles": [
+     [
+      "HOUSE",
+      "🏠"
+     ],
+     [
+      "SABRE"
+     ],
+     [
+      "BULB"
+     ],
+     [
+      "SWITCH"
+     ]
+    ]
+   },
+   {
+    "link": "Units of time longer than a week",
+    "tiles": [
+     [
+      "DECADE"
+     ],
+     [
+      "CENTURY"
+     ],
+     [
+      "MONTH"
+     ],
+     [
+      "YEAR"
+     ]
+    ]
+   },
+   {
+    "link": "Circuit components",
+    "tiles": [
+     [
+      "FUSE"
+     ],
+     [
+      "CELL"
+     ],
+     [
+      "BUZZER"
+     ],
+     [
+      "BATTERY",
+      "🔋"
+     ]
+    ]
+   },
+   {
+    "link": "Spreadsheet terms",
+    "tiles": [
+     [
+      "ROW",
+      "🚣"
+     ],
+     [
+      "COLUMN"
+     ],
+     [
+      "SHEET"
+     ],
+     [
+      "FORMULA"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "YEAR": [
+    "Light ___"
+   ],
+   "BULB": [
+    "Circuit components"
+   ],
+   "SWITCH": [
+    "Circuit components"
+   ],
+   "CELL": [
+    "Spreadsheet terms"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Add KING",
+    "note": "Barking, cooking, booking, parking",
+    "tiles": [
+     [
+      "BAR"
+     ],
+     [
+      "COO"
+     ],
+     [
+      "BOO"
+     ],
+     [
+      "PAR"
+     ]
+    ]
+   },
+   {
+    "link": "Calculator buttons",
+    "tiles": [
+     [
+      "SIN"
+     ],
+     [
+      "COS"
+     ],
+     [
+      "TAN"
+     ],
+     [
+      "LOG",
+      "🪵"
+     ]
+    ]
+   },
+   {
+    "link": "Units of measurement",
+    "tiles": [
+     [
+      "KNOT",
+      "🪢"
+     ],
+     [
+      "MOLE"
+     ],
+     [
+      "CARAT"
+     ],
+     [
+      "ACRE"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of the ear",
+    "tiles": [
+     [
+      "DRUM",
+      "🥁"
+     ],
+     [
+      "LOBE"
+     ],
+     [
+      "HAMMER",
+      "🔨"
+     ],
+     [
+      "ANVIL"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SIN": [
+    "Add KING"
+   ],
+   "TAN": [
+    "Add KING"
+   ],
+   "BAR": [
+    "Units of measurement"
+   ]
+  }
+ }
+]
