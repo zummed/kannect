@@ -597,14 +597,15 @@
    },
    {
     "link": "High ___",
-    "note": "High chair, high street, high tide, high life",
+    "note": "High chair, high heels, high tide, high life",
     "tiles": [
      [
       "CHAIR",
       "🪑"
      ],
      [
-      "STREET"
+      "HEELS",
+      "👠"
      ],
      [
       "TIDE"
@@ -890,6 +891,1784 @@
    ],
    "CURLING": [
     "Team sports"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Athletics events",
+    "tiles": [
+     [
+      "JAVELIN"
+     ],
+     [
+      "DISCUS"
+     ],
+     [
+      "SHOT",
+      "💉"
+     ],
+     [
+      "HURDLES"
+     ]
+    ]
+   },
+   {
+    "link": "In a royal flush",
+    "tiles": [
+     [
+      "KING"
+     ],
+     [
+      "QUEEN"
+     ],
+     [
+      "ACE"
+     ],
+     [
+      "TEN"
+     ]
+    ]
+   },
+   {
+    "link": "Tennis terms",
+    "tiles": [
+     [
+      "DEUCE"
+     ],
+     [
+      "LET"
+     ],
+     [
+      "FAULT"
+     ],
+     [
+      "LOVE"
+     ]
+    ]
+   },
+   {
+    "link": "Jack ___",
+    "note": "Jackdaw, jackknife, Jack Frost, jackhammer",
+    "tiles": [
+     [
+      "DAW"
+     ],
+     [
+      "KNIFE",
+      "🔪"
+     ],
+     [
+      "FROST"
+     ],
+     [
+      "HAMMER",
+      "🔨"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "HAMMER": [
+    "Athletics events"
+   ],
+   "ACE": [
+    "Tennis terms"
+   ],
+   "SHOT": [
+    "Tennis terms"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Parts of a yacht",
+    "tiles": [
+     [
+      "BOOM",
+      "💥"
+     ],
+     [
+      "KEEL"
+     ],
+     [
+      "RUDDER"
+     ],
+     [
+      "HELM"
+     ]
+    ]
+   },
+   {
+    "link": "Boxing terms",
+    "tiles": [
+     [
+      "RING",
+      "💍"
+     ],
+     [
+      "BELL",
+      "🔔"
+     ],
+     [
+      "CORNER"
+     ],
+     [
+      "ROPES"
+     ]
+    ]
+   },
+   {
+    "link": "Football terms",
+    "tiles": [
+     [
+      "OFFSIDE"
+     ],
+     [
+      "PENALTY"
+     ],
+     [
+      "NUTMEG"
+     ],
+     [
+      "DRIBBLE"
+     ]
+    ]
+   },
+   {
+    "link": "Half ___",
+    "note": "Half-time, half-term, half-pint, half-mast",
+    "tiles": [
+     [
+      "TIME"
+     ],
+     [
+      "TERM"
+     ],
+     [
+      "PINT",
+      "🍺"
+     ],
+     [
+      "MAST"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MAST": [
+    "Parts of a yacht"
+   ],
+   "CORNER": [
+    "Football terms"
+   ],
+   "ROPES": [
+    "Parts of a yacht"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Rowing terms",
+    "tiles": [
+     [
+      "FOUR"
+     ],
+     [
+      "EIGHT",
+      "🎱"
+     ],
+     [
+      "SCULL"
+     ],
+     [
+      "COX"
+     ]
+    ]
+   },
+   {
+    "link": "Golf terms",
+    "tiles": [
+     [
+      "TEE",
+      "👕"
+     ],
+     [
+      "CADDIE"
+     ],
+     [
+      "HANDICAP"
+     ],
+     [
+      "STROKE"
+     ]
+    ]
+   },
+   {
+    "link": "Poker hands",
+    "tiles": [
+     [
+      "PAIR"
+     ],
+     [
+      "FLUSH",
+      "🚽"
+     ],
+     [
+      "STRAIGHT"
+     ],
+     [
+      "TRIPS"
+     ]
+    ]
+   },
+   {
+    "link": "Homophones of numbers",
+    "note": "One, two, four, eight",
+    "tiles": [
+     [
+      "WON"
+     ],
+     [
+      "TOO"
+     ],
+     [
+      "FORE"
+     ],
+     [
+      "ATE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "STROKE": [
+    "Rowing terms"
+   ],
+   "PAIR": [
+    "Rowing terms"
+   ],
+   "FORE": [
+    "Golf terms"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Golf course features",
+    "tiles": [
+     [
+      "BUNKER"
+     ],
+     [
+      "FAIRWAY"
+     ],
+     [
+      "ROUGH"
+     ],
+     [
+      "GREEN",
+      "🟢"
+     ]
+    ]
+   },
+   {
+    "link": "Snooker terms",
+    "tiles": [
+     [
+      "BREAK"
+     ],
+     [
+      "CANNON"
+     ],
+     [
+      "SCREW"
+     ],
+     [
+      "KISS",
+      "💋"
+     ]
+    ]
+   },
+   {
+    "link": "Cluedo suspects",
+    "tiles": [
+     [
+      "MUSTARD"
+     ],
+     [
+      "PEACOCK",
+      "🦚"
+     ],
+     [
+      "SCARLETT"
+     ],
+     [
+      "WHITE",
+      "⚪"
+     ]
+    ]
+   },
+   {
+    "link": "Homophones of animals",
+    "note": "Lynx, fowl, boar, deer",
+    "tiles": [
+     [
+      "LINKS"
+     ],
+     [
+      "FOUL"
+     ],
+     [
+      "BORE"
+     ],
+     [
+      "DEAR"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "GREEN": [
+    "Snooker terms",
+    "Cluedo suspects"
+   ],
+   "WHITE": [
+    "Snooker terms"
+   ],
+   "FOUL": [
+    "Snooker terms"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Betting terms",
+    "tiles": [
+     [
+      "ODDS"
+     ],
+     [
+      "EVENS"
+     ],
+     [
+      "TREBLE"
+     ],
+     [
+      "PUNTER"
+     ]
+    ]
+   },
+   {
+    "link": "Puzzles",
+    "tiles": [
+     [
+      "JIGSAW",
+      "🧩"
+     ],
+     [
+      "CROSSWORD"
+     ],
+     [
+      "SUDOKU"
+     ],
+     [
+      "RIDDLE"
+     ]
+    ]
+   },
+   {
+    "link": "Darts terms",
+    "tiles": [
+     [
+      "BULLSEYE"
+     ],
+     [
+      "OCHE"
+     ],
+     [
+      "FLIGHT",
+      "✈️"
+     ],
+     [
+      "CHECKOUT"
+     ]
+    ]
+   },
+   {
+    "link": "Homophones of food",
+    "note": "Steak, maize, cereal, flour",
+    "tiles": [
+     [
+      "STAKE"
+     ],
+     [
+      "MAZE"
+     ],
+     [
+      "SERIAL"
+     ],
+     [
+      "FLOWER",
+      "🌸"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "STAKE": [
+    "Betting terms"
+   ],
+   "MAZE": [
+    "Puzzles"
+   ],
+   "TREBLE": [
+    "Darts terms"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Horse races",
+    "tiles": [
+     [
+      "DERBY"
+     ],
+     [
+      "OAKS"
+     ],
+     [
+      "LEGER"
+     ],
+     [
+      "NATIONAL"
+     ]
+    ]
+   },
+   {
+    "link": "County football clubs",
+    "tiles": [
+     [
+      "NOTTS"
+     ],
+     [
+      "STOCKPORT"
+     ],
+     [
+      "NEWPORT"
+     ],
+     [
+      "ROSS"
+     ]
+    ]
+   },
+   {
+    "link": "Water sports",
+    "tiles": [
+     [
+      "SURFING",
+      "🏄"
+     ],
+     [
+      "SAILING"
+     ],
+     [
+      "ROWING",
+      "🚣"
+     ],
+     [
+      "DIVING",
+      "🤿"
+     ]
+    ]
+   },
+   {
+    "link": "Hidden islands",
+    "note": "sCUBA, conCRETE, triBUTE, MULLet",
+    "tiles": [
+     [
+      "SCUBA"
+     ],
+     [
+      "CONCRETE"
+     ],
+     [
+      "TRIBUTE"
+     ],
+     [
+      "MULLET"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "NATIONAL": [
+    "Hidden islands"
+   ],
+   "DERBY": [
+    "County football clubs"
+   ],
+   "SCUBA": [
+    "Water sports"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Olympic sports",
+    "tiles": [
+     [
+      "ARCHERY",
+      "🏹"
+     ],
+     [
+      "FENCING"
+     ],
+     [
+      "SHOOTING"
+     ],
+     [
+      "BOXING",
+      "🥊"
+     ]
+    ]
+   },
+   {
+    "link": "Martial arts",
+    "tiles": [
+     [
+      "JUDO"
+     ],
+     [
+      "KARATE"
+     ],
+     [
+      "TAEKWONDO"
+     ],
+     [
+      "SUMO"
+     ]
+    ]
+   },
+   {
+    "link": "Fitness classes",
+    "tiles": [
+     [
+      "YOGA"
+     ],
+     [
+      "PILATES"
+     ],
+     [
+      "ZUMBA"
+     ],
+     [
+      "AEROBICS"
+     ]
+    ]
+   },
+   {
+    "link": "Hidden herbs",
+    "note": "badMINTon, masSAGE, arCHIVE, armaDILLo",
+    "tiles": [
+     [
+      "BADMINTON",
+      "🏸"
+     ],
+     [
+      "MASSAGE",
+      "💆"
+     ],
+     [
+      "ARCHIVE"
+     ],
+     [
+      "ARMADILLO"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BADMINTON": [
+    "Olympic sports"
+   ],
+   "JUDO": [
+    "Olympic sports"
+   ],
+   "TAEKWONDO": [
+    "Olympic sports"
+   ],
+   "KARATE": [
+    "Olympic sports"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Cluedo weapons",
+    "tiles": [
+     [
+      "ROPE"
+     ],
+     [
+      "DAGGER",
+      "🗡️"
+     ],
+     [
+      "SPANNER",
+      "🔧"
+     ],
+     [
+      "REVOLVER"
+     ]
+    ]
+   },
+   {
+    "link": "Climbing gear",
+    "tiles": [
+     [
+      "HARNESS"
+     ],
+     [
+      "CRAMPON"
+     ],
+     [
+      "HELMET"
+     ],
+     [
+      "CARABINER"
+     ]
+    ]
+   },
+   {
+    "link": "Camping gear",
+    "tiles": [
+     [
+      "TENT",
+      "⛺"
+     ],
+     [
+      "STOVE"
+     ],
+     [
+      "PEG"
+     ],
+     [
+      "RUCKSACK",
+      "🎒"
+     ]
+    ]
+   },
+   {
+    "link": "Hidden instruments",
+    "note": "conunDRUM, sHARP, tHORN, ORGANic",
+    "tiles": [
+     [
+      "CONUNDRUM"
+     ],
+     [
+      "SHARP"
+     ],
+     [
+      "THORN"
+     ],
+     [
+      "ORGANIC"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ROPE": [
+    "Climbing gear",
+    "Camping gear"
+   ],
+   "PEG": [
+    "Climbing gear"
+   ],
+   "RUCKSACK": [
+    "Climbing gear"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Football club nicknames",
+    "tiles": [
+     [
+      "GUNNERS"
+     ],
+     [
+      "TOFFEES"
+     ],
+     [
+      "MAGPIES"
+     ],
+     [
+      "FOXES",
+      "🦊"
+     ]
+    ]
+   },
+   {
+    "link": "Rugby league clubs",
+    "tiles": [
+     [
+      "RHINOS"
+     ],
+     [
+      "BULLS"
+     ],
+     [
+      "SAINTS"
+     ],
+     [
+      "WOLVES",
+      "🐺"
+     ]
+    ]
+   },
+   {
+    "link": "Rugby union clubs",
+    "tiles": [
+     [
+      "SARACENS"
+     ],
+     [
+      "SHARKS",
+      "🦈"
+     ],
+     [
+      "FALCONS"
+     ],
+     [
+      "CHIEFS"
+     ]
+    ]
+   },
+   {
+    "link": "Hidden insects",
+    "note": "giANTs, siGNATure, bLOUSE, MOTHer",
+    "tiles": [
+     [
+      "GIANTS"
+     ],
+     [
+      "SIGNATURE"
+     ],
+     [
+      "BLOUSE",
+      "👚"
+     ],
+     [
+      "MOTHER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "GIANTS": [
+    "Rugby league clubs"
+   ],
+   "SAINTS": [
+    "Football club nicknames",
+    "Rugby union clubs"
+   ],
+   "WOLVES": [
+    "Football club nicknames"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Cricket terms",
+    "tiles": [
+     [
+      "OVER"
+     ],
+     [
+      "WICKET"
+     ],
+     [
+      "INNINGS"
+     ],
+     [
+      "DUCK",
+      "🦆"
+     ]
+    ]
+   },
+   {
+    "link": "Baseball terms",
+    "tiles": [
+     [
+      "PITCHER"
+     ],
+     [
+      "BASE"
+     ],
+     [
+      "STRIKE"
+     ],
+     [
+      "HOMER"
+     ]
+    ]
+   },
+   {
+    "link": "Tenpin bowling terms",
+    "tiles": [
+     [
+      "SPARE"
+     ],
+     [
+      "GUTTER"
+     ],
+     [
+      "TURKEY",
+      "🦃"
+     ],
+     [
+      "LANE"
+     ]
+    ]
+   },
+   {
+    "link": "Iron ___",
+    "note": "Iron Man, Iron Age, Iron Maiden, Iron Curtain",
+    "tiles": [
+     [
+      "MAN",
+      "👨"
+     ],
+     [
+      "AGE"
+     ],
+     [
+      "MAIDEN"
+     ],
+     [
+      "CURTAIN"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MAIDEN": [
+    "Cricket terms"
+   ],
+   "INNINGS": [
+    "Baseball terms"
+   ],
+   "STRIKE": [
+    "Tenpin bowling terms"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Skiing terms",
+    "tiles": [
+     [
+      "SLALOM"
+     ],
+     [
+      "DOWNHILL"
+     ],
+     [
+      "MOGULS"
+     ],
+     [
+      "LIFT",
+      "🛗"
+     ]
+    ]
+   },
+   {
+    "link": "Swimming events",
+    "tiles": [
+     [
+      "MEDLEY"
+     ],
+     [
+      "FREESTYLE"
+     ],
+     [
+      "BUTTERFLY",
+      "🦋"
+     ],
+     [
+      "RELAY"
+     ]
+    ]
+   },
+   {
+    "link": "Track cycling events",
+    "tiles": [
+     [
+      "SPRINT"
+     ],
+     [
+      "KEIRIN"
+     ],
+     [
+      "PURSUIT"
+     ],
+     [
+      "MADISON"
+     ]
+    ]
+   },
+   {
+    "link": "Jet ___",
+    "note": "Jet ski, jet lag, jet stream, jet set",
+    "tiles": [
+     [
+      "SKI",
+      "🎿"
+     ],
+     [
+      "LAG"
+     ],
+     [
+      "STREAM"
+     ],
+     [
+      "SET"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SKI": [
+    "Skiing terms"
+   ],
+   "FREESTYLE": [
+    "Skiing terms"
+   ],
+   "SPRINT": [
+    "Swimming events"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Toys",
+    "tiles": [
+     [
+      "YOYO",
+      "🪀"
+     ],
+     [
+      "SLINKY"
+     ],
+     [
+      "FRISBEE",
+      "🥏"
+     ],
+     [
+      "TEDDY",
+      "🧸"
+     ]
+    ]
+   },
+   {
+    "link": "Cricket roles",
+    "tiles": [
+     [
+      "BATTER"
+     ],
+     [
+      "FIELDER"
+     ],
+     [
+      "UMPIRE"
+     ],
+     [
+      "CAPTAIN"
+     ]
+    ]
+   },
+   {
+    "link": "Sports officials",
+    "tiles": [
+     [
+      "REFEREE"
+     ],
+     [
+      "LINESMAN"
+     ],
+     [
+      "JUDGE"
+     ],
+     [
+      "STEWARD"
+     ]
+    ]
+   },
+   {
+    "link": "___ hat",
+    "note": "Top hat, bowler hat, sun hat, hat-trick",
+    "tiles": [
+     [
+      "TOP"
+     ],
+     [
+      "BOWLER"
+     ],
+     [
+      "SUN",
+      "☀️"
+     ],
+     [
+      "TRICK"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TOP": [
+    "Toys"
+   ],
+   "BOWLER": [
+    "Cricket roles"
+   ],
+   "UMPIRE": [
+    "Sports officials"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Archery equipment",
+    "tiles": [
+     [
+      "BOW",
+      "🎀"
+     ],
+     [
+      "QUIVER"
+     ],
+     [
+      "TARGET",
+      "🎯"
+     ],
+     [
+      "BRACER"
+     ]
+    ]
+   },
+   {
+    "link": "Cricket shots",
+    "tiles": [
+     [
+      "DRIVE"
+     ],
+     [
+      "PULL"
+     ],
+     [
+      "SWEEP",
+      "🧹"
+     ],
+     [
+      "GLANCE"
+     ]
+    ]
+   },
+   {
+    "link": "Monopoly streets",
+    "tiles": [
+     [
+      "BOND"
+     ],
+     [
+      "FLEET"
+     ],
+     [
+      "REGENT"
+     ],
+     [
+      "VINE"
+     ]
+    ]
+   },
+   {
+    "link": "___ head",
+    "note": "Egghead, blockhead, deadhead, arrowhead",
+    "tiles": [
+     [
+      "EGG",
+      "🥚"
+     ],
+     [
+      "BLOCK"
+     ],
+     [
+      "DEAD"
+     ],
+     [
+      "ARROW"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ARROW": [
+    "Archery equipment"
+   ],
+   "BLOCK": [
+    "Cricket shots"
+   ],
+   "BOW": [
+    "Monopoly streets"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Card game terms",
+    "tiles": [
+     [
+      "DEAL",
+      "🤝"
+     ],
+     [
+      "SHUFFLE"
+     ],
+     [
+      "TRUMP"
+     ],
+     [
+      "DISCARD"
+     ]
+    ]
+   },
+   {
+    "link": "World snooker champions",
+    "tiles": [
+     [
+      "DAVIS"
+     ],
+     [
+      "HENDRY"
+     ],
+     [
+      "HIGGINS"
+     ],
+     [
+      "SELBY"
+     ]
+    ]
+   },
+   {
+    "link": "Sporting cups",
+    "tiles": [
+     [
+      "RYDER"
+     ],
+     [
+      "SOLHEIM"
+     ],
+     [
+      "WALKER"
+     ],
+     [
+      "STANLEY"
+     ]
+    ]
+   },
+   {
+    "link": "___ hand",
+    "note": "Deckhand, farmhand, first-hand, second-hand",
+    "tiles": [
+     [
+      "DECK"
+     ],
+     [
+      "FARM"
+     ],
+     [
+      "FIRST",
+      "🥇"
+     ],
+     [
+      "SECOND",
+      "🥈"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "DECK": [
+    "Card game terms"
+   ],
+   "TRUMP": [
+    "World snooker champions"
+   ],
+   "DAVIS": [
+    "Sporting cups"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "F1 champions",
+    "tiles": [
+     [
+      "HUNT"
+     ],
+     [
+      "BUTTON"
+     ],
+     [
+      "HAMILTON"
+     ],
+     [
+      "MANSELL"
+     ]
+    ]
+   },
+   {
+    "link": "1966 World Cup winners",
+    "tiles": [
+     [
+      "MOORE"
+     ],
+     [
+      "HURST"
+     ],
+     [
+      "BANKS"
+     ],
+     [
+      "BALL",
+      "⚽"
+     ]
+    ]
+   },
+   {
+    "link": "Dance events",
+    "tiles": [
+     [
+      "PROM"
+     ],
+     [
+      "DISCO"
+     ],
+     [
+      "CEILIDH"
+     ],
+     [
+      "RAVE"
+     ]
+    ]
+   },
+   {
+    "link": "___ hole",
+    "note": "Keyhole, loophole, pigeonhole, porthole",
+    "tiles": [
+     [
+      "KEY",
+      "🔑"
+     ],
+     [
+      "LOOP"
+     ],
+     [
+      "PIGEON"
+     ],
+     [
+      "PORT",
+      "🍷"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "HUNT": [
+    "1966 World Cup winners"
+   ],
+   "BALL": [
+    "Dance events"
+   ],
+   "BUTTON": [
+    "___ hole"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Olympic host cities",
+    "tiles": [
+     [
+      "ATHENS"
+     ],
+     [
+      "PARIS"
+     ],
+     [
+      "ROME"
+     ],
+     [
+      "SEOUL"
+     ]
+    ]
+   },
+   {
+    "link": "Marathon majors",
+    "tiles": [
+     [
+      "BOSTON"
+     ],
+     [
+      "CHICAGO"
+     ],
+     [
+      "BERLIN"
+     ],
+     [
+      "LONDON"
+     ]
+    ]
+   },
+   {
+    "link": "Grand Prix cities",
+    "tiles": [
+     [
+      "MONACO"
+     ],
+     [
+      "SINGAPORE"
+     ],
+     [
+      "MELBOURNE"
+     ],
+     [
+      "MONTREAL"
+     ]
+    ]
+   },
+   {
+    "link": "___ island",
+    "note": "Treasure Island, Easter Island, desert island, traffic island",
+    "tiles": [
+     [
+      "TREASURE"
+     ],
+     [
+      "EASTER",
+      "🐣"
+     ],
+     [
+      "DESERT",
+      "🏜️"
+     ],
+     [
+      "TRAFFIC",
+      "🚦"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LONDON": [
+    "Olympic host cities"
+   ],
+   "BERLIN": [
+    "Olympic host cities"
+   ],
+   "MELBOURNE": [
+    "Olympic host cities"
+   ],
+   "MONTREAL": [
+    "Olympic host cities"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Racecourses",
+    "tiles": [
+     [
+      "ASCOT"
+     ],
+     [
+      "EPSOM"
+     ],
+     [
+      "AINTREE"
+     ],
+     [
+      "KEMPTON"
+     ]
+    ]
+   },
+   {
+    "link": "Football's Uniteds",
+    "tiles": [
+     [
+      "LEEDS"
+     ],
+     [
+      "OXFORD"
+     ],
+     [
+      "CARLISLE"
+     ],
+     [
+      "NEWCASTLE"
+     ]
+    ]
+   },
+   {
+    "link": "Football's Rovers",
+    "tiles": [
+     [
+      "BLACKBURN"
+     ],
+     [
+      "BRISTOL"
+     ],
+     [
+      "TRANMERE"
+     ],
+     [
+      "DONCASTER"
+     ]
+    ]
+   },
+   {
+    "link": "___ hill",
+    "note": "Molehill, anthill, downhill, foothill",
+    "tiles": [
+     [
+      "MOLE"
+     ],
+     [
+      "ANT",
+      "🐜"
+     ],
+     [
+      "DOWN",
+      "👇"
+     ],
+     [
+      "FOOT",
+      "🦶"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CARLISLE": [
+    "Racecourses"
+   ],
+   "NEWCASTLE": [
+    "Racecourses"
+   ],
+   "DONCASTER": [
+    "Racecourses"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Football club suffixes",
+    "tiles": [
+     [
+      "UNITED"
+     ],
+     [
+      "ROVERS"
+     ],
+     [
+      "ALBION"
+     ],
+     [
+      "ATHLETIC"
+     ]
+    ]
+   },
+   {
+    "link": "Football club staff",
+    "tiles": [
+     [
+      "MANAGER"
+     ],
+     [
+      "PHYSIO"
+     ],
+     [
+      "KITMAN"
+     ],
+     [
+      "CHAIRMAN"
+     ]
+    ]
+   },
+   {
+    "link": "Boxing weights",
+    "tiles": [
+     [
+      "FEATHER",
+      "🪶"
+     ],
+     [
+      "BANTAM"
+     ],
+     [
+      "WELTER"
+     ],
+     [
+      "HEAVY"
+     ]
+    ]
+   },
+   {
+    "link": "___ house",
+    "note": "Town house, coach house, lighthouse, opera house",
+    "tiles": [
+     [
+      "TOWN"
+     ],
+     [
+      "COACH",
+      "🚌"
+     ],
+     [
+      "LIGHT",
+      "💡"
+     ],
+     [
+      "OPERA"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TOWN": [
+    "Football club suffixes"
+   ],
+   "COACH": [
+    "Football club staff"
+   ],
+   "LIGHT": [
+    "Boxing weights"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Outdoor pursuits",
+    "tiles": [
+     [
+      "HIKING"
+     ],
+     [
+      "CYCLING",
+      "🚴"
+     ],
+     [
+      "CLIMBING",
+      "🧗"
+     ],
+     [
+      "ANGLING"
+     ]
+    ]
+   },
+   {
+    "link": "Horse sports",
+    "tiles": [
+     [
+      "RACING",
+      "🏎️"
+     ],
+     [
+      "DRESSAGE"
+     ],
+     [
+      "EVENTING"
+     ],
+     [
+      "DRIVING"
+     ]
+    ]
+   },
+   {
+    "link": "Motor sports",
+    "tiles": [
+     [
+      "RALLYING"
+     ],
+     [
+      "KARTING"
+     ],
+     [
+      "SPEEDWAY"
+     ],
+     [
+      "MOTOCROSS"
+     ]
+    ]
+   },
+   {
+    "link": "___ hood",
+    "note": "Childhood, falsehood, Riding Hood, parenthood",
+    "tiles": [
+     [
+      "CHILD",
+      "🧒"
+     ],
+     [
+      "FALSE"
+     ],
+     [
+      "RIDING"
+     ],
+     [
+      "PARENT"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "RIDING": [
+    "Outdoor pursuits",
+    "Horse sports"
+   ],
+   "RACING": [
+    "Motor sports"
+   ],
+   "DRIVING": [
+    "Motor sports"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Nintendo characters",
+    "tiles": [
+     [
+      "MARIO"
+     ],
+     [
+      "LUIGI"
+     ],
+     [
+      "PEACH",
+      "🍑"
+     ],
+     [
+      "TOAD",
+      "🍄"
+     ]
+    ]
+   },
+   {
+    "link": "Video games",
+    "tiles": [
+     [
+      "TETRIS"
+     ],
+     [
+      "MINECRAFT",
+      "⛏️"
+     ],
+     [
+      "ZELDA"
+     ],
+     [
+      "POKEMON"
+     ]
+    ]
+   },
+   {
+    "link": "Games consoles",
+    "tiles": [
+     [
+      "SWITCH"
+     ],
+     [
+      "WII"
+     ],
+     [
+      "XBOX"
+     ],
+     [
+      "ATARI"
+     ]
+    ]
+   },
+   {
+    "link": "Homophones of pronouns",
+    "note": "Our, him, you, I",
+    "tiles": [
+     [
+      "HOUR"
+     ],
+     [
+      "HYMN"
+     ],
+     [
+      "YEW"
+     ],
+     [
+      "AYE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ZELDA": [
+    "Nintendo characters"
+   ],
+   "POKEMON": [
+    "Nintendo characters"
+   ],
+   "WII": [
+    "Homophones of pronouns"
    ]
   }
  }
