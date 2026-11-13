@@ -3,7 +3,8 @@
 
 Wall numbers are permanent. levels/order.json records the play order; walls already in it keep their
 place, and walls not yet in it are appended to the end. Newly added walls are mixed among themselves:
-gentle to hard, alternating between their batch files so subjects do not clump.
+gentle to hard, alternating between their batch files so subjects do not clump. Walls marked
+"feature": true (personal ones) are instead spaced evenly through the new walls.
 Words may recur across walls; a new wall is dropped only if it fails validation or repeats a group
 (the same four tiles, or three of the same four) that is already in the game.
 Usage: build.py [--dry]"""
@@ -38,7 +39,7 @@ for i in order: take(byid[i])
 kept=len(out); placed=set(order)
 for w in core:
     if wid(w) not in placed: take(w); placed.add(wid(w))
-pool=[]
+pool=[];pending=[];regular=[];feature=[]
 for d in range(1,6):
     cols=[[(n,i,w) for i,w in enumerate(b) if w.get('difficulty')==d and 'groups' in w] for n,b in batches]
     for row in itertools.zip_longest(*cols): pool+=[x for x in row if x]
@@ -47,8 +48,12 @@ for n,i,w in pool:
     except Exception: dropped[n+': invalid']+=1; continue
     if k in placed: continue
     if check_wall(w,i): dropped[n+': invalid']+=1; continue
-    if any(same_combo(group_words(g),c) for g in w['groups'] for c in combos): dropped[n+': repeated group']+=1; continue
-    take(w); placed.add(k)
+    mine=[group_words(g) for g in w['groups']]
+    if any(same_combo(a,c) for a in mine for c in combos+pending): dropped[n+': repeated group']+=1; continue
+    pending+=mine; placed.add(k); (feature if w.get('feature') else regular).append(w)
+# feature walls (marked "feature": true, e.g. personal ones) are spaced evenly through this build's new walls
+for j,w in enumerate(feature): regular.insert(round((j+.5)*len(regular)/len(feature))+j,w)
+for w in regular: take(w)
 print(f'{len(out)} walls: {kept} already placed, {len(out)-kept} appended; {sum(dropped.values())} dropped',dict(dropped))
 print(len(words),'distinct words; most reused:',words.most_common(8))
 if '--dry' in sys.argv: sys.exit()

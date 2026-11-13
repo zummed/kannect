@@ -23,7 +23,8 @@ One self-contained page, `kannect.html`.
 
 Wall numbers are permanent. `levels/order.json` records the play order: walls already listed keep their
 number, and new walls are appended to the end. Walls added in the same build are mixed among themselves,
-gentle to hard, alternating between their batch files so subjects do not clump. Commit `order.json` with
+gentle to hard, alternating between their batch files so subjects do not clump. A wall marked
+`"feature": true` (the personal ones in `batch_12.json`) is instead spaced evenly through the new walls. Commit `order.json` with
 every build, and do not delete or change the words of a wall that is already listed.
 
 Words may recur across walls. A new wall is dropped only if it fails validation or repeats a group already

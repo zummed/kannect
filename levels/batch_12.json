@@ -86,7 +86,8 @@
    "NEWPORT": [
     "Isle of Wight towns"
    ]
-  }
+  },
+  "feature": true
  },
  {
   "difficulty": 1,
@@ -176,7 +177,8 @@
    "FAITH": [
     "Virtues used as girls' names"
    ]
-  }
+  },
+  "feature": true
  },
  {
   "difficulty": 2,
@@ -268,7 +270,8 @@
    "DOCK": [
     "Victoria ___"
    ]
-  }
+  },
+  "feature": true
  },
  {
   "difficulty": 2,
@@ -355,7 +358,8 @@
    "PERRY": [
     "Friends actors"
    ]
-  }
+  },
+  "feature": true
  },
  {
   "difficulty": 3,
@@ -444,7 +448,8 @@
    "DARLING": [
     "Chancellors of the Exchequer"
    ]
-  }
+  },
+  "feature": true
  },
  {
   "difficulty": 3,
@@ -532,6 +537,7 @@
    "RING": [
     "At a boxing match"
    ]
-  }
+  },
+  "feature": true
  }
 ]
