@@ -1,0 +1,1788 @@
+[
+ {
+  "difficulty": 1,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Main Friends characters",
+    "tiles": [
+     [
+      "JOEY",
+      "🦘"
+     ],
+     [
+      "CHANDLER"
+     ],
+     [
+      "PHOEBE"
+     ],
+     [
+      "MONICA"
+     ]
+    ]
+   },
+   {
+    "link": "Baby animals",
+    "tiles": [
+     [
+      "KID",
+      "🧒"
+     ],
+     [
+      "CYGNET"
+     ],
+     [
+      "LAMB"
+     ],
+     [
+      "CHICK",
+      "🐣"
+     ]
+    ]
+   },
+   {
+    "link": "Old trades",
+    "tiles": [
+     [
+      "COOPER"
+     ],
+     [
+      "FLETCHER"
+     ],
+     [
+      "THATCHER"
+     ],
+     [
+      "TANNER"
+     ]
+    ]
+   },
+   {
+    "link": "Recurring Friends characters",
+    "tiles": [
+     [
+      "GUNTHER"
+     ],
+     [
+      "JANICE"
+     ],
+     [
+      "ESTELLE"
+     ],
+     [
+      "RICHARD"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "JOEY": [
+    "Baby animals"
+   ],
+   "CHANDLER": [
+    "Old trades"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Friends stars' first names",
+    "tiles": [
+     [
+      "COURTENEY"
+     ],
+     [
+      "LISA"
+     ],
+     [
+      "DAVID"
+     ],
+     [
+      "JENNIFER"
+     ]
+    ]
+   },
+   {
+    "link": "The Simpsons",
+    "tiles": [
+     [
+      "BART"
+     ],
+     [
+      "HOMER"
+     ],
+     [
+      "MARGE",
+      "🧈"
+     ],
+     [
+      "MAGGIE"
+     ]
+    ]
+   },
+   {
+    "link": "Paint finishes",
+    "tiles": [
+     [
+      "GLOSS"
+     ],
+     [
+      "SATIN"
+     ],
+     [
+      "SILK"
+     ],
+     [
+      "MATT"
+     ]
+    ]
+   },
+   {
+    "link": "Baseball",
+    "tiles": [
+     [
+      "BAT",
+      "🦇"
+     ],
+     [
+      "GLOVE",
+      "🧤"
+     ],
+     [
+      "DIAMOND",
+      "💎"
+     ],
+     [
+      "STRIKE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MATT": [
+    "Friends stars' first names"
+   ],
+   "LISA": [
+    "The Simpsons"
+   ],
+   "HOMER": [
+    "Baseball"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Ross's girlfriends",
+    "tiles": [
+     [
+      "JULIE"
+     ],
+     [
+      "MONA"
+     ],
+     [
+      "BONNIE"
+     ],
+     [
+      "CHARLIE"
+     ]
+    ]
+   },
+   {
+    "link": "Chandler's girlfriends",
+    "tiles": [
+     [
+      "JANICE"
+     ],
+     [
+      "KATHY"
+     ],
+     [
+      "JOANNA"
+     ],
+     [
+      "AURORA"
+     ]
+    ]
+   },
+   {
+    "link": "Christmas ___",
+    "tiles": [
+     [
+      "TREE",
+      "🌲"
+     ],
+     [
+      "CAKE",
+      "🎂"
+     ],
+     [
+      "STOCKING",
+      "🧦"
+     ],
+     [
+      "CAROL"
+     ]
+    ]
+   },
+   {
+    "link": "The Brontës",
+    "tiles": [
+     [
+      "ANNE"
+     ],
+     [
+      "CHARLOTTE"
+     ],
+     [
+      "BRANWELL"
+     ],
+     [
+      "EMILY"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CAROL": [
+    "Ross's girlfriends"
+   ],
+   "EMILY": [
+    "Ross's girlfriends"
+   ],
+   "JANICE": [
+    "Ross's girlfriends"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Slang for sums of money",
+    "tiles": [
+     [
+      "MONKEY"
+     ],
+     [
+      "TON"
+     ],
+     [
+      "GRAND"
+     ],
+     [
+      "TENNER"
+     ]
+    ]
+   },
+   {
+    "link": "Animals the Friends look after",
+    "tiles": [
+     [
+      "CHICK",
+      "🐥"
+     ],
+     [
+      "DUCK",
+      "🦆"
+     ],
+     [
+      "CAT"
+     ],
+     [
+      "DOG"
+     ]
+    ]
+   },
+   {
+    "link": "Chinese zodiac",
+    "tiles": [
+     [
+      "TIGER",
+      "🐯"
+     ],
+     [
+      "DRAGON"
+     ],
+     [
+      "GOAT",
+      "🐐"
+     ],
+     [
+      "PIG",
+      "🐖"
+     ]
+    ]
+   },
+   {
+    "link": "Avoid",
+    "tiles": [
+     [
+      "DODGE"
+     ],
+     [
+      "SWERVE"
+     ],
+     [
+      "EVADE"
+     ],
+     [
+      "SIDESTEP"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MONKEY": [
+    "Animals the Friends look after",
+    "Chinese zodiac"
+   ],
+   "DOG": [
+    "Chinese zodiac"
+   ],
+   "DUCK": [
+    "Avoid"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Joey's acting jobs",
+    "tiles": [
+     [
+      "DRAKE"
+     ],
+     [
+      "MAC"
+     ],
+     [
+      "FREUD"
+     ],
+     [
+      "ICHIBAN"
+     ]
+    ]
+   },
+   {
+    "link": "Male animals",
+    "tiles": [
+     [
+      "RAM",
+      "🐏"
+     ],
+     [
+      "BUCK"
+     ],
+     [
+      "BOAR",
+      "🐗"
+     ],
+     [
+      "TOM"
+     ]
+    ]
+   },
+   {
+    "link": "Coats and jackets",
+    "tiles": [
+     [
+      "PARKA"
+     ],
+     [
+      "ANORAK"
+     ],
+     [
+      "DUFFLE"
+     ],
+     [
+      "PUFFER",
+      "🐡"
+     ]
+    ]
+   },
+   {
+    "link": "Darts",
+    "tiles": [
+     [
+      "BULL"
+     ],
+     [
+      "TREBLE"
+     ],
+     [
+      "DOUBLE"
+     ],
+     [
+      "OCHE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "DRAKE": [
+    "Male animals"
+   ],
+   "MAC": [
+    "Coats and jackets"
+   ],
+   "BULL": [
+    "Male animals"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Phoebe's family",
+    "tiles": [
+     [
+      "URSULA"
+     ],
+     [
+      "FRANK"
+     ],
+     [
+      "ALICE"
+     ],
+     [
+      "LILY"
+     ]
+    ]
+   },
+   {
+    "link": "Disney villains",
+    "tiles": [
+     [
+      "SCAR"
+     ],
+     [
+      "JAFAR"
+     ],
+     [
+      "GASTON"
+     ],
+     [
+      "HOOK",
+      "🪝"
+     ]
+    ]
+   },
+   {
+    "link": "Honest",
+    "tiles": [
+     [
+      "CANDID"
+     ],
+     [
+      "BLUNT"
+     ],
+     [
+      "DIRECT"
+     ],
+     [
+      "OPEN"
+     ]
+    ]
+   },
+   {
+    "link": "Flowers",
+    "tiles": [
+     [
+      "TULIP",
+      "🌷"
+     ],
+     [
+      "DAISY",
+      "🌼"
+     ],
+     [
+      "VIOLET"
+     ],
+     [
+      "ROSE",
+      "🌹"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "URSULA": [
+    "Disney villains"
+   ],
+   "FRANK": [
+    "Honest"
+   ],
+   "LILY": [
+    "Flowers"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "feature": true,
+  "groups": [
+   {
+    "link": "The One With the ___",
+    "note": "Friends episode titles",
+    "tiles": [
+     [
+      "EMBRYOS"
+     ],
+     [
+      "CUFFS"
+     ],
+     [
+      "YETI"
+     ],
+     [
+      "JELLYFISH"
+     ]
+    ]
+   },
+   {
+    "link": "Sea creatures",
+    "tiles": [
+     [
+      "SQUID"
+     ],
+     [
+      "OCTOPUS"
+     ],
+     [
+      "LOBSTER",
+      "🦞"
+     ],
+     [
+      "CRAB",
+      "🦀"
+     ]
+    ]
+   },
+   {
+    "link": "Mythical creatures",
+    "tiles": [
+     [
+      "UNICORN"
+     ],
+     [
+      "DRAGON",
+      "🐉"
+     ],
+     [
+      "PHOENIX"
+     ],
+     [
+      "GRIFFIN"
+     ]
+    ]
+   },
+   {
+    "link": "On toast",
+    "tiles": [
+     [
+      "JAM"
+     ],
+     [
+      "MARMITE"
+     ],
+     [
+      "HONEY",
+      "🍯"
+     ],
+     [
+      "BUTTER",
+      "🧈"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "JAM": [
+    "The One With the ___"
+   ],
+   "JELLYFISH": [
+    "Sea creatures"
+   ],
+   "YETI": [
+    "Mythical creatures"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Guest stars in Friends",
+    "tiles": [
+     [
+      "PITT"
+     ],
+     [
+      "CRYSTAL",
+      "🔮"
+     ],
+     [
+      "WILLIS"
+     ],
+     [
+      "CLOONEY"
+     ]
+    ]
+   },
+   {
+    "link": "Prime Ministers",
+    "tiles": [
+     [
+      "PEEL"
+     ],
+     [
+      "EDEN"
+     ],
+     [
+      "HEATH"
+     ],
+     [
+      "MAJOR"
+     ]
+    ]
+   },
+   {
+    "link": "Wedding anniversaries",
+    "tiles": [
+     [
+      "PAPER",
+      "📰"
+     ],
+     [
+      "RUBY"
+     ],
+     [
+      "PEARL"
+     ],
+     [
+      "GOLD",
+      "🥇"
+     ]
+    ]
+   },
+   {
+    "link": "Music theory",
+    "tiles": [
+     [
+      "MINOR"
+     ],
+     [
+      "SHARP"
+     ],
+     [
+      "FLAT"
+     ],
+     [
+      "NATURAL"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PITT": [
+    "Prime Ministers"
+   ],
+   "CRYSTAL": [
+    "Wedding anniversaries"
+   ],
+   "MAJOR": [
+    "Music theory"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "feature": true,
+  "groups": [
+   {
+    "link": "The Friends' jobs",
+    "tiles": [
+     [
+      "CHEF"
+     ],
+     [
+      "WAITRESS"
+     ],
+     [
+      "MASSEUSE"
+     ],
+     [
+      "ACTOR"
+     ]
+    ]
+   },
+   {
+    "link": "The One With the ___",
+    "note": "Friends episode titles",
+    "tiles": [
+     [
+      "COP",
+      "👮"
+     ],
+     [
+      "STRIPPER"
+     ],
+     [
+      "DONOR"
+     ],
+     [
+      "JOKE"
+     ]
+    ]
+   },
+   {
+    "link": "Master ___",
+    "note": "Mastermind, masterstroke, Mastercard, master key",
+    "tiles": [
+     [
+      "MIND"
+     ],
+     [
+      "STROKE"
+     ],
+     [
+      "CARD",
+      "💳"
+     ],
+     [
+      "KEY",
+      "🔑"
+     ]
+    ]
+   },
+   {
+    "link": "Musicals",
+    "tiles": [
+     [
+      "WICKED"
+     ],
+     [
+      "HAIR"
+     ],
+     [
+      "CHICAGO"
+     ],
+     [
+      "OLIVER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CHEF": [
+    "Master ___"
+   ],
+   "WAITRESS": [
+    "Musicals"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Where the Friends travel",
+    "tiles": [
+     [
+      "TULSA"
+     ],
+     [
+      "MONTAUK"
+     ],
+     [
+      "VEGAS",
+      "🎰"
+     ],
+     [
+      "LONDON",
+      "💂"
+     ]
+    ]
+   },
+   {
+    "link": "Arabian Peninsula countries",
+    "tiles": [
+     [
+      "OMAN"
+     ],
+     [
+      "QATAR"
+     ],
+     [
+      "KUWAIT"
+     ],
+     [
+      "YEMEN"
+     ]
+    ]
+   },
+   {
+    "link": "Caribbean islands",
+    "tiles": [
+     [
+      "JAMAICA"
+     ],
+     [
+      "CUBA"
+     ],
+     [
+      "ANTIGUA"
+     ],
+     [
+      "BARBADOS"
+     ]
+    ]
+   },
+   {
+    "link": "Trojan War figures",
+    "tiles": [
+     [
+      "HECTOR"
+     ],
+     [
+      "AJAX"
+     ],
+     [
+      "ODYSSEUS"
+     ],
+     [
+      "PARIS",
+      "🗼"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "YEMEN": [
+    "Where the Friends travel"
+   ],
+   "BARBADOS": [
+    "Where the Friends travel"
+   ],
+   "PARIS": [
+    "Where the Friends travel"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Sisters in Friends",
+    "tiles": [
+     [
+      "JILL"
+     ],
+     [
+      "URSULA"
+     ],
+     [
+      "MONICA"
+     ],
+     [
+      "RACHEL"
+     ]
+    ]
+   },
+   {
+    "link": "Little Women",
+    "tiles": [
+     [
+      "MEG"
+     ],
+     [
+      "JO"
+     ],
+     [
+      "BETH"
+     ],
+     [
+      "AMY"
+     ]
+    ]
+   },
+   {
+    "link": "Nursery rhyme names",
+    "tiles": [
+     [
+      "HUMPTY",
+      "🥚"
+     ],
+     [
+      "MUFFET"
+     ],
+     [
+      "POLLY",
+      "🦜"
+     ],
+     [
+      "JACK"
+     ]
+    ]
+   },
+   {
+    "link": "Playing cards",
+    "tiles": [
+     [
+      "KING"
+     ],
+     [
+      "QUEEN"
+     ],
+     [
+      "JOKER",
+      "🃏"
+     ],
+     [
+      "DEUCE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "AMY": [
+    "Sisters in Friends"
+   ],
+   "JILL": [
+    "Nursery rhyme names"
+   ],
+   "JACK": [
+    "Playing cards"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Rachel's boyfriends",
+    "tiles": [
+     [
+      "BARRY"
+     ],
+     [
+      "PAOLO"
+     ],
+     [
+      "TAG",
+      "🏷️"
+     ],
+     [
+      "JOSHUA"
+     ]
+    ]
+   },
+   {
+    "link": "The Beatles",
+    "tiles": [
+     [
+      "JOHN"
+     ],
+     [
+      "GEORGE"
+     ],
+     [
+      "RINGO"
+     ],
+     [
+      "PAUL"
+     ]
+    ]
+   },
+   {
+    "link": "Old Testament books",
+    "tiles": [
+     [
+      "JUDGES"
+     ],
+     [
+      "RUTH"
+     ],
+     [
+      "KINGS"
+     ],
+     [
+      "JOB",
+      "💼"
+     ]
+    ]
+   },
+   {
+    "link": "Playground games",
+    "tiles": [
+     [
+      "HOPSCOTCH"
+     ],
+     [
+      "CONKERS",
+      "🌰"
+     ],
+     [
+      "SKIPPING"
+     ],
+     [
+      "ROUNDERS"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PAUL": [
+    "Rachel's boyfriends"
+   ],
+   "JOSHUA": [
+    "Old Testament books"
+   ],
+   "TAG": [
+    "Playground games"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Things Ross goes on about",
+    "tiles": [
+     [
+      "PIVOT"
+     ],
+     [
+      "UNAGI"
+     ],
+     [
+      "BREAK"
+     ],
+     [
+      "SANDWICH",
+      "🥪"
+     ]
+    ]
+   },
+   {
+    "link": "Turn",
+    "tiles": [
+     [
+      "SWIVEL"
+     ],
+     [
+      "ROTATE"
+     ],
+     [
+      "SPIN"
+     ],
+     [
+      "TWIST"
+     ]
+    ]
+   },
+   {
+    "link": "Food Joey loves",
+    "tiles": [
+     [
+      "PIZZA",
+      "🍕"
+     ],
+     [
+      "JAM"
+     ],
+     [
+      "TRIFLE"
+     ],
+     [
+      "MEATBALL"
+     ]
+    ]
+   },
+   {
+    "link": "Snooker",
+    "tiles": [
+     [
+      "CUE"
+     ],
+     [
+      "POT",
+      "🍲"
+     ],
+     [
+      "FRAME",
+      "🖼️"
+     ],
+     [
+      "BAIZE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PIVOT": [
+    "Turn"
+   ],
+   "SANDWICH": [
+    "Food Joey loves"
+   ],
+   "BREAK": [
+    "Snooker"
+   ],
+   "SPIN": [
+    "Snooker"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Friends Thanksgiving episodes",
+    "tiles": [
+     [
+      "TURKEY",
+      "🦃"
+     ],
+     [
+      "TRIFLE"
+     ],
+     [
+      "FOOTBALL",
+      "⚽"
+     ],
+     [
+      "BOX",
+      "📦"
+     ]
+    ]
+   },
+   {
+    "link": "Puddings",
+    "tiles": [
+     [
+      "CRUMBLE"
+     ],
+     [
+      "FOOL"
+     ],
+     [
+      "SPONGE",
+      "🧽"
+     ],
+     [
+      "TART"
+     ]
+    ]
+   },
+   {
+    "link": "Countries",
+    "tiles": [
+     [
+      "CHAD"
+     ],
+     [
+      "JORDAN"
+     ],
+     [
+      "GEORGIA"
+     ],
+     [
+      "PERU"
+     ]
+    ]
+   },
+   {
+    "link": "Games played in Friends",
+    "tiles": [
+     [
+      "POKER"
+     ],
+     [
+      "CUPS"
+     ],
+     [
+      "FOOSBALL"
+     ],
+     [
+      "TWISTER",
+      "🌪️"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TRIFLE": [
+    "Puddings"
+   ],
+   "TURKEY": [
+    "Countries"
+   ],
+   "FOOTBALL": [
+    "Games played in Friends"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "feature": true,
+  "groups": [
+   {
+    "link": "In Friends' London episodes",
+    "tiles": [
+     [
+      "LAURIE"
+     ],
+     [
+      "SAUNDERS"
+     ],
+     [
+      "BRANSON"
+     ],
+     [
+      "CONTI"
+     ]
+    ]
+   },
+   {
+    "link": "Half a comedy double act",
+    "tiles": [
+     [
+      "FRY",
+      "🍳"
+     ],
+     [
+      "FRENCH"
+     ],
+     [
+      "WISE",
+      "🦉"
+     ],
+     [
+      "REEVES"
+     ]
+    ]
+   },
+   {
+    "link": "Ways to cook",
+    "tiles": [
+     [
+      "BOIL"
+     ],
+     [
+      "ROAST"
+     ],
+     [
+      "POACH"
+     ],
+     [
+      "GRILL"
+     ]
+    ]
+   },
+   {
+    "link": "Languages",
+    "tiles": [
+     [
+      "DUTCH"
+     ],
+     [
+      "POLISH",
+      "💅"
+     ],
+     [
+      "WELSH"
+     ],
+     [
+      "GREEK"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LAURIE": [
+    "Half a comedy double act"
+   ],
+   "SAUNDERS": [
+    "Half a comedy double act"
+   ],
+   "FRY": [
+    "Ways to cook"
+   ],
+   "FRENCH": [
+    "Languages"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Friends stars",
+    "tiles": [
+     [
+      "COX"
+     ],
+     [
+      "PERRY"
+     ],
+     [
+      "ANISTON"
+     ],
+     [
+      "LEBLANC"
+     ]
+    ]
+   },
+   {
+    "link": "Apples",
+    "tiles": [
+     [
+      "GALA"
+     ],
+     [
+      "BRAMLEY"
+     ],
+     [
+      "FUJI",
+      "🗻"
+     ],
+     [
+      "JAZZ",
+      "🎷"
+     ]
+    ]
+   },
+   {
+    "link": "Alcoholic drinks",
+    "tiles": [
+     [
+      "CIDER"
+     ],
+     [
+      "MEAD"
+     ],
+     [
+      "STOUT"
+     ],
+     [
+      "PUNCH",
+      "🥊"
+     ]
+    ]
+   },
+   {
+    "link": "Parties",
+    "tiles": [
+     [
+      "BALL"
+     ],
+     [
+      "BASH"
+     ],
+     [
+      "RAVE"
+     ],
+     [
+      "FETE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "COX": [
+    "Apples"
+   ],
+   "PERRY": [
+    "Alcoholic drinks"
+   ],
+   "GALA": [
+    "Parties"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Monica's men",
+    "tiles": [
+     [
+      "RICHARD"
+     ],
+     [
+      "PETE"
+     ],
+     [
+      "ALAN"
+     ],
+     [
+      "CHANDLER"
+     ]
+    ]
+   },
+   {
+    "link": "Phoebe's men",
+    "tiles": [
+     [
+      "MIKE",
+      "🎤"
+     ],
+     [
+      "DAVID"
+     ],
+     [
+      "GARY"
+     ],
+     [
+      "DUNCAN"
+     ]
+    ]
+   },
+   {
+    "link": "Kings in Shakespeare",
+    "tiles": [
+     [
+      "LEAR"
+     ],
+     [
+      "HENRY"
+     ],
+     [
+      "JOHN"
+     ],
+     [
+      "MACBETH"
+     ]
+    ]
+   },
+   {
+    "link": "Saints",
+    "tiles": [
+     [
+      "ANDREW"
+     ],
+     [
+      "GEORGE"
+     ],
+     [
+      "VALENTINE",
+      "💌"
+     ],
+     [
+      "NICHOLAS",
+      "🎅"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "RICHARD": [
+    "Kings in Shakespeare"
+   ],
+   "DUNCAN": [
+    "Kings in Shakespeare"
+   ],
+   "DAVID": [
+    "Saints"
+   ],
+   "JOHN": [
+    "Saints"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "feature": true,
+  "groups": [
+   {
+    "link": "It hasn't been your ___",
+    "note": "Friends theme: your day, your week, your month, or even your year",
+    "tiles": [
+     [
+      "DAY"
+     ],
+     [
+      "WEEK"
+     ],
+     [
+      "MONTH"
+     ],
+     [
+      "YEAR"
+     ]
+    ]
+   },
+   {
+    "link": "In the Friends title sequence",
+    "tiles": [
+     [
+      "FOUNTAIN",
+      "⛲"
+     ],
+     [
+      "SOFA",
+      "🛋️"
+     ],
+     [
+      "UMBRELLA",
+      "☂️"
+     ],
+     [
+      "LAMP"
+     ]
+    ]
+   },
+   {
+    "link": "Light ___",
+    "note": "Lighthouse, light bulb, lightweight, lighthearted",
+    "tiles": [
+     [
+      "HOUSE",
+      "🏠"
+     ],
+     [
+      "BULB",
+      "💡"
+     ],
+     [
+      "WEIGHT"
+     ],
+     [
+      "HEARTED"
+     ]
+    ]
+   },
+   {
+    "link": "Birth ___",
+    "note": "Birthmark, birthstone, birthplace, birthright",
+    "tiles": [
+     [
+      "MARK"
+     ],
+     [
+      "STONE",
+      "🪨"
+     ],
+     [
+      "PLACE"
+     ],
+     [
+      "RIGHT"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "YEAR": [
+    "Light ___"
+   ],
+   "DAY": [
+    "Birth ___"
+   ],
+   "WEIGHT": [
+    "Birth ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Babies born in Friends",
+    "tiles": [
+     [
+      "BEN"
+     ],
+     [
+      "EMMA"
+     ],
+     [
+      "ERICA"
+     ],
+     [
+      "JACK"
+     ]
+    ]
+   },
+   {
+    "link": "Parents of the Friends",
+    "tiles": [
+     [
+      "JUDY"
+     ],
+     [
+      "NORA"
+     ],
+     [
+      "LEONARD"
+     ],
+     [
+      "SANDRA"
+     ]
+    ]
+   },
+   {
+    "link": "Big ___",
+    "note": "Big Bang, big top, Bigfoot, bigwig",
+    "tiles": [
+     [
+      "BANG",
+      "💥"
+     ],
+     [
+      "TOP"
+     ],
+     [
+      "FOOT",
+      "🦶"
+     ],
+     [
+      "WIG"
+     ]
+    ]
+   },
+   {
+    "link": "Lifting gear",
+    "tiles": [
+     [
+      "CRANE",
+      "🏗️"
+     ],
+     [
+      "HOIST"
+     ],
+     [
+      "WINCH"
+     ],
+     [
+      "PULLEY"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "JACK": [
+    "Parents of the Friends",
+    "Lifting gear"
+   ],
+   "BEN": [
+    "Big ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "feature": true,
+  "groups": [
+   {
+    "link": "Costumes worn by the Friends",
+    "tiles": [
+     [
+      "ARMADILLO"
+     ],
+     [
+      "SANTA"
+     ],
+     [
+      "SUPERMAN"
+     ],
+     [
+      "CATWOMAN"
+     ]
+    ]
+   },
+   {
+    "link": "DC superheroes",
+    "tiles": [
+     [
+      "BATMAN"
+     ],
+     [
+      "FLASH",
+      "⚡"
+     ],
+     [
+      "AQUAMAN"
+     ],
+     [
+      "ROBIN"
+     ]
+    ]
+   },
+   {
+    "link": "Easter ___",
+    "note": "Easter egg, Easter bonnet, Easter Sunday, Easter bunny",
+    "tiles": [
+     [
+      "EGG",
+      "🥚"
+     ],
+     [
+      "BONNET"
+     ],
+     [
+      "SUNDAY"
+     ],
+     [
+      "BUNNY"
+     ]
+    ]
+   },
+   {
+    "link": "In Joey and Chandler's flat",
+    "tiles": [
+     [
+      "CHICK",
+      "🐥"
+     ],
+     [
+      "DUCK",
+      "🦆"
+     ],
+     [
+      "FOOSBALL"
+     ],
+     [
+      "RECLINER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BUNNY": [
+    "Costumes worn by the Friends"
+   ],
+   "SUPERMAN": [
+    "DC superheroes"
+   ],
+   "CATWOMAN": [
+    "DC superheroes"
+   ],
+   "CHICK": [
+    "Easter ___"
+   ]
+  }
+ }
+]
