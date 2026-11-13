@@ -1,0 +1,2694 @@
+[
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "___ crossing",
+    "note": "Zebra, pelican, puffin and toucan crossings",
+    "tiles": [
+     [
+      "ZEBRA",
+      "🦓"
+     ],
+     [
+      "PELICAN"
+     ],
+     [
+      "PUFFIN"
+     ],
+     [
+      "TOUCAN"
+     ]
+    ]
+   },
+   {
+    "link": "Sea birds",
+    "tiles": [
+     [
+      "GULL"
+     ],
+     [
+      "GANNET"
+     ],
+     [
+      "TERN"
+     ],
+     [
+      "CORMORANT"
+     ]
+    ]
+   },
+   {
+    "link": "African animals",
+    "tiles": [
+     [
+      "GIRAFFE",
+      "🦒"
+     ],
+     [
+      "HIPPO",
+      "🦛"
+     ],
+     [
+      "RHINO",
+      "🦏"
+     ],
+     [
+      "WARTHOG"
+     ]
+    ]
+   },
+   {
+    "link": "Tropical birds",
+    "tiles": [
+     [
+      "MACAW"
+     ],
+     [
+      "PARROT",
+      "🦜"
+     ],
+     [
+      "COCKATOO"
+     ],
+     [
+      "FLAMINGO",
+      "🦩"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PUFFIN": [
+    "Sea birds"
+   ],
+   "PELICAN": [
+    "Sea birds",
+    "Tropical birds"
+   ],
+   "TOUCAN": [
+    "Tropical birds"
+   ],
+   "ZEBRA": [
+    "African animals"
+   ],
+   "FLAMINGO": [
+    "African animals"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Cow ___",
+    "note": "Cowboy, cowlick, cowpat, cowbell",
+    "tiles": [
+     [
+      "BOY",
+      "👦"
+     ],
+     [
+      "LICK"
+     ],
+     [
+      "PAT"
+     ],
+     [
+      "BELL",
+      "🔔"
+     ]
+    ]
+   },
+   {
+    "link": "Farm buildings",
+    "tiles": [
+     [
+      "BARN"
+     ],
+     [
+      "STABLE"
+     ],
+     [
+      "SILO"
+     ],
+     [
+      "SHED"
+     ]
+    ]
+   },
+   {
+    "link": "Animal collective nouns",
+    "tiles": [
+     [
+      "FLOCK"
+     ],
+     [
+      "PRIDE"
+     ],
+     [
+      "SCHOOL",
+      "🏫"
+     ],
+     [
+      "HERD"
+     ]
+    ]
+   },
+   {
+    "link": "Animal skins",
+    "tiles": [
+     [
+      "PELT"
+     ],
+     [
+      "FLEECE"
+     ],
+     [
+      "LEATHER"
+     ],
+     [
+      "HIDE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SHED": [
+    "Cow ___"
+   ],
+   "HERD": [
+    "Cow ___"
+   ],
+   "HIDE": [
+    "Cow ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Cat ___",
+    "note": "Catnap, catkin, catsuit, catfish",
+    "tiles": [
+     [
+      "NAP"
+     ],
+     [
+      "KIN"
+     ],
+     [
+      "SUIT"
+     ],
+     [
+      "FISH",
+      "🐟"
+     ]
+    ]
+   },
+   {
+    "link": "Horse gaits",
+    "tiles": [
+     [
+      "WALK",
+      "🚶"
+     ],
+     [
+      "TROT"
+     ],
+     [
+      "CANTER"
+     ],
+     [
+      "GALLOP"
+     ]
+    ]
+   },
+   {
+    "link": "Big cats",
+    "tiles": [
+     [
+      "LION",
+      "🦁"
+     ],
+     [
+      "PUMA"
+     ],
+     [
+      "TIGER",
+      "🐅"
+     ],
+     [
+      "LEOPARD"
+     ]
+    ]
+   },
+   {
+    "link": "Sharks",
+    "tiles": [
+     [
+      "NURSE"
+     ],
+     [
+      "MAKO"
+     ],
+     [
+      "BASKING"
+     ],
+     [
+      "BULL"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "WALK": [
+    "Cat ___"
+   ],
+   "TIGER": [
+    "Sharks"
+   ],
+   "LEOPARD": [
+    "Sharks"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Hidden clothing",
+    "note": "BRAcken, tHATch, landsCAPE, HOSEpipe",
+    "tiles": [
+     [
+      "BRACKEN"
+     ],
+     [
+      "THATCH"
+     ],
+     [
+      "LANDSCAPE",
+      "🏞️"
+     ],
+     [
+      "HOSEPIPE"
+     ]
+    ]
+   },
+   {
+    "link": "Sea fish",
+    "tiles": [
+     [
+      "COD"
+     ],
+     [
+      "HADDOCK"
+     ],
+     [
+      "HERRING"
+     ],
+     [
+      "MACKEREL"
+     ]
+    ]
+   },
+   {
+    "link": "Garden tools",
+    "tiles": [
+     [
+      "TROWEL"
+     ],
+     [
+      "RAKE"
+     ],
+     [
+      "FORK",
+      "🍴"
+     ],
+     [
+      "SHEARS",
+      "✂️"
+     ]
+    ]
+   },
+   {
+    "link": "On a moor",
+    "tiles": [
+     [
+      "HEATHER"
+     ],
+     [
+      "PEAT"
+     ],
+     [
+      "GROUSE"
+     ],
+     [
+      "CURLEW"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MACKEREL": [
+    "Hidden clothing"
+   ],
+   "HOSEPIPE": [
+    "Garden tools"
+   ],
+   "BRACKEN": [
+    "On a moor"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "___ cake",
+    "note": "Pancake, fairy cake, cheesecake, shortcake",
+    "tiles": [
+     [
+      "PAN",
+      "🍳"
+     ],
+     [
+      "FAIRY",
+      "🧚"
+     ],
+     [
+      "CHEESE",
+      "🧀"
+     ],
+     [
+      "SHORT"
+     ]
+    ]
+   },
+   {
+    "link": "Types of rock",
+    "tiles": [
+     [
+      "GRANITE"
+     ],
+     [
+      "SLATE"
+     ],
+     [
+      "BASALT"
+     ],
+     [
+      "MARBLE"
+     ]
+    ]
+   },
+   {
+    "link": "Cereal crops",
+    "tiles": [
+     [
+      "WHEAT"
+     ],
+     [
+      "BARLEY"
+     ],
+     [
+      "RYE"
+     ],
+     [
+      "RICE",
+      "🍚"
+     ]
+    ]
+   },
+   {
+    "link": "Seabed creatures",
+    "tiles": [
+     [
+      "CORAL"
+     ],
+     [
+      "URCHIN"
+     ],
+     [
+      "STARFISH"
+     ],
+     [
+      "SPONGE",
+      "🧽"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MARBLE": [
+    "___ cake"
+   ],
+   "RICE": [
+    "___ cake"
+   ],
+   "SPONGE": [
+    "___ cake"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Add C for a new word",
+    "note": "Cowl, chill, creed, cram",
+    "tiles": [
+     [
+      "OWL",
+      "🦉"
+     ],
+     [
+      "HILL"
+     ],
+     [
+      "REED"
+     ],
+     [
+      "RAM",
+      "🐏"
+     ]
+    ]
+   },
+   {
+    "link": "Native British trees",
+    "tiles": [
+     [
+      "OAK"
+     ],
+     [
+      "ELM"
+     ],
+     [
+      "BEECH"
+     ],
+     [
+      "ASH"
+     ]
+    ]
+   },
+   {
+    "link": "Male animals",
+    "tiles": [
+     [
+      "STAG"
+     ],
+     [
+      "BOAR",
+      "🐗"
+     ],
+     [
+      "DRAKE"
+     ],
+     [
+      "GANDER"
+     ]
+    ]
+   },
+   {
+    "link": "Birds of prey",
+    "tiles": [
+     [
+      "HAWK"
+     ],
+     [
+      "EAGLE",
+      "🦅"
+     ],
+     [
+      "FALCON"
+     ],
+     [
+      "BUZZARD"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ASH": [
+    "Add C for a new word"
+   ],
+   "RAM": [
+    "Male animals"
+   ],
+   "OWL": [
+    "Birds of prey"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Curtailed creatures",
+    "note": "Hero(n), came(l), roo(k), sea(l)",
+    "tiles": [
+     [
+      "HERO",
+      "🦸"
+     ],
+     [
+      "CAME"
+     ],
+     [
+      "ROO"
+     ],
+     [
+      "SEA"
+     ]
+    ]
+   },
+   {
+    "link": "Snakes",
+    "tiles": [
+     [
+      "ADDER"
+     ],
+     [
+      "COBRA"
+     ],
+     [
+      "PYTHON"
+     ],
+     [
+      "BOA"
+     ]
+    ]
+   },
+   {
+    "link": "Bodies of water",
+    "tiles": [
+     [
+      "LAKE"
+     ],
+     [
+      "OCEAN",
+      "🌊"
+     ],
+     [
+      "LAGOON"
+     ],
+     [
+      "POND"
+     ]
+    ]
+   },
+   {
+    "link": "Australian animals",
+    "tiles": [
+     [
+      "KOALA",
+      "🐨"
+     ],
+     [
+      "EMU"
+     ],
+     [
+      "PLATYPUS"
+     ],
+     [
+      "WALLABY"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BOA": [
+    "Curtailed creatures"
+   ],
+   "SEA": [
+    "Bodies of water"
+   ],
+   "ROO": [
+    "Australian animals"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Cotton ___",
+    "note": "Cotton reel, cotton mill, cotton gin, cotton socks",
+    "tiles": [
+     [
+      "REEL"
+     ],
+     [
+      "MILL"
+     ],
+     [
+      "GIN"
+     ],
+     [
+      "SOCKS",
+      "🧦"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a plant",
+    "tiles": [
+     [
+      "STEM"
+     ],
+     [
+      "LEAF",
+      "🍃"
+     ],
+     [
+      "SHOOT"
+     ],
+     [
+      "BUD"
+     ]
+    ]
+   },
+   {
+    "link": "Farm produce",
+    "tiles": [
+     [
+      "HONEY",
+      "🍯"
+     ],
+     [
+      "BUTTER"
+     ],
+     [
+      "BACON",
+      "🥓"
+     ],
+     [
+      "WOOL",
+      "🧶"
+     ]
+    ]
+   },
+   {
+    "link": "Gardening jobs",
+    "tiles": [
+     [
+      "PRUNE"
+     ],
+     [
+      "WEED"
+     ],
+     [
+      "MOW"
+     ],
+     [
+      "PLANT"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BUD": [
+    "Cotton ___"
+   ],
+   "WOOL": [
+    "Cotton ___"
+   ],
+   "PLANT": [
+    "Cotton ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Cockney rhyming slang",
+    "note": "Rabbit and pork (talk), frog and toad (road), daisy roots (boots), Ruby Murray (curry)",
+    "tiles": [
+     [
+      "RABBIT",
+      "🐇"
+     ],
+     [
+      "FROG",
+      "🐸"
+     ],
+     [
+      "DAISY",
+      "🌼"
+     ],
+     [
+      "RUBY"
+     ]
+    ]
+   },
+   {
+    "link": "Pond life",
+    "tiles": [
+     [
+      "TOAD"
+     ],
+     [
+      "NEWT"
+     ],
+     [
+      "TADPOLE"
+     ],
+     [
+      "DRAGONFLY"
+     ]
+    ]
+   },
+   {
+    "link": "Gemstones",
+    "tiles": [
+     [
+      "EMERALD"
+     ],
+     [
+      "SAPPHIRE"
+     ],
+     [
+      "OPAL"
+     ],
+     [
+      "TOPAZ"
+     ]
+    ]
+   },
+   {
+    "link": "Wild flowers",
+    "tiles": [
+     [
+      "BUTTERCUP"
+     ],
+     [
+      "POPPY"
+     ],
+     [
+      "BLUEBELL"
+     ],
+     [
+      "PRIMROSE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "FROG": [
+    "Pond life"
+   ],
+   "DAISY": [
+    "Wild flowers"
+   ],
+   "RUBY": [
+    "Gemstones"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "___ crab",
+    "note": "Hermit, horseshoe, king and coconut crabs",
+    "tiles": [
+     [
+      "HERMIT"
+     ],
+     [
+      "HORSESHOE"
+     ],
+     [
+      "KING"
+     ],
+     [
+      "COCONUT",
+      "🥥"
+     ]
+    ]
+   },
+   {
+    "link": "Arachnids",
+    "tiles": [
+     [
+      "SCORPION",
+      "🦂"
+     ],
+     [
+      "TICK",
+      "✅"
+     ],
+     [
+      "MITE"
+     ],
+     [
+      "SPIDER",
+      "🕷️"
+     ]
+    ]
+   },
+   {
+    "link": "Penguin species",
+    "tiles": [
+     [
+      "EMPEROR"
+     ],
+     [
+      "MACARONI"
+     ],
+     [
+      "CHINSTRAP"
+     ],
+     [
+      "GENTOO"
+     ]
+    ]
+   },
+   {
+    "link": "Things with shells",
+    "tiles": [
+     [
+      "TORTOISE"
+     ],
+     [
+      "EGG",
+      "🥚"
+     ],
+     [
+      "WALNUT"
+     ],
+     [
+      "OYSTER",
+      "🦪"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SPIDER": [
+    "___ crab"
+   ],
+   "KING": [
+    "Penguin species"
+   ],
+   "COCONUT": [
+    "Things with shells"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Country ___",
+    "note": "Countryside, country house, Country Code, country dance",
+    "tiles": [
+     [
+      "SIDE"
+     ],
+     [
+      "HOUSE",
+      "🏠"
+     ],
+     [
+      "CODE"
+     ],
+     [
+      "DANCE",
+      "💃"
+     ]
+    ]
+   },
+   {
+    "link": "Countryside routes",
+    "tiles": [
+     [
+      "TRACK"
+     ],
+     [
+      "BRIDLEWAY"
+     ],
+     [
+      "FOOTPATH"
+     ],
+     [
+      "LANE"
+     ]
+    ]
+   },
+   {
+    "link": "Open green spaces",
+    "tiles": [
+     [
+      "COMMON"
+     ],
+     [
+      "HEATH"
+     ],
+     [
+      "GREEN"
+     ],
+     [
+      "PARK"
+     ]
+    ]
+   },
+   {
+    "link": "Rodents",
+    "tiles": [
+     [
+      "RAT",
+      "🐀"
+     ],
+     [
+      "VOLE"
+     ],
+     [
+      "GERBIL"
+     ],
+     [
+      "MOUSE",
+      "🐭"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LANE": [
+    "Country ___"
+   ],
+   "PARK": [
+    "Country ___"
+   ],
+   "MOUSE": [
+    "Country ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Cross ___",
+    "note": "Crossword, crossroads, cross-stitch, crossbow",
+    "tiles": [
+     [
+      "WORD"
+     ],
+     [
+      "ROADS"
+     ],
+     [
+      "STITCH"
+     ],
+     [
+      "BOW",
+      "🎀"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a bird",
+    "tiles": [
+     [
+      "WING"
+     ],
+     [
+      "TALON"
+     ],
+     [
+      "CREST"
+     ],
+     [
+      "BILL"
+     ]
+    ]
+   },
+   {
+    "link": "In a thunderstorm",
+    "tiles": [
+     [
+      "RAIN",
+      "🌧️"
+     ],
+     [
+      "THUNDER"
+     ],
+     [
+      "LIGHTNING",
+      "⚡"
+     ],
+     [
+      "WIND"
+     ]
+    ]
+   },
+   {
+    "link": "Things birds do",
+    "tiles": [
+     [
+      "PECK"
+     ],
+     [
+      "ROOST"
+     ],
+     [
+      "PREEN"
+     ],
+     [
+      "HATCH"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BILL": [
+    "Cross ___"
+   ],
+   "WIND": [
+    "Cross ___"
+   ],
+   "HATCH": [
+    "Cross ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Hidden colours",
+    "note": "mariGOLD, PLUMage, boTANy, everGREEN",
+    "tiles": [
+     [
+      "MARIGOLD"
+     ],
+     [
+      "PLUMAGE"
+     ],
+     [
+      "BOTANY"
+     ],
+     [
+      "EVERGREEN"
+     ]
+    ]
+   },
+   {
+    "link": "Racing animals",
+    "tiles": [
+     [
+      "HORSE",
+      "🐎"
+     ],
+     [
+      "CAMEL",
+      "🐫"
+     ],
+     [
+      "PIGEON"
+     ],
+     [
+      "GREYHOUND"
+     ]
+    ]
+   },
+   {
+    "link": "Summer bedding plants",
+    "tiles": [
+     [
+      "BEGONIA"
+     ],
+     [
+      "PETUNIA"
+     ],
+     [
+      "GERANIUM"
+     ],
+     [
+      "LOBELIA"
+     ]
+    ]
+   },
+   {
+    "link": "Garden plant types",
+    "tiles": [
+     [
+      "ANNUAL"
+     ],
+     [
+      "PERENNIAL"
+     ],
+     [
+      "BIENNIAL"
+     ],
+     [
+      "BULB",
+      "💡"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "GREYHOUND": [
+    "Hidden colours"
+   ],
+   "MARIGOLD": [
+    "Summer bedding plants"
+   ],
+   "EVERGREEN": [
+    "Garden plant types"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "___ clip",
+    "note": "Bulldog clip, crocodile clip, paper clip, hair clip",
+    "tiles": [
+     [
+      "BULLDOG"
+     ],
+     [
+      "CROCODILE",
+      "🐊"
+     ],
+     [
+      "PAPER"
+     ],
+     [
+      "HAIR"
+     ]
+    ]
+   },
+   {
+    "link": "Dog breeds",
+    "tiles": [
+     [
+      "POODLE",
+      "🐩"
+     ],
+     [
+      "CORGI"
+     ],
+     [
+      "WHIPPET"
+     ],
+     [
+      "BEAGLE"
+     ]
+    ]
+   },
+   {
+    "link": "Reptiles",
+    "tiles": [
+     [
+      "GECKO"
+     ],
+     [
+      "IGUANA"
+     ],
+     [
+      "TURTLE",
+      "🐢"
+     ],
+     [
+      "LIZARD",
+      "🦎"
+     ]
+    ]
+   },
+   {
+    "link": "Animal coverings",
+    "tiles": [
+     [
+      "FUR"
+     ],
+     [
+      "SCALES",
+      "⚖️"
+     ],
+     [
+      "FEATHERS"
+     ],
+     [
+      "QUILLS"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BULLDOG": [
+    "Dog breeds"
+   ],
+   "CROCODILE": [
+    "Reptiles"
+   ],
+   "HAIR": [
+    "Animal coverings"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Creatures backwards",
+    "note": "Dog, rat, cod, wolf",
+    "tiles": [
+     [
+      "GOD"
+     ],
+     [
+      "TAR"
+     ],
+     [
+      "DOC",
+      "🩺"
+     ],
+     [
+      "FLOW"
+     ]
+    ]
+   },
+   {
+    "link": "Tide words",
+    "tiles": [
+     [
+      "EBB"
+     ],
+     [
+      "NEAP"
+     ],
+     [
+      "HIGH"
+     ],
+     [
+      "FLOOD"
+     ]
+    ]
+   },
+   {
+    "link": "Seasons",
+    "tiles": [
+     [
+      "SUMMER"
+     ],
+     [
+      "AUTUMN",
+      "🍂"
+     ],
+     [
+      "WINTER",
+      "⛄"
+     ],
+     [
+      "SPRING"
+     ]
+    ]
+   },
+   {
+    "link": "Extreme weather",
+    "tiles": [
+     [
+      "DROUGHT"
+     ],
+     [
+      "HEATWAVE"
+     ],
+     [
+      "TORNADO",
+      "🌪️"
+     ],
+     [
+      "HURRICANE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "FLOW": [
+    "Tide words"
+   ],
+   "SPRING": [
+    "Tide words"
+   ],
+   "FLOOD": [
+    "Extreme weather"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Christmas ___",
+    "note": "Christmas carol, cracker, pudding, cactus",
+    "tiles": [
+     [
+      "CAROL"
+     ],
+     [
+      "CRACKER"
+     ],
+     [
+      "PUDDING"
+     ],
+     [
+      "CACTUS",
+      "🌵"
+     ]
+    ]
+   },
+   {
+    "link": "Prickly plants",
+    "tiles": [
+     [
+      "THISTLE"
+     ],
+     [
+      "BRAMBLE"
+     ],
+     [
+      "GORSE"
+     ],
+     [
+      "HAWTHORN"
+     ]
+    ]
+   },
+   {
+    "link": "Garden flowers",
+    "tiles": [
+     [
+      "TULIP",
+      "🌷"
+     ],
+     [
+      "PANSY"
+     ],
+     [
+      "DAHLIA"
+     ],
+     [
+      "ROSE",
+      "🌹"
+     ]
+    ]
+   },
+   {
+    "link": "Landforms",
+    "tiles": [
+     [
+      "PENINSULA"
+     ],
+     [
+      "VALLEY"
+     ],
+     [
+      "PLATEAU"
+     ],
+     [
+      "ISLAND",
+      "🏝️"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CACTUS": [
+    "Prickly plants"
+   ],
+   "ROSE": [
+    "Christmas ___",
+    "Prickly plants"
+   ],
+   "ISLAND": [
+    "Christmas ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Cold ___",
+    "note": "Cold sore, cold shoulder, cold comfort, cold call",
+    "tiles": [
+     [
+      "SORE"
+     ],
+     [
+      "SHOULDER"
+     ],
+     [
+      "COMFORT"
+     ],
+     [
+      "CALL",
+      "📞"
+     ]
+    ]
+   },
+   {
+    "link": "Farmyard birds",
+    "tiles": [
+     [
+      "CHICKEN",
+      "🐔"
+     ],
+     [
+      "DUCK",
+      "🦆"
+     ],
+     [
+      "GOOSE"
+     ],
+     [
+      "TURKEY",
+      "🦃"
+     ]
+    ]
+   },
+   {
+    "link": "Weather forecast words",
+    "tiles": [
+     [
+      "ISOBAR"
+     ],
+     [
+      "PRESSURE"
+     ],
+     [
+      "OUTLOOK"
+     ],
+     [
+      "FRONT"
+     ]
+    ]
+   },
+   {
+    "link": "Bird sounds",
+    "tiles": [
+     [
+      "TWEET"
+     ],
+     [
+      "CHIRP"
+     ],
+     [
+      "SQUAWK"
+     ],
+     [
+      "HOOT"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TURKEY": [
+    "Cold ___"
+   ],
+   "FRONT": [
+    "Cold ___"
+   ],
+   "CALL": [
+    "Bird sounds"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "C + a creature",
+    "note": "C+raven, c+ox, c+ape, c+ant",
+    "tiles": [
+     [
+      "CRAVEN"
+     ],
+     [
+      "COX"
+     ],
+     [
+      "CAPE"
+     ],
+     [
+      "CANT"
+     ]
+    ]
+   },
+   {
+    "link": "Coastal features",
+    "tiles": [
+     [
+      "COVE"
+     ],
+     [
+      "CLIFF"
+     ],
+     [
+      "BEACH",
+      "🏖️"
+     ],
+     [
+      "BAY"
+     ]
+    ]
+   },
+   {
+    "link": "Horse colours",
+    "tiles": [
+     [
+      "ROAN"
+     ],
+     [
+      "PIEBALD"
+     ],
+     [
+      "DUN"
+     ],
+     [
+      "CHESTNUT",
+      "🌰"
+     ]
+    ]
+   },
+   {
+    "link": "Deciduous trees",
+    "tiles": [
+     [
+      "WILLOW"
+     ],
+     [
+      "MAPLE",
+      "🍁"
+     ],
+     [
+      "POPLAR"
+     ],
+     [
+      "HAZEL"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CAPE": [
+    "Coastal features"
+   ],
+   "BAY": [
+    "Horse colours"
+   ],
+   "CHESTNUT": [
+    "Deciduous trees"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Crab ___",
+    "note": "Crab stick, crab meat, crab cake, crab claw",
+    "tiles": [
+     [
+      "STICK"
+     ],
+     [
+      "MEAT",
+      "🍖"
+     ],
+     [
+      "CAKE",
+      "🎂"
+     ],
+     [
+      "CLAW"
+     ]
+    ]
+   },
+   {
+    "link": "Orchard fruit",
+    "tiles": [
+     [
+      "PEAR",
+      "🍐"
+     ],
+     [
+      "CHERRY",
+      "🍒"
+     ],
+     [
+      "DAMSON"
+     ],
+     [
+      "APPLE",
+      "🍎"
+     ]
+    ]
+   },
+   {
+    "link": "Growing in a lawn",
+    "tiles": [
+     [
+      "MOSS"
+     ],
+     [
+      "CLOVER"
+     ],
+     [
+      "DANDELION"
+     ],
+     [
+      "GRASS"
+     ]
+    ]
+   },
+   {
+    "link": "Pieces of wood",
+    "tiles": [
+     [
+      "TWIG"
+     ],
+     [
+      "LOG"
+     ],
+     [
+      "BRANCH"
+     ],
+     [
+      "STUMP"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "APPLE": [
+    "Crab ___"
+   ],
+   "GRASS": [
+    "Crab ___"
+   ],
+   "STICK": [
+    "Pieces of wood"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Contain COW",
+    "note": "sCOWl, COWard, MosCOW, COWslip",
+    "tiles": [
+     [
+      "SCOWL",
+      "😠"
+     ],
+     [
+      "COWARD"
+     ],
+     [
+      "MOSCOW"
+     ],
+     [
+      "COWSLIP"
+     ]
+    ]
+   },
+   {
+    "link": "Spring flowers",
+    "tiles": [
+     [
+      "DAFFODIL"
+     ],
+     [
+      "CROCUS"
+     ],
+     [
+      "SNOWDROP"
+     ],
+     [
+      "HYACINTH"
+     ]
+    ]
+   },
+   {
+    "link": "Seashells",
+    "tiles": [
+     [
+      "COCKLE"
+     ],
+     [
+      "LIMPET"
+     ],
+     [
+      "CONCH"
+     ],
+     [
+      "COWRIE"
+     ]
+    ]
+   },
+   {
+    "link": "Rock pool creatures",
+    "tiles": [
+     [
+      "CRAB",
+      "🦀"
+     ],
+     [
+      "SHRIMP",
+      "🦐"
+     ],
+     [
+      "BARNACLE"
+     ],
+     [
+      "PRAWN"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "COWSLIP": [
+    "Spring flowers"
+   ],
+   "COWRIE": [
+    "Contain COW"
+   ],
+   "LIMPET": [
+    "Rock pool creatures"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Creature anagrams",
+    "note": "Vole, snail, skate, rat",
+    "tiles": [
+     [
+      "LOVE"
+     ],
+     [
+      "NAILS",
+      "💅"
+     ],
+     [
+      "STEAK",
+      "🥩"
+     ],
+     [
+      "ART",
+      "🎨"
+     ]
+    ]
+   },
+   {
+    "link": "Beaufort scale",
+    "tiles": [
+     [
+      "BREEZE"
+     ],
+     [
+      "GALE"
+     ],
+     [
+      "STORM",
+      "⛈️"
+     ],
+     [
+      "CALM"
+     ]
+    ]
+   },
+   {
+    "link": "Semi-precious stones",
+    "tiles": [
+     [
+      "JADE"
+     ],
+     [
+      "ONYX"
+     ],
+     [
+      "AGATE"
+     ],
+     [
+      "AMBER"
+     ]
+    ]
+   },
+   {
+    "link": "Scottish landscape",
+    "tiles": [
+     [
+      "GLEN"
+     ],
+     [
+      "LOCH"
+     ],
+     [
+      "BEN"
+     ],
+     [
+      "BRAE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CALM": [
+    "Creature anagrams"
+   ],
+   "AMBER": [
+    "Creature anagrams"
+   ],
+   "BRAE": [
+    "Creature anagrams"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Corn ___",
+    "note": "Cornflake, corn dolly, cornflour, cornflower",
+    "tiles": [
+     [
+      "FLAKE",
+      "❄️"
+     ],
+     [
+      "DOLLY"
+     ],
+     [
+      "FLOUR"
+     ],
+     [
+      "FLOWER",
+      "🌸"
+     ]
+    ]
+   },
+   {
+    "link": "Types of horse",
+    "tiles": [
+     [
+      "SHIRE"
+     ],
+     [
+      "PONY"
+     ],
+     [
+      "MUSTANG"
+     ],
+     [
+      "COB"
+     ]
+    ]
+   },
+   {
+    "link": "Grassy places",
+    "tiles": [
+     [
+      "MEADOW"
+     ],
+     [
+      "PASTURE"
+     ],
+     [
+      "PADDOCK"
+     ],
+     [
+      "FIELD"
+     ]
+    ]
+   },
+   {
+    "link": "Field boundaries",
+    "tiles": [
+     [
+      "HEDGE"
+     ],
+     [
+      "FENCE"
+     ],
+     [
+      "DITCH"
+     ],
+     [
+      "WALL",
+      "🧱"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "COB": [
+    "Corn ___"
+   ],
+   "FIELD": [
+    "Corn ___"
+   ],
+   "WALL": [
+    "Corn ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Cock ___",
+    "note": "Cockpit, cocksure, cocktail, cockcrow",
+    "tiles": [
+     [
+      "PIT"
+     ],
+     [
+      "SURE"
+     ],
+     [
+      "TAIL"
+     ],
+     [
+      "CROW"
+     ]
+    ]
+   },
+   {
+    "link": "Freshwater fish",
+    "tiles": [
+     [
+      "TROUT"
+     ],
+     [
+      "BREAM"
+     ],
+     [
+      "TENCH"
+     ],
+     [
+      "ROACH"
+     ]
+    ]
+   },
+   {
+    "link": "Crow family",
+    "tiles": [
+     [
+      "RAVEN"
+     ],
+     [
+      "MAGPIE"
+     ],
+     [
+      "JAY"
+     ],
+     [
+      "JACKDAW"
+     ]
+    ]
+   },
+   {
+    "link": "Animal body parts",
+    "tiles": [
+     [
+      "HORN",
+      "📯"
+     ],
+     [
+      "TUSK"
+     ],
+     [
+      "SNOUT",
+      "🐽"
+     ],
+     [
+      "SHELL",
+      "🐚"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ROACH": [
+    "Cock ___"
+   ],
+   "CROW": [
+    "Crow family"
+   ],
+   "TAIL": [
+    "Animal body parts"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Car ___",
+    "note": "Carpet, cargo, carton, carnation",
+    "tiles": [
+     [
+      "PET"
+     ],
+     [
+      "GO"
+     ],
+     [
+      "TON"
+     ],
+     [
+      "NATION"
+     ]
+    ]
+   },
+   {
+    "link": "Plant diseases",
+    "tiles": [
+     [
+      "BLIGHT"
+     ],
+     [
+      "MILDEW"
+     ],
+     [
+      "RUST"
+     ],
+     [
+      "ROT"
+     ]
+    ]
+   },
+   {
+    "link": "British wild mammals",
+    "tiles": [
+     [
+      "HEDGEHOG",
+      "🦔"
+     ],
+     [
+      "SQUIRREL",
+      "🐿️"
+     ],
+     [
+      "FOX",
+      "🦊"
+     ],
+     [
+      "DEER"
+     ]
+    ]
+   },
+   {
+    "link": "Fungi",
+    "tiles": [
+     [
+      "MUSHROOM",
+      "🍄"
+     ],
+     [
+      "TOADSTOOL"
+     ],
+     [
+      "TRUFFLE"
+     ],
+     [
+      "PUFFBALL"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ROT": [
+    "Car ___"
+   ],
+   "MILDEW": [
+    "Fungi"
+   ],
+   "RUST": [
+    "Fungi"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Hidden capitals",
+    "note": "mosQUITO, PARISh, ROMEo, fRIGAte",
+    "tiles": [
+     [
+      "MOSQUITO",
+      "🦟"
+     ],
+     [
+      "PARISH"
+     ],
+     [
+      "ROMEO"
+     ],
+     [
+      "FRIGATE"
+     ]
+    ]
+   },
+   {
+    "link": "Insects that bite",
+    "tiles": [
+     [
+      "MIDGE"
+     ],
+     [
+      "FLEA"
+     ],
+     [
+      "HORSEFLY"
+     ],
+     [
+      "ANT",
+      "🐜"
+     ]
+    ]
+   },
+   {
+    "link": "Seasonal animal behaviour",
+    "tiles": [
+     [
+      "MIGRATE"
+     ],
+     [
+      "MOULT"
+     ],
+     [
+      "SPAWN"
+     ],
+     [
+      "HIBERNATE",
+      "💤"
+     ]
+    ]
+   },
+   {
+    "link": "Ecology terms",
+    "tiles": [
+     [
+      "HABITAT"
+     ],
+     [
+      "ECOSYSTEM"
+     ],
+     [
+      "SPECIES"
+     ],
+     [
+      "CLIMATE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MOSQUITO": [
+    "Insects that bite"
+   ],
+   "HIBERNATE": [
+    "Hidden capitals"
+   ],
+   "CLIMATE": [
+    "Hidden capitals"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "___ cap",
+    "note": "Flat cap, kneecap, madcap, hubcap",
+    "tiles": [
+     [
+      "FLAT"
+     ],
+     [
+      "KNEE"
+     ],
+     [
+      "MAD"
+     ],
+     [
+      "HUB"
+     ]
+    ]
+   },
+   {
+    "link": "Winter weather",
+    "tiles": [
+     [
+      "FROST"
+     ],
+     [
+      "SLEET"
+     ],
+     [
+      "SNOW",
+      "🌨️"
+     ],
+     [
+      "ICE",
+      "🧊"
+     ]
+    ]
+   },
+   {
+    "link": "Types of rain",
+    "tiles": [
+     [
+      "DRIZZLE"
+     ],
+     [
+      "DOWNPOUR"
+     ],
+     [
+      "DELUGE"
+     ],
+     [
+      "SHOWER",
+      "🚿"
+     ]
+    ]
+   },
+   {
+    "link": "Grasslands",
+    "tiles": [
+     [
+      "PRAIRIE"
+     ],
+     [
+      "STEPPE"
+     ],
+     [
+      "SAVANNAH"
+     ],
+     [
+      "PAMPAS"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SNOW": [
+    "___ cap"
+   ],
+   "ICE": [
+    "___ cap"
+   ],
+   "SHOWER": [
+    "___ cap"
+   ],
+   "SLEET": [
+    "Types of rain"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Hidden cereals",
+    "note": "pRICE, dRYEr, CORNet, gOAT",
+    "tiles": [
+     [
+      "PRICE"
+     ],
+     [
+      "DRYER"
+     ],
+     [
+      "CORNET"
+     ],
+     [
+      "GOAT",
+      "🐐"
+     ]
+    ]
+   },
+   {
+    "link": "Weasel family",
+    "tiles": [
+     [
+      "WEASEL"
+     ],
+     [
+      "OTTER",
+      "🦦"
+     ],
+     [
+      "BADGER",
+      "🦡"
+     ],
+     [
+      "STOAT"
+     ]
+    ]
+   },
+   {
+    "link": "Farm animals",
+    "tiles": [
+     [
+      "PIG",
+      "🐖"
+     ],
+     [
+      "SHEEP"
+     ],
+     [
+      "COW",
+      "🐄"
+     ],
+     [
+      "DONKEY"
+     ]
+    ]
+   },
+   {
+    "link": "Burrowers",
+    "tiles": [
+     [
+      "MOLE"
+     ],
+     [
+      "WOMBAT"
+     ],
+     [
+      "MEERKAT"
+     ],
+     [
+      "AARDVARK"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "STOAT": [
+    "Hidden cereals"
+   ],
+   "GOAT": [
+    "Farm animals"
+   ],
+   "BADGER": [
+    "Burrowers"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Chicken ___",
+    "note": "Chickenpox, chicken Kiev, chicken wire, chicken burger",
+    "tiles": [
+     [
+      "POX"
+     ],
+     [
+      "KIEV"
+     ],
+     [
+      "WIRE"
+     ],
+     [
+      "BURGER",
+      "🍔"
+     ]
+    ]
+   },
+   {
+    "link": "Animal housing",
+    "tiles": [
+     [
+      "HUTCH"
+     ],
+     [
+      "KENNEL"
+     ],
+     [
+      "COOP"
+     ],
+     [
+      "RUN",
+      "🏃"
+     ]
+    ]
+   },
+   {
+    "link": "Farm jobs",
+    "tiles": [
+     [
+      "PLOUGH"
+     ],
+     [
+      "HARVEST"
+     ],
+     [
+      "REAP"
+     ],
+     [
+      "FEED"
+     ]
+    ]
+   },
+   {
+    "link": "Female animals",
+    "tiles": [
+     [
+      "VIXEN"
+     ],
+     [
+      "DOE"
+     ],
+     [
+      "HEN",
+      "🐔"
+     ],
+     [
+      "SOW"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "COOP": [
+    "Chicken ___"
+   ],
+   "RUN": [
+    "Chicken ___"
+   ],
+   "FEED": [
+    "Chicken ___"
+   ],
+   "SOW": [
+    "Farm jobs"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "___ cat",
+    "note": "Copycat, alley cat, fat cat, Top Cat",
+    "tiles": [
+     [
+      "COPY"
+     ],
+     [
+      "ALLEY"
+     ],
+     [
+      "FAT"
+     ],
+     [
+      "TOP"
+     ]
+    ]
+   },
+   {
+    "link": "Plant supports",
+    "tiles": [
+     [
+      "CANE",
+      "🦯"
+     ],
+     [
+      "STAKE"
+     ],
+     [
+      "TRELLIS"
+     ],
+     [
+      "POLE"
+     ]
+    ]
+   },
+   {
+    "link": "Forecast temperatures",
+    "tiles": [
+     [
+      "MILD"
+     ],
+     [
+      "WARM"
+     ],
+     [
+      "COLD",
+      "🥶"
+     ],
+     [
+      "COOL",
+      "😎"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a mountain",
+    "tiles": [
+     [
+      "SUMMIT"
+     ],
+     [
+      "PEAK"
+     ],
+     [
+      "SLOPE"
+     ],
+     [
+      "RIDGE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "POLE": [
+    "___ cat"
+   ],
+   "COOL": [
+    "___ cat"
+   ],
+   "TOP": [
+    "Parts of a mountain"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Hidden cash",
+    "note": "sQUID, hYENa, CENTipede, BOBcat",
+    "tiles": [
+     [
+      "SQUID",
+      "🦑"
+     ],
+     [
+      "HYENA"
+     ],
+     [
+      "CENTIPEDE"
+     ],
+     [
+      "BOBCAT"
+     ]
+    ]
+   },
+   {
+    "link": "Wild cats",
+    "tiles": [
+     [
+      "LYNX"
+     ],
+     [
+      "OCELOT"
+     ],
+     [
+      "CHEETAH"
+     ],
+     [
+      "JAGUAR"
+     ]
+    ]
+   },
+   {
+    "link": "Spotted creatures",
+    "tiles": [
+     [
+      "DALMATIAN"
+     ],
+     [
+      "LADYBIRD",
+      "🐞"
+     ],
+     [
+      "FAWN"
+     ],
+     [
+      "PLAICE"
+     ]
+    ]
+   },
+   {
+    "link": "Molluscs",
+    "tiles": [
+     [
+      "OCTOPUS",
+      "🐙"
+     ],
+     [
+      "SNAIL",
+      "🐌"
+     ],
+     [
+      "SLUG"
+     ],
+     [
+      "MUSSEL"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SQUID": [
+    "Molluscs"
+   ],
+   "BOBCAT": [
+    "Wild cats",
+    "Spotted creatures"
+   ],
+   "HYENA": [
+    "Spotted creatures"
+   ],
+   "CHEETAH": [
+    "Spotted creatures"
+   ],
+   "JAGUAR": [
+    "Spotted creatures"
+   ],
+   "OCELOT": [
+    "Spotted creatures"
+   ],
+   "LYNX": [
+    "Spotted creatures"
+   ]
+  }
+ }
+]
