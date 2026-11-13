@@ -44,25 +44,20 @@ header{display:flex;align-items:baseline;gap:10px}
 .chips{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;align-items:end}
 .chip{text-align:center;min-width:0}
 .chip b{display:block;font-weight:700;letter-spacing:.02em;font-size:calc(var(--tw)*.2)}
-.chip.l b{font-size:calc(var(--tw)*.165)}
+.chip.l b{font-size:calc(var(--tw)*.17)}
 .chip i{font-style:normal;display:block;line-height:1.15;font-size:calc(var(--tw)*.34)}
-.link{margin:0;text-align:center;font-family:var(--display);font-weight:700;font-size:1.15rem;text-wrap:balance}
+.link{align-self:center;color:var(--on-g);font-family:var(--display);font-weight:700;font-size:1.15rem;text-wrap:balance;padding:2px 10px;border-radius:8px}
+.link span{display:block;transition:filter .25s}
+.link.veiled span{filter:blur(7px)}
 .note{margin:-4px 0 0;text-align:center;font-size:.9rem;opacity:.9}
-.namer{display:flex;gap:6px}
-.namer input{flex:1;min-width:0;font:inherit;font-size:16px;padding:9px 12px;border-radius:9px;border:0;background:var(--on-g);color:var(--on-g-ink);-webkit-user-select:text;user-select:text}
-.namer button{border-radius:9px;padding:6px 12px;font-weight:600;white-space:nowrap;color:var(--on-g)}
-.namer button[type=submit]{background:var(--on-g);color:var(--on-g-ink)}
-.namer button[type=button]{text-decoration:underline;text-underline-offset:3px;padding-inline:6px}
-.hint{margin:0;font-size:.9rem}
-.hint:empty{display:none}
 
 .grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px}
 .tile{height:calc(var(--tw)*1.22);background:var(--tile);border-radius:12px;box-shadow:0 2px 0 var(--shade);
   display:flex;align-items:center;justify-content:center;min-width:0;overflow:hidden;
   transition:transform .1s,background .12s,box-shadow .12s}
-.tile b{font-weight:700;letter-spacing:.01em;font-size:calc(var(--tw)*.3)}
-.tile.m b{font-size:calc(var(--tw)*.235)}
-.tile.l b{font-size:calc(var(--tw)*.185)}
+.tile b{font-weight:700;letter-spacing:.01em;font-size:calc(var(--tw)*.235)} /* one size; only words over 7 letters step down */
+.tile.l8 b{font-size:calc(var(--tw)*.205)}
+.tile.l9 b{font-size:calc(var(--tw)*.182)}
 .tile i{font-style:normal;line-height:1;font-size:calc(var(--tw)*.56)}
 .tile.on{background:var(--sel);color:var(--sel-ink);transform:translateY(-3px);box-shadow:0 5px 0 var(--shade)}
 .tile.bad{animation:shake .4s}
@@ -99,13 +94,11 @@ header{display:flex;align-items:baseline;gap:10px}
 .switch::after{content:"";position:absolute;top:3px;left:3px;width:22px;height:22px;border-radius:50%;background:var(--tile);box-shadow:0 1px 2px var(--shade);transition:transform .15s}
 [aria-pressed="true"] .switch{background:var(--g3)}
 [aria-pressed="true"] .switch::after{transform:translateX(18px)}
-.levels{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px}
-.lv{height:58px;background:var(--tile);border-radius:12px;box-shadow:0 2px 0 var(--shade);display:flex;flex-direction:column;align-items:center;justify-content:center}
-.lv strong{font-family:var(--display);font-size:1.25rem;line-height:1.1}
-.lv small{font-size:.75rem;color:var(--muted);font-weight:600;line-height:1}
-.lv.won{background:var(--g3);color:var(--on-g)}
-.lv.won small{color:var(--on-g)}
-.lv.here{outline:3px solid var(--sel);outline-offset:1px}
+.pick{display:flex;align-items:center;gap:12px}
+.pick input[type=number]{width:4.6em;font:inherit;font-family:var(--display);font-weight:700;font-size:1.3rem;text-align:center;padding:8px 4px;border-radius:12px;border:1.5px solid var(--line);background:var(--tile);color:var(--ink);-webkit-user-select:text;user-select:text}
+.pick input[type=range]{flex:1;min-width:0;height:36px;accent-color:var(--g3)}
+.pick-foot{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.pick-foot p{margin:0;color:var(--muted)}
 details{border-top:1px solid var(--line);padding-top:12px}
 summary{font-weight:600;cursor:pointer}
 details ol{margin:8px 0 0;padding-left:1.2em;display:flex;flex-direction:column;gap:4px;color:var(--muted)}
@@ -138,14 +131,18 @@ details ol{margin:8px 0 0;padding-left:1.2em;display:flex;flex-direction:column;
     <button class="setting" id="pics" aria-pressed="false">
       <span><strong>Pictures</strong><small>Swap some words for picture clues</small></span><span class="switch"></span>
     </button>
-    <p class="label">Walls</p>
-    <div class="levels" id="levels"></div>
+    <p class="label" id="lv-label">Walls</p>
+    <div class="pick">
+      <input type="number" id="lv-num" min="1" inputmode="numeric" aria-label="Wall number">
+      <input type="range" id="lv-range" min="1" aria-label="Wall slider">
+    </div>
+    <div class="pick-foot"><p id="lv-info"></p><button class="btn main" id="lv-go">Play</button></div>
     <details>
       <summary>How to play</summary>
       <ol>
         <li>Sixteen tiles hide four groups of four. Tap four tiles you think belong together.</li>
         <li>A correct group locks in at the top. Some tiles fit more than one group, so a group that looks right can still be wrong.</li>
-        <li>When all four groups are sorted, say what links each one.</li>
+        <li>When all four groups are sorted, decide what links each one, then tap the blurred link to check.</li>
         <li>With Pictures on, work out what each picture stands for. It may not be what it first looks like.</li>
         <li>There is no timer and no limit on guesses.</li>
       </ol>
@@ -215,51 +212,49 @@ let save={pics:false,cur:0,done:{},live:null};
 try{ Object.assign(save, JSON.parse(localStorage.getItem(KEY)||'{}')) }catch(e){}
 const persist=()=>{ try{ localStorage.setItem(KEY,JSON.stringify(save)) }catch(e){} };
 
-let S, busy=false, sel=[], drafts={}, fresh=-1, armed=false;
+let S, busy=false, sel=[], fresh=-1, armed=false;
 const tile=id=>LEVELS[S.lvl].groups[id>>2].tiles[id&3];
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 function shuffled(a){a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
 
 function start(lvl){
   S={lvl,order:shuffled([...Array(16).keys()]),locked:[],named:{},tries:0};
-  sel=[];drafts={};save.cur=lvl;keep();render();
+  sel=[];save.cur=lvl;keep();render();
 }
 function keep(){ save.live=S; persist(); }
 const sorted=()=>S.locked.length===4;
-const complete=()=>sorted()&&S.locked.every(g=>S.named[g]);
+const complete=sorted;
 function say(t){ $('msg').textContent=t; }
 function idle(){
   const left=4-S.locked.length;
-  say(sorted()?'All sorted. Now name each link.':left===4?'Find four tiles that share a link.':`${left} group${left>1?'s':''} to find.`);
+  say(sorted()?(S.locked.every(g=>S.named[g])?'':'What links each group? Tap to reveal.'):left===4?'Find four tiles that share a link.':`${left} group${left>1?'s':''} to find.`);
 }
 
 function rowHTML(g,i){
   const G=LEVELS[S.lvl].groups[g], st=S.named[g];
-  const chips=G.tiles.map(t=>`<div class="chip${t[0].length>7?' l':''}">${save.pics&&t[1]?`<i>${t[1]}</i>`:''}<b>${t[0]}</b></div>`).join('');
-  let extra='';
-  if(st) extra=`<p class="link">${esc(G.link)}</p>${G.note?`<p class="note">${esc(G.note)}</p>`:''}`;
-  else if(sorted()) extra=`<form class="namer" data-g="${g}"><input id="name-${g}" aria-label="What links this group?" placeholder="What links these?" autocomplete="off" autocapitalize="off" value="${esc(drafts[g]||'')}"><button type="submit">Check</button><button type="button" data-show="${g}">Show</button></form><p class="hint" id="hint-${g}"></p>`;
+  const chips=G.tiles.map(t=>`<div class="chip${t[0].length>8?' l':''}">${save.pics&&t[1]?`<i>${t[1]}</i>`:''}<b>${t[0]}</b></div>`).join('');
+  const extra=sorted()?`<button class="link${st?'':' veiled'}" data-show="${g}" aria-label="${st?esc(G.link):'Reveal the link'}"><span>${esc(G.link)}</span></button>${st&&G.note?`<p class="note">${esc(G.note)}</p>`:''}`:'';
   return `<section class="row c${i}${fresh===g?' new':''}"><div class="chips">${chips}</div>${extra}</section>`;
 }
 function render(){
   $('lvl-title').textContent=`Wall ${S.lvl+1}`;
   $('rows').innerHTML=S.locked.map(rowHTML).join('');
   $('grid').innerHTML=S.order.map(id=>{const t=tile(id),n=t[0].length,on=sel.includes(id);
-    return `<button class="tile${n>7?' l':n>5?' m':''}${on?' on':''}" data-id="${id}" aria-pressed="${on}">${save.pics&&t[1]?`<i role="img" aria-label="picture">${t[1]}</i>`:`<b>${t[0]}</b>`}</button>`}).join('');
-  $('grid').hidden=sorted(); $('foot').hidden=complete(); $('shuffle').hidden=sorted();
+    return `<button class="tile${n>8?' l9':n>7?' l8':''}${on?' on':''}" data-id="${id}" aria-pressed="${on}">${save.pics&&t[1]?`<i role="img" aria-label="picture">${t[1]}</i>`:`<b>${t[0]}</b>`}</button>`}).join('');
+  $('grid').hidden=sorted(); $('shuffle').hidden=sorted();
   idle();
   $('pics').setAttribute('aria-pressed',save.pics);
   const fin=complete(); $('done').hidden=!fin;
   if(fin){
-    const ok=S.locked.filter(g=>S.named[g]==='ok').length;
     $('done-title').textContent=`Wall ${S.lvl+1} complete`;
-    $('done-text').textContent=`${ok} of 4 links named · ${S.tries} wrong guess${S.tries===1?'':'es'}`;
+    $('done-text').textContent=S.tries?`${S.tries} wrong guess${S.tries===1?'':'es'} along the way`:'No wrong guesses';
     $('next').hidden=S.lvl>=LEVELS.length-1;
   }
 }
 
 function lock(g){
   S.locked.push(g); S.order=S.order.filter(id=>(id>>2)!==g); sel=[];
+  if(sorted()) save.done[S.lvl]={tries:S.tries};
   keep(); fresh=g; render(); fresh=-1;
   if(S.order.length===4){ busy=true; setTimeout(()=>{busy=false;lock(S.order[0]>>2)},500); }
 }
@@ -283,39 +278,31 @@ $('grid').addEventListener('click',e=>{
 });
 $('shuffle').onclick=()=>{ if(busy)return; S.order=shuffled(S.order); keep(); render(); };
 
-function matches(g,text){
-  const n=' '+text.toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
-  return LEVELS[S.lvl].groups[g].accept.some(k=>n.includes(' '+k));
-}
-function settle(g,how){
-  S.named[g]=how; delete drafts[g];
-  if(complete()){ const ok=S.locked.filter(x=>S.named[x]==='ok').length, old=save.done[S.lvl];
-    save.done[S.lvl]={named:Math.max(ok,old?old.named:0),tries:S.tries}; }
-  keep(); render();
-}
-$('rows').addEventListener('input',e=>{ const f=e.target.closest('form'); if(f) drafts[f.dataset.g]=e.target.value; });
-$('rows').addEventListener('submit',e=>{
-  e.preventDefault(); const g=+e.target.dataset.g, v=e.target.querySelector('input').value;
-  if(!v.trim()) return;
-  if(matches(g,v)) settle(g,'ok');
-  else $('hint-'+g).textContent='Not quite. Try other words, or tap Show.';
-});
-$('rows').addEventListener('click',e=>{ const b=e.target.closest('[data-show]'); if(b) settle(+b.dataset.show,'shown'); });
+$('rows').addEventListener('click',e=>{ const b=e.target.closest('[data-show]'); if(!b) return;
+  const g=+b.dataset.show; if(S.named[g]) return; S.named[g]=1; keep(); render(); });
 
 $('next').onclick=()=>start(S.lvl+1);
 $('replay').onclick=()=>start(S.lvl);
 
-function drawLevels(){
-  $('levels').innerHTML=LEVELS.map((_,i)=>{const d=save.done[i];
-    return `<button class="lv${d?' won':''}${i===S.lvl?' here':''}" data-lv="${i}" aria-label="Wall ${i+1}${d?', complete':''}"><strong>${i+1}</strong>${d?`<small>${d.named}/4</small>`:''}</button>`}).join('');
+const N=LEVELS.length, clampLv=v=>Math.max(1,Math.min(N,Math.round(+v)||1));
+function pick(v,typing){
+  v=clampLv(v); $('lv-range').value=v; if(!typing) $('lv-num').value=v;
+  $('lv-info').textContent=v-1===S.lvl&&!complete()?'Playing now':save.done[v-1]?'Completed':'Not played yet';
 }
+function drawLevels(){
+  $('lv-num').max=$('lv-range').max=N;
+  $('lv-label').textContent=`Walls · ${Object.keys(save.done).length} of ${N} complete`;
+  pick(S.lvl+1);
+}
+$('lv-range').oninput=e=>pick(e.target.value);
+$('lv-num').oninput=e=>pick(e.target.value,true);
+$('lv-num').onchange=e=>pick(e.target.value);
+$('lv-go').onclick=()=>{ const i=clampLv($('lv-num').value)-1; if(i!==S.lvl||complete()) start(i); menu(false); };
 function menu(on){ $('scrim').hidden=!on; armed=false; $('reset').textContent='Reset progress'; if(on) drawLevels(); }
 $('open-menu').onclick=()=>menu(true);
 $('close-menu').onclick=()=>menu(false);
 $('scrim').addEventListener('click',e=>{ if(e.target===$('scrim')) menu(false); });
 $('pics').onclick=()=>{ save.pics=!save.pics; persist(); render(); };
-$('levels').addEventListener('click',e=>{ const b=e.target.closest('[data-lv]'); if(!b) return;
-  const i=+b.dataset.lv; if(i!==S.lvl||complete()) start(i); menu(false); });
 $('reset').onclick=()=>{
   if(!armed){ armed=true; $('reset').textContent='Tap again to erase all progress'; return; }
   save.done={}; start(0); menu(true);
