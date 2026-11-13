@@ -1,0 +1,2672 @@
+[
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Apple ___",
+    "note": "Apple sauce, apple crumble, apple turnover, applecart",
+    "tiles": [
+     [
+      "SAUCE"
+     ],
+     [
+      "CRUMBLE"
+     ],
+     [
+      "TURNOVER"
+     ],
+     [
+      "CART"
+     ]
+    ]
+   },
+   {
+    "link": "Sweet pastries",
+    "tiles": [
+     [
+      "ECLAIR"
+     ],
+     [
+      "CROISSANT",
+      "🥐"
+     ],
+     [
+      "BAKLAVA"
+     ],
+     [
+      "CANNOLI"
+     ]
+    ]
+   },
+   {
+    "link": "Desserts",
+    "tiles": [
+     [
+      "TRIFLE"
+     ],
+     [
+      "PAVLOVA"
+     ],
+     [
+      "SUNDAE"
+     ],
+     [
+      "TIRAMISU"
+     ]
+    ]
+   },
+   {
+    "link": "Sauces",
+    "tiles": [
+     [
+      "PESTO"
+     ],
+     [
+      "KETCHUP"
+     ],
+     [
+      "SALSA",
+      "💃"
+     ],
+     [
+      "CUSTARD",
+      "🍮"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CRUMBLE": [
+    "Desserts"
+   ],
+   "TURNOVER": [
+    "Sweet pastries",
+    "Desserts"
+   ],
+   "CUSTARD": [
+    "Desserts"
+   ],
+   "BAKLAVA": [
+    "Desserts"
+   ],
+   "CANNOLI": [
+    "Desserts"
+   ],
+   "ECLAIR": [
+    "Desserts"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "___ ball",
+    "note": "Butterball, meatball, football, puffball",
+    "tiles": [
+     [
+      "BUTTER",
+      "🧈"
+     ],
+     [
+      "MEAT"
+     ],
+     [
+      "FOOT",
+      "🦶"
+     ],
+     [
+      "PUFF"
+     ]
+    ]
+   },
+   {
+    "link": "Types of pastry",
+    "tiles": [
+     [
+      "SUET"
+     ],
+     [
+      "FLAKY"
+     ],
+     [
+      "CHOUX"
+     ],
+     [
+      "FILO"
+     ]
+    ]
+   },
+   {
+    "link": "Beans",
+    "tiles": [
+     [
+      "BROAD"
+     ],
+     [
+      "RUNNER",
+      "🏃"
+     ],
+     [
+      "KIDNEY"
+     ],
+     [
+      "HARICOT"
+     ]
+    ]
+   },
+   {
+    "link": "Offal",
+    "tiles": [
+     [
+      "LIVER"
+     ],
+     [
+      "TRIPE"
+     ],
+     [
+      "OXTAIL"
+     ],
+     [
+      "TROTTER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BUTTER": [
+    "Beans"
+   ],
+   "PUFF": [
+    "Types of pastry"
+   ],
+   "KIDNEY": [
+    "Offal"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Black ___",
+    "note": "Black pepper, blackcurrant, black pudding, blacksmith",
+    "tiles": [
+     [
+      "PEPPER",
+      "🫑"
+     ],
+     [
+      "CURRANT"
+     ],
+     [
+      "PUDDING"
+     ],
+     [
+      "SMITH"
+     ]
+    ]
+   },
+   {
+    "link": "Spices",
+    "tiles": [
+     [
+      "CUMIN"
+     ],
+     [
+      "NUTMEG"
+     ],
+     [
+      "PAPRIKA"
+     ],
+     [
+      "CHILLI",
+      "🌶️"
+     ]
+    ]
+   },
+   {
+    "link": "Dried fruit",
+    "tiles": [
+     [
+      "RAISIN"
+     ],
+     [
+      "SULTANA"
+     ],
+     [
+      "PRUNE"
+     ],
+     [
+      "APRICOT"
+     ]
+    ]
+   },
+   {
+    "link": "TV chefs",
+    "tiles": [
+     [
+      "RAMSAY"
+     ],
+     [
+      "OLIVER"
+     ],
+     [
+      "STEIN",
+      "🍺"
+     ],
+     [
+      "LAWSON"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PEPPER": [
+    "Spices"
+   ],
+   "CURRANT": [
+    "Dried fruit"
+   ],
+   "SMITH": [
+    "TV chefs"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Hidden body parts",
+    "note": "mARMalade, sHANDy, CHESTnut, GUMbo",
+    "tiles": [
+     [
+      "MARMALADE"
+     ],
+     [
+      "SHANDY"
+     ],
+     [
+      "CHESTNUT",
+      "🌰"
+     ],
+     [
+      "GUMBO"
+     ]
+    ]
+   },
+   {
+    "link": "Nuts",
+    "tiles": [
+     [
+      "ALMOND"
+     ],
+     [
+      "WALNUT"
+     ],
+     [
+      "PECAN"
+     ],
+     [
+      "CASHEW"
+     ]
+    ]
+   },
+   {
+    "link": "Stews",
+    "tiles": [
+     [
+      "HOTPOT",
+      "🍲"
+     ],
+     [
+      "TAGINE"
+     ],
+     [
+      "RAGOUT"
+     ],
+     [
+      "SCOUSE"
+     ]
+    ]
+   },
+   {
+    "link": "Sweet spreads",
+    "tiles": [
+     [
+      "JAM"
+     ],
+     [
+      "HONEY",
+      "🍯"
+     ],
+     [
+      "CURD"
+     ],
+     [
+      "NUTELLA"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MARMALADE": [
+    "Sweet spreads"
+   ],
+   "CHESTNUT": [
+    "Nuts"
+   ],
+   "GUMBO": [
+    "Stews"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Anagrams of animals",
+    "note": "Lion, otter, ape, stoat",
+    "tiles": [
+     [
+      "LOIN"
+     ],
+     [
+      "TORTE"
+     ],
+     [
+      "PEA"
+     ],
+     [
+      "TOAST"
+     ]
+    ]
+   },
+   {
+    "link": "Cuts of lamb",
+    "tiles": [
+     [
+      "SHANK"
+     ],
+     [
+      "SADDLE"
+     ],
+     [
+      "CUTLET"
+     ],
+     [
+      "BREAST"
+     ]
+    ]
+   },
+   {
+    "link": "Cakes",
+    "tiles": [
+     [
+      "SPONGE",
+      "🧽"
+     ],
+     [
+      "SIMNEL"
+     ],
+     [
+      "DUNDEE"
+     ],
+     [
+      "ECCLES"
+     ]
+    ]
+   },
+   {
+    "link": "Full English",
+    "tiles": [
+     [
+      "BACON",
+      "🥓"
+     ],
+     [
+      "SAUSAGE"
+     ],
+     [
+      "BEANS"
+     ],
+     [
+      "MUSHROOM",
+      "🍄"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LOIN": [
+    "Cuts of lamb"
+   ],
+   "TORTE": [
+    "Cakes"
+   ],
+   "TOAST": [
+    "Full English"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "___ butter",
+    "note": "Brandy butter, rum butter, peanut butter, garlic butter",
+    "tiles": [
+     [
+      "BRANDY"
+     ],
+     [
+      "RUM"
+     ],
+     [
+      "PEANUT",
+      "🥜"
+     ],
+     [
+      "GARLIC",
+      "🧄"
+     ]
+    ]
+   },
+   {
+    "link": "Spirits",
+    "tiles": [
+     [
+      "GIN"
+     ],
+     [
+      "VODKA"
+     ],
+     [
+      "WHISKY",
+      "🥃"
+     ],
+     [
+      "TEQUILA"
+     ]
+    ]
+   },
+   {
+    "link": "Often pickled",
+    "tiles": [
+     [
+      "GHERKIN"
+     ],
+     [
+      "BEETROOT"
+     ],
+     [
+      "EGG",
+      "🥚"
+     ],
+     [
+      "CABBAGE"
+     ]
+    ]
+   },
+   {
+    "link": "Food allergens",
+    "tiles": [
+     [
+      "GLUTEN"
+     ],
+     [
+      "CELERY"
+     ],
+     [
+      "SHELLFISH"
+     ],
+     [
+      "SULPHITES"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BRANDY": [
+    "Spirits"
+   ],
+   "RUM": [
+    "Spirits"
+   ],
+   "PEANUT": [
+    "Food allergens"
+   ],
+   "EGG": [
+    "Food allergens"
+   ],
+   "GARLIC": [
+    "Often pickled"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "___ bell",
+    "note": "Kettlebell, Taco Bell, harebell, dumbbell",
+    "tiles": [
+     [
+      "KETTLE"
+     ],
+     [
+      "TACO",
+      "🌮"
+     ],
+     [
+      "HARE"
+     ],
+     [
+      "DUMB"
+     ]
+    ]
+   },
+   {
+    "link": "Mexican food",
+    "tiles": [
+     [
+      "BURRITO",
+      "🌯"
+     ],
+     [
+      "NACHOS"
+     ],
+     [
+      "FAJITA"
+     ],
+     [
+      "ENCHILADA"
+     ]
+    ]
+   },
+   {
+    "link": "Game",
+    "tiles": [
+     [
+      "VENISON"
+     ],
+     [
+      "RABBIT",
+      "🐇"
+     ],
+     [
+      "BOAR",
+      "🐗"
+     ],
+     [
+      "PIGEON"
+     ]
+    ]
+   },
+   {
+    "link": "Kitchen appliances",
+    "tiles": [
+     [
+      "TOASTER"
+     ],
+     [
+      "BLENDER"
+     ],
+     [
+      "MICROWAVE"
+     ],
+     [
+      "JUICER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "KETTLE": [
+    "Kitchen appliances"
+   ],
+   "TACO": [
+    "Mexican food"
+   ],
+   "HARE": [
+    "Game"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "___ bread",
+    "note": "Soda bread, gingerbread, sweetbread, shortbread",
+    "tiles": [
+     [
+      "SODA"
+     ],
+     [
+      "GINGER",
+      "🧑‍🦰"
+     ],
+     [
+      "SWEET",
+      "🍬"
+     ],
+     [
+      "SHORT"
+     ]
+    ]
+   },
+   {
+    "link": "Mixers",
+    "tiles": [
+     [
+      "TONIC"
+     ],
+     [
+      "LEMONADE"
+     ],
+     [
+      "CORDIAL"
+     ],
+     [
+      "JUICE",
+      "🧃"
+     ]
+    ]
+   },
+   {
+    "link": "The five basic tastes",
+    "tiles": [
+     [
+      "SOUR"
+     ],
+     [
+      "SALTY"
+     ],
+     [
+      "BITTER"
+     ],
+     [
+      "UMAMI"
+     ]
+    ]
+   },
+   {
+    "link": "Beers",
+    "tiles": [
+     [
+      "LAGER"
+     ],
+     [
+      "STOUT"
+     ],
+     [
+      "PORTER"
+     ],
+     [
+      "MILD"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SODA": [
+    "Mixers"
+   ],
+   "SWEET": [
+    "The five basic tastes"
+   ],
+   "BITTER": [
+    "Beers"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Butter ___",
+    "note": "Butterscotch, butterfingers, butternut, buttercream",
+    "tiles": [
+     [
+      "SCOTCH"
+     ],
+     [
+      "FINGERS",
+      "🤞"
+     ],
+     [
+      "NUT",
+      "🔩"
+     ],
+     [
+      "CREAM"
+     ]
+    ]
+   },
+   {
+    "link": "Types of whisky",
+    "tiles": [
+     [
+      "MALT"
+     ],
+     [
+      "BOURBON"
+     ],
+     [
+      "RYE"
+     ],
+     [
+      "BLEND"
+     ]
+    ]
+   },
+   {
+    "link": "Dairy",
+    "tiles": [
+     [
+      "YOGHURT"
+     ],
+     [
+      "CHEESE",
+      "🧀"
+     ],
+     [
+      "WHEY"
+     ],
+     [
+      "QUARK"
+     ]
+    ]
+   },
+   {
+    "link": "Ways to serve eggs",
+    "tiles": [
+     [
+      "POACHED"
+     ],
+     [
+      "SCRAMBLED"
+     ],
+     [
+      "FRIED"
+     ],
+     [
+      "DEVILLED"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SCOTCH": [
+    "Types of whisky",
+    "Ways to serve eggs"
+   ],
+   "CREAM": [
+    "Dairy"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "___ apple",
+    "note": "Crab apple, toffee apple, pineapple, Big Apple",
+    "tiles": [
+     [
+      "CRAB",
+      "🦀"
+     ],
+     [
+      "TOFFEE"
+     ],
+     [
+      "PINE"
+     ],
+     [
+      "BIG"
+     ]
+    ]
+   },
+   {
+    "link": "Shellfish",
+    "tiles": [
+     [
+      "LOBSTER",
+      "🦞"
+     ],
+     [
+      "WHELK"
+     ],
+     [
+      "COCKLE"
+     ],
+     [
+      "OYSTER",
+      "🦪"
+     ]
+    ]
+   },
+   {
+    "link": "Sweets",
+    "tiles": [
+     [
+      "FUDGE"
+     ],
+     [
+      "NOUGAT"
+     ],
+     [
+      "HUMBUG"
+     ],
+     [
+      "SHERBET"
+     ]
+    ]
+   },
+   {
+    "link": "Edible fungi",
+    "tiles": [
+     [
+      "BUTTON"
+     ],
+     [
+      "PORCINI"
+     ],
+     [
+      "MOREL"
+     ],
+     [
+      "TRUFFLE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CRAB": [
+    "Shellfish"
+   ],
+   "TOFFEE": [
+    "Sweets"
+   ],
+   "OYSTER": [
+    "Edible fungi"
+   ],
+   "TRUFFLE": [
+    "Sweets"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Animal homophones",
+    "note": "Moose, doe, mussel, deer",
+    "tiles": [
+     [
+      "MOUSSE"
+     ],
+     [
+      "DOUGH"
+     ],
+     [
+      "MUSCLE",
+      "💪"
+     ],
+     [
+      "DEAR"
+     ]
+    ]
+   },
+   {
+    "link": "Bread-making",
+    "tiles": [
+     [
+      "YEAST"
+     ],
+     [
+      "KNEAD"
+     ],
+     [
+      "PROVE"
+     ],
+     [
+      "FLOUR"
+     ]
+    ]
+   },
+   {
+    "link": "Cold desserts",
+    "tiles": [
+     [
+      "SORBET"
+     ],
+     [
+      "JELLY"
+     ],
+     [
+      "PARFAIT"
+     ],
+     [
+      "GELATO"
+     ]
+    ]
+   },
+   {
+    "link": "Italian food",
+    "tiles": [
+     [
+      "RISOTTO"
+     ],
+     [
+      "GNOCCHI"
+     ],
+     [
+      "PIZZA",
+      "🍕"
+     ],
+     [
+      "SPAGHETTI",
+      "🍝"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "DOUGH": [
+    "Bread-making"
+   ],
+   "MOUSSE": [
+    "Cold desserts"
+   ],
+   "GELATO": [
+    "Italian food"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Add A at the front",
+    "note": "Astir, arise, acorn, afloat",
+    "tiles": [
+     [
+      "STIR"
+     ],
+     [
+      "RISE"
+     ],
+     [
+      "CORN",
+      "🌽"
+     ],
+     [
+      "FLOAT"
+     ]
+    ]
+   },
+   {
+    "link": "Recipe instructions",
+    "tiles": [
+     [
+      "WHISK"
+     ],
+     [
+      "SIMMER"
+     ],
+     [
+      "DRAIN"
+     ],
+     [
+      "SEASON"
+     ]
+    ]
+   },
+   {
+    "link": "Cereal grains",
+    "tiles": [
+     [
+      "WHEAT",
+      "🌾"
+     ],
+     [
+      "BARLEY"
+     ],
+     [
+      "OAT"
+     ],
+     [
+      "MILLET"
+     ]
+    ]
+   },
+   {
+    "link": "Plant milks",
+    "tiles": [
+     [
+      "SOYA"
+     ],
+     [
+      "COCONUT",
+      "🥥"
+     ],
+     [
+      "HAZELNUT"
+     ],
+     [
+      "HEMP"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "STIR": [
+    "Recipe instructions"
+   ],
+   "CORN": [
+    "Cereal grains"
+   ],
+   "OAT": [
+    "Plant milks"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Pairs that start with B",
+    "note": "Bubble and squeak, bangers and mash, beer and skittles, bed and breakfast",
+    "tiles": [
+     [
+      "SQUEAK"
+     ],
+     [
+      "MASH"
+     ],
+     [
+      "SKITTLES",
+      "🎳"
+     ],
+     [
+      "BREAKFAST"
+     ]
+    ]
+   },
+   {
+    "link": "Potato dishes",
+    "tiles": [
+     [
+      "ROSTI"
+     ],
+     [
+      "WEDGES"
+     ],
+     [
+      "JACKET",
+      "🧥"
+     ],
+     [
+      "CHIPS",
+      "🍟"
+     ]
+    ]
+   },
+   {
+    "link": "Meals",
+    "tiles": [
+     [
+      "BRUNCH"
+     ],
+     [
+      "LUNCH"
+     ],
+     [
+      "SUPPER"
+     ],
+     [
+      "DINNER"
+     ]
+    ]
+   },
+   {
+    "link": "___ box",
+    "note": "Jukebox, chatterbox, horsebox, gearbox",
+    "tiles": [
+     [
+      "JUKE"
+     ],
+     [
+      "CHATTER"
+     ],
+     [
+      "HORSE",
+      "🐴"
+     ],
+     [
+      "GEAR"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MASH": [
+    "Potato dishes"
+   ],
+   "BREAKFAST": [
+    "Meals"
+   ],
+   "LUNCH": [
+    "___ box"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "All ___",
+    "note": "Allspice, All-Bran, allsorts, all-star",
+    "tiles": [
+     [
+      "SPICE"
+     ],
+     [
+      "BRAN"
+     ],
+     [
+      "SORTS"
+     ],
+     [
+      "STAR",
+      "⭐"
+     ]
+    ]
+   },
+   {
+    "link": "Pub names",
+    "tiles": [
+     [
+      "PLOUGH"
+     ],
+     [
+      "ANCHOR",
+      "⚓"
+     ],
+     [
+      "SWAN",
+      "🦢"
+     ],
+     [
+      "FEATHERS"
+     ]
+    ]
+   },
+   {
+    "link": "Butter and spreads",
+    "tiles": [
+     [
+      "FLORA"
+     ],
+     [
+      "CLOVER",
+      "🍀"
+     ],
+     [
+      "STORK"
+     ],
+     [
+      "LURPAK"
+     ]
+    ]
+   },
+   {
+    "link": "Breakfast cereals",
+    "tiles": [
+     [
+      "MUESLI"
+     ],
+     [
+      "GRANOLA"
+     ],
+     [
+      "PORRIDGE"
+     ],
+     [
+      "SHREDDIES"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "STAR": [
+    "Pub names"
+   ],
+   "ANCHOR": [
+    "Butter and spreads"
+   ],
+   "BRAN": [
+    "Breakfast cereals"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Hidden ape",
+    "note": "cAPEr, canAPE, rAPEseed, tAPEnade",
+    "tiles": [
+     [
+      "CAPER"
+     ],
+     [
+      "CANAPE"
+     ],
+     [
+      "RAPESEED"
+     ],
+     [
+      "TAPENADE"
+     ]
+    ]
+   },
+   {
+    "link": "Cooking oils",
+    "tiles": [
+     [
+      "OLIVE",
+      "🫒"
+     ],
+     [
+      "SUNFLOWER",
+      "🌻"
+     ],
+     [
+      "SESAME"
+     ],
+     [
+      "GROUNDNUT"
+     ]
+    ]
+   },
+   {
+    "link": "Dips",
+    "tiles": [
+     [
+      "HUMMUS"
+     ],
+     [
+      "GUACAMOLE"
+     ],
+     [
+      "TZATZIKI"
+     ],
+     [
+      "RAITA"
+     ]
+    ]
+   },
+   {
+    "link": "Buffet food",
+    "tiles": [
+     [
+      "BLINI"
+     ],
+     [
+      "VOLAUVENT"
+     ],
+     [
+      "CRUDITES"
+     ],
+     [
+      "SANDWICH",
+      "🥪"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "RAPESEED": [
+    "Cooking oils"
+   ],
+   "TAPENADE": [
+    "Dips"
+   ],
+   "CANAPE": [
+    "Buffet food"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "___age",
+    "note": "Portage, corkage, hostage, message",
+    "tiles": [
+     [
+      "PORT"
+     ],
+     [
+      "CORK",
+      "🍾"
+     ],
+     [
+      "HOST"
+     ],
+     [
+      "MESS"
+     ]
+    ]
+   },
+   {
+    "link": "Fortified wines",
+    "tiles": [
+     [
+      "SHERRY"
+     ],
+     [
+      "MARSALA"
+     ],
+     [
+      "VERMOUTH"
+     ],
+     [
+      "MADEIRA"
+     ]
+    ]
+   },
+   {
+    "link": "Creamy puddings",
+    "tiles": [
+     [
+      "FOOL"
+     ],
+     [
+      "SYLLABUB"
+     ],
+     [
+      "POSSET"
+     ],
+     [
+      "JUNKET"
+     ]
+    ]
+   },
+   {
+    "link": "Restaurant staff",
+    "tiles": [
+     [
+      "WAITER",
+      "🤵"
+     ],
+     [
+      "CHEF",
+      "🧑‍🍳"
+     ],
+     [
+      "SOMMELIER"
+     ],
+     [
+      "BARISTA"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PORT": [
+    "Fortified wines"
+   ],
+   "MESS": [
+    "Creamy puddings"
+   ],
+   "HOST": [
+    "Restaurant staff"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Brown ___",
+    "note": "Brown sugar, brown rice, brown ale, Brown Owl",
+    "tiles": [
+     [
+      "SUGAR"
+     ],
+     [
+      "RICE",
+      "🍚"
+     ],
+     [
+      "ALE"
+     ],
+     [
+      "OWL",
+      "🦉"
+     ]
+    ]
+   },
+   {
+    "link": "Sweeteners",
+    "tiles": [
+     [
+      "SYRUP"
+     ],
+     [
+      "TREACLE"
+     ],
+     [
+      "MOLASSES"
+     ],
+     [
+      "STEVIA"
+     ]
+    ]
+   },
+   {
+    "link": "Starchy staples",
+    "tiles": [
+     [
+      "PASTA"
+     ],
+     [
+      "POTATO",
+      "🥔"
+     ],
+     [
+      "NOODLES"
+     ],
+     [
+      "COUSCOUS"
+     ]
+    ]
+   },
+   {
+    "link": "Pancake toppings",
+    "tiles": [
+     [
+      "LEMON",
+      "🍋"
+     ],
+     [
+      "BANANA",
+      "🍌"
+     ],
+     [
+      "CHOCOLATE",
+      "🍫"
+     ],
+     [
+      "BLUEBERRY"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SUGAR": [
+    "Sweeteners",
+    "Pancake toppings"
+   ],
+   "RICE": [
+    "Starchy staples"
+   ],
+   "SYRUP": [
+    "Pancake toppings"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Angel ___",
+    "note": "Angel Delight, angel dust, angelfish, angel hair",
+    "tiles": [
+     [
+      "DELIGHT"
+     ],
+     [
+      "DUST"
+     ],
+     [
+      "FISH",
+      "🐟"
+     ],
+     [
+      "HAIR"
+     ]
+    ]
+   },
+   {
+    "link": "Cake-decorating verbs",
+    "tiles": [
+     [
+      "ICE",
+      "🧊"
+     ],
+     [
+      "PIPE"
+     ],
+     [
+      "GLAZE"
+     ],
+     [
+      "DRIZZLE"
+     ]
+    ]
+   },
+   {
+    "link": "Savoury pies",
+    "tiles": [
+     [
+      "COTTAGE"
+     ],
+     [
+      "SHEPHERDS"
+     ],
+     [
+      "PORK"
+     ],
+     [
+      "STEAK",
+      "🥩"
+     ]
+    ]
+   },
+   {
+    "link": "Soft cheeses",
+    "tiles": [
+     [
+      "RICOTTA"
+     ],
+     [
+      "BRIE"
+     ],
+     [
+      "CAMEMBERT"
+     ],
+     [
+      "BOURSIN"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "DUST": [
+    "Cake-decorating verbs"
+   ],
+   "FISH": [
+    "Savoury pies"
+   ],
+   "COTTAGE": [
+    "Soft cheeses"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Body part homophones",
+    "note": "Muscle, thigh, palate, waist",
+    "tiles": [
+     [
+      "MUSSEL"
+     ],
+     [
+      "THAI"
+     ],
+     [
+      "PALETTE",
+      "🎨"
+     ],
+     [
+      "WASTE"
+     ]
+    ]
+   },
+   {
+    "link": "Fruits de mer",
+    "tiles": [
+     [
+      "PRAWN",
+      "🦐"
+     ],
+     [
+      "SQUID",
+      "🦑"
+     ],
+     [
+      "CLAM"
+     ],
+     [
+      "SCALLOP"
+     ]
+    ]
+   },
+   {
+    "link": "National cuisines",
+    "tiles": [
+     [
+      "INDIAN"
+     ],
+     [
+      "CHINESE"
+     ],
+     [
+      "FRENCH"
+     ],
+     [
+      "GREEK"
+     ]
+    ]
+   },
+   {
+    "link": "Kitchen knives",
+    "tiles": [
+     [
+      "PARING"
+     ],
+     [
+      "CARVING"
+     ],
+     [
+      "CLEAVER"
+     ],
+     [
+      "BONING"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MUSSEL": [
+    "Fruits de mer"
+   ],
+   "THAI": [
+    "National cuisines"
+   ],
+   "PALETTE": [
+    "Kitchen knives"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Backwards words",
+    "note": "Faced, made, maps, stressed",
+    "tiles": [
+     [
+      "DECAF"
+     ],
+     [
+      "EDAM"
+     ],
+     [
+      "SPAM"
+     ],
+     [
+      "DESSERTS"
+     ]
+    ]
+   },
+   {
+    "link": "Coffee orders",
+    "tiles": [
+     [
+      "LATTE"
+     ],
+     [
+      "MOCHA"
+     ],
+     [
+      "ESPRESSO"
+     ],
+     [
+      "AMERICANO"
+     ]
+    ]
+   },
+   {
+    "link": "European cheeses",
+    "tiles": [
+     [
+      "GOUDA"
+     ],
+     [
+      "EMMENTAL"
+     ],
+     [
+      "GRUYERE"
+     ],
+     [
+      "MANCHEGO"
+     ]
+    ]
+   },
+   {
+    "link": "Tinned food",
+    "tiles": [
+     [
+      "TUNA"
+     ],
+     [
+      "SWEETCORN",
+      "🌽"
+     ],
+     [
+      "PINEAPPLE",
+      "🍍"
+     ],
+     [
+      "CHERRIES",
+      "🍒"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "DECAF": [
+    "Coffee orders"
+   ],
+   "EDAM": [
+    "European cheeses"
+   ],
+   "SPAM": [
+    "Tinned food"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Blood ___",
+    "note": "Blood orange, bloodbath, bloodhound, bloodshot",
+    "tiles": [
+     [
+      "ORANGE",
+      "🍊"
+     ],
+     [
+      "BATH",
+      "🛁"
+     ],
+     [
+      "HOUND"
+     ],
+     [
+      "SHOT"
+     ]
+    ]
+   },
+   {
+    "link": "Citrus fruit",
+    "tiles": [
+     [
+      "SATSUMA"
+     ],
+     [
+      "MANDARIN"
+     ],
+     [
+      "KUMQUAT"
+     ],
+     [
+      "POMELO"
+     ]
+    ]
+   },
+   {
+    "link": "Buns",
+    "tiles": [
+     [
+      "CHELSEA"
+     ],
+     [
+      "ICED"
+     ],
+     [
+      "BELGIAN"
+     ],
+     [
+      "CINNAMON"
+     ]
+    ]
+   },
+   {
+    "link": "Bar measures",
+    "tiles": [
+     [
+      "PINT",
+      "🍺"
+     ],
+     [
+      "HALF"
+     ],
+     [
+      "DOUBLE"
+     ],
+     [
+      "SINGLE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ORANGE": [
+    "Citrus fruit"
+   ],
+   "BATH": [
+    "Buns"
+   ],
+   "SHOT": [
+    "Bar measures"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Hidden ant",
+    "note": "pANTry, cANTeen, decANTer, plANTain",
+    "tiles": [
+     [
+      "PANTRY"
+     ],
+     [
+      "CANTEEN"
+     ],
+     [
+      "DECANTER"
+     ],
+     [
+      "PLANTAIN"
+     ]
+    ]
+   },
+   {
+    "link": "Kitchen storage",
+    "tiles": [
+     [
+      "LARDER"
+     ],
+     [
+      "FRIDGE"
+     ],
+     [
+      "FREEZER"
+     ],
+     [
+      "CUPBOARD"
+     ]
+    ]
+   },
+   {
+    "link": "Drinks containers",
+    "tiles": [
+     [
+      "CARAFE"
+     ],
+     [
+      "PITCHER"
+     ],
+     [
+      "TEAPOT",
+      "🫖"
+     ],
+     [
+      "BOTTLE",
+      "🍼"
+     ]
+    ]
+   },
+   {
+    "link": "Places to eat",
+    "tiles": [
+     [
+      "BISTRO"
+     ],
+     [
+      "CAFE"
+     ],
+     [
+      "DINER"
+     ],
+     [
+      "TAKEAWAY",
+      "🥡"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PANTRY": [
+    "Kitchen storage"
+   ],
+   "DECANTER": [
+    "Drinks containers"
+   ],
+   "CANTEEN": [
+    "Places to eat",
+    "Drinks containers"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Letter + body part",
+    "note": "P+ear, S+ear, C+hip, S+nail",
+    "tiles": [
+     [
+      "PEAR",
+      "🍐"
+     ],
+     [
+      "SEAR"
+     ],
+     [
+      "CHIP"
+     ],
+     [
+      "SNAIL",
+      "🐌"
+     ]
+    ]
+   },
+   {
+    "link": "Orchard fruit",
+    "tiles": [
+     [
+      "APPLE",
+      "🍎"
+     ],
+     [
+      "QUINCE"
+     ],
+     [
+      "DAMSON"
+     ],
+     [
+      "CHERRY"
+     ]
+    ]
+   },
+   {
+    "link": "Ways to cook meat",
+    "tiles": [
+     [
+      "ROAST"
+     ],
+     [
+      "GRILL"
+     ],
+     [
+      "BRAISE"
+     ],
+     [
+      "FRY"
+     ]
+    ]
+   },
+   {
+    "link": "Cocktail trimmings",
+    "tiles": [
+     [
+      "UMBRELLA",
+      "☂️"
+     ],
+     [
+      "STRAW"
+     ],
+     [
+      "TWIST"
+     ],
+     [
+      "STIRRER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PEAR": [
+    "Orchard fruit"
+   ],
+   "SEAR": [
+    "Ways to cook meat"
+   ],
+   "CHERRY": [
+    "Cocktail trimmings"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "___ bone",
+    "note": "Herringbone, shinbone, whalebone, wishbone",
+    "tiles": [
+     [
+      "HERRING"
+     ],
+     [
+      "SHIN"
+     ],
+     [
+      "WHALE",
+      "🐋"
+     ],
+     [
+      "WISH"
+     ]
+    ]
+   },
+   {
+    "link": "Oily fish",
+    "tiles": [
+     [
+      "MACKEREL"
+     ],
+     [
+      "SARDINE"
+     ],
+     [
+      "PILCHARD"
+     ],
+     [
+      "ANCHOVY"
+     ]
+    ]
+   },
+   {
+    "link": "Cuts of beef",
+    "tiles": [
+     [
+      "BRISKET"
+     ],
+     [
+      "SIRLOIN"
+     ],
+     [
+      "RUMP"
+     ],
+     [
+      "TOPSIDE"
+     ]
+    ]
+   },
+   {
+    "link": "Pizza toppings",
+    "tiles": [
+     [
+      "PEPPERONI"
+     ],
+     [
+      "JALAPENO"
+     ],
+     [
+      "ROCKET",
+      "🚀"
+     ],
+     [
+      "TOMATO",
+      "🍅"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "HERRING": [
+    "Oily fish"
+   ],
+   "SHIN": [
+    "Cuts of beef"
+   ],
+   "ANCHOVY": [
+    "Pizza toppings"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Bar ___",
+    "note": "Barrack, bartender, barbell, barcode",
+    "tiles": [
+     [
+      "RACK"
+     ],
+     [
+      "TENDER"
+     ],
+     [
+      "BELL",
+      "🔔"
+     ],
+     [
+      "CODE"
+     ]
+    ]
+   },
+   {
+    "link": "Baking equipment",
+    "tiles": [
+     [
+      "TIN"
+     ],
+     [
+      "TRAY"
+     ],
+     [
+      "CUTTER"
+     ],
+     [
+      "SIEVE"
+     ]
+    ]
+   },
+   {
+    "link": "Fried chicken orders",
+    "tiles": [
+     [
+      "NUGGET"
+     ],
+     [
+      "DRUMSTICK",
+      "🍗"
+     ],
+     [
+      "WING"
+     ],
+     [
+      "POPCORN",
+      "🍿"
+     ]
+    ]
+   },
+   {
+    "link": "Loaf shapes",
+    "tiles": [
+     [
+      "BLOOMER"
+     ],
+     [
+      "COB"
+     ],
+     [
+      "PLAIT"
+     ],
+     [
+      "FARMHOUSE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "RACK": [
+    "Baking equipment"
+   ],
+   "TENDER": [
+    "Fried chicken orders"
+   ],
+   "TIN": [
+    "Loaf shapes"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Beer ___",
+    "note": "Beer belly, beer garden, beer mat, beer tent",
+    "tiles": [
+     [
+      "BELLY"
+     ],
+     [
+      "GARDEN"
+     ],
+     [
+      "MAT"
+     ],
+     [
+      "TENT",
+      "⛺"
+     ]
+    ]
+   },
+   {
+    "link": "Cuts of pork",
+    "tiles": [
+     [
+      "SHOULDER"
+     ],
+     [
+      "LEG",
+      "🦵"
+     ],
+     [
+      "SPARERIB"
+     ],
+     [
+      "HOCK"
+     ]
+    ]
+   },
+   {
+    "link": "Peas",
+    "tiles": [
+     [
+      "MUSHY"
+     ],
+     [
+      "SPLIT"
+     ],
+     [
+      "MANGETOUT"
+     ],
+     [
+      "SUGARSNAP"
+     ]
+    ]
+   },
+   {
+    "link": "On the dinner table",
+    "tiles": [
+     [
+      "NAPKIN"
+     ],
+     [
+      "CRUET"
+     ],
+     [
+      "CANDLE",
+      "🕯️"
+     ],
+     [
+      "DOILY"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BELLY": [
+    "Cuts of pork"
+   ],
+   "GARDEN": [
+    "Peas"
+   ],
+   "MAT": [
+    "On the dinner table"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Add B to cook",
+    "note": "Boil, braise, blend, beat",
+    "tiles": [
+     [
+      "OIL",
+      "🛢️"
+     ],
+     [
+      "RAISE"
+     ],
+     [
+      "LEND"
+     ],
+     [
+      "EAT"
+     ]
+    ]
+   },
+   {
+    "link": "Table condiments",
+    "tiles": [
+     [
+      "VINEGAR"
+     ],
+     [
+      "MUSTARD"
+     ],
+     [
+      "SALT",
+      "🧂"
+     ],
+     [
+      "MAYO"
+     ]
+    ]
+   },
+   {
+    "link": "Ways to eat",
+    "tiles": [
+     [
+      "SCOFF"
+     ],
+     [
+      "MUNCH"
+     ],
+     [
+      "NIBBLE"
+     ],
+     [
+      "DEVOUR"
+     ]
+    ]
+   },
+   {
+    "link": "Seeds",
+    "tiles": [
+     [
+      "POPPY"
+     ],
+     [
+      "CARAWAY"
+     ],
+     [
+      "PUMPKIN",
+      "🎃"
+     ],
+     [
+      "LINSEED"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "OIL": [
+    "Table condiments"
+   ],
+   "EAT": [
+    "Ways to eat"
+   ],
+   "MUSTARD": [
+    "Seeds"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Hidden art",
+    "note": "tARTare, mARTini, stARTer, pARTy",
+    "tiles": [
+     [
+      "TARTARE"
+     ],
+     [
+      "MARTINI",
+      "🍸"
+     ],
+     [
+      "STARTER"
+     ],
+     [
+      "PARTY",
+      "🎉"
+     ]
+    ]
+   },
+   {
+    "link": "Cocktails",
+    "tiles": [
+     [
+      "MOJITO"
+     ],
+     [
+      "NEGRONI"
+     ],
+     [
+      "DAIQUIRI"
+     ],
+     [
+      "ZOMBIE",
+      "🧟"
+     ]
+    ]
+   },
+   {
+    "link": "Courses",
+    "tiles": [
+     [
+      "ENTREE"
+     ],
+     [
+      "MAIN"
+     ],
+     [
+      "DESSERT"
+     ],
+     [
+      "AFTERS"
+     ]
+    ]
+   },
+   {
+    "link": "Raw dishes",
+    "tiles": [
+     [
+      "SASHIMI"
+     ],
+     [
+      "CEVICHE"
+     ],
+     [
+      "CARPACCIO"
+     ],
+     [
+      "POKE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MARTINI": [
+    "Cocktails"
+   ],
+   "STARTER": [
+    "Courses"
+   ],
+   "TARTARE": [
+    "Raw dishes"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "___ boat",
+    "note": "Gravy boat, steamboat, dreamboat, houseboat",
+    "tiles": [
+     [
+      "GRAVY"
+     ],
+     [
+      "STEAM"
+     ],
+     [
+      "DREAM"
+     ],
+     [
+      "HOUSE",
+      "🏠"
+     ]
+    ]
+   },
+   {
+    "link": "Roast dinner trimmings",
+    "tiles": [
+     [
+      "STUFFING"
+     ],
+     [
+      "CRACKLING"
+     ],
+     [
+      "PARSNIPS"
+     ],
+     [
+      "ROASTIES"
+     ]
+    ]
+   },
+   {
+    "link": "Cooking in water",
+    "tiles": [
+     [
+      "POACH"
+     ],
+     [
+      "BOIL"
+     ],
+     [
+      "STEW",
+      "🍲"
+     ],
+     [
+      "BLANCH"
+     ]
+    ]
+   },
+   {
+    "link": "On a wine list",
+    "tiles": [
+     [
+      "RED"
+     ],
+     [
+      "WHITE"
+     ],
+     [
+      "ROSE",
+      "🌹"
+     ],
+     [
+      "FIZZ"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "GRAVY": [
+    "Roast dinner trimmings"
+   ],
+   "STEAM": [
+    "Cooking in water"
+   ],
+   "HOUSE": [
+    "On a wine list"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "___berry",
+    "note": "Gooseberry, elderberry, raspberry, loganberry",
+    "tiles": [
+     [
+      "GOOSE"
+     ],
+     [
+      "ELDER"
+     ],
+     [
+      "RASP"
+     ],
+     [
+      "LOGAN"
+     ]
+    ]
+   },
+   {
+    "link": "Poultry",
+    "tiles": [
+     [
+      "CHICKEN",
+      "🐔"
+     ],
+     [
+      "TURKEY",
+      "🦃"
+     ],
+     [
+      "DUCK",
+      "🦆"
+     ],
+     [
+      "QUAIL"
+     ]
+    ]
+   },
+   {
+    "link": "Christmas food",
+    "tiles": [
+     [
+      "STOLLEN"
+     ],
+     [
+      "PANETTONE"
+     ],
+     [
+      "SPROUTS"
+     ],
+     [
+      "EGGNOG"
+     ]
+    ]
+   },
+   {
+    "link": "Brassicas",
+    "tiles": [
+     [
+      "SAVOY"
+     ],
+     [
+      "KALE"
+     ],
+     [
+      "BROCCOLI",
+      "🥦"
+     ],
+     [
+      "KOHLRABI"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "GOOSE": [
+    "Poultry",
+    "Christmas food"
+   ],
+   "TURKEY": [
+    "Christmas food"
+   ],
+   "SPROUTS": [
+    "Brassicas"
+   ]
+  }
+ }
+]

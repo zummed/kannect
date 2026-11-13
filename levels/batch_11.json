@@ -1,0 +1,2702 @@
+[
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Shades of red",
+    "tiles": [
+     [
+      "SCARLET"
+     ],
+     [
+      "CRIMSON"
+     ],
+     [
+      "CHERRY",
+      "🍒"
+     ],
+     [
+      "RUBY"
+     ]
+    ]
+   },
+   {
+    "link": "Shades of green",
+    "tiles": [
+     [
+      "OLIVE",
+      "🫒"
+     ],
+     [
+      "SAGE"
+     ],
+     [
+      "MINT"
+     ],
+     [
+      "EMERALD"
+     ]
+    ]
+   },
+   {
+    "link": "Birthstones",
+    "tiles": [
+     [
+      "OPAL"
+     ],
+     [
+      "PEARL"
+     ],
+     [
+      "PERIDOT"
+     ],
+     [
+      "AMETHYST"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding TOP",
+    "note": "TOPaz, ocTOPus, lapTOP, uTOPia",
+    "tiles": [
+     [
+      "TOPAZ"
+     ],
+     [
+      "OCTOPUS",
+      "🐙"
+     ],
+     [
+      "LAPTOP",
+      "💻"
+     ],
+     [
+      "UTOPIA"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "RUBY": [
+    "Birthstones"
+   ],
+   "EMERALD": [
+    "Birthstones"
+   ],
+   "TOPAZ": [
+    "Birthstones"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Santa's reindeer",
+    "tiles": [
+     [
+      "PRANCER"
+     ],
+     [
+      "BLITZEN"
+     ],
+     [
+      "CUPID"
+     ],
+     [
+      "DANCER"
+     ]
+    ]
+   },
+   {
+    "link": "Valentine's Day",
+    "tiles": [
+     [
+      "FLOWERS"
+     ],
+     [
+      "ARROW",
+      "🏹"
+     ],
+     [
+      "KISS",
+      "💋"
+     ],
+     [
+      "CHOCOLATE"
+     ]
+    ]
+   },
+   {
+    "link": "Words for nothing",
+    "tiles": [
+     [
+      "ZERO"
+     ],
+     [
+      "NIL"
+     ],
+     [
+      "NOUGHT"
+     ],
+     [
+      "LOVE"
+     ]
+    ]
+   },
+   {
+    "link": "Tap ___",
+    "note": "Tap water, taproot, tap shoe, taproom",
+    "tiles": [
+     [
+      "WATER",
+      "💧"
+     ],
+     [
+      "ROOT"
+     ],
+     [
+      "SHOE",
+      "👟"
+     ],
+     [
+      "ROOM"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CUPID": [
+    "Valentine's Day"
+   ],
+   "LOVE": [
+    "Valentine's Day"
+   ],
+   "DANCER": [
+    "Tap ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Flat shapes",
+    "tiles": [
+     [
+      "CIRCLE"
+     ],
+     [
+      "TRIANGLE",
+      "🔺"
+     ],
+     [
+      "HEXAGON"
+     ],
+     [
+      "OVAL"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding TAG",
+    "note": "ocTAGon, penTAGon, cotTAGe, vinTAGe",
+    "tiles": [
+     [
+      "OCTAGON"
+     ],
+     [
+      "PENTAGON"
+     ],
+     [
+      "COTTAGE",
+      "🏡"
+     ],
+     [
+      "VINTAGE"
+     ]
+    ]
+   },
+   {
+    "link": "Town ___",
+    "note": "Town square, town hall, town crier, town planner",
+    "tiles": [
+     [
+      "SQUARE"
+     ],
+     [
+      "HALL"
+     ],
+     [
+      "CRIER"
+     ],
+     [
+      "PLANNER"
+     ]
+    ]
+   },
+   {
+    "link": "Feeling angry",
+    "tiles": [
+     [
+      "CROSS",
+      "❌"
+     ],
+     [
+      "LIVID"
+     ],
+     [
+      "FUMING"
+     ],
+     [
+      "IRATE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "OCTAGON": [
+    "Flat shapes"
+   ],
+   "PENTAGON": [
+    "Flat shapes"
+   ],
+   "SQUARE": [
+    "Flat shapes"
+   ],
+   "CROSS": [
+    "Flat shapes"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "'Tinker, Tailor' rhyme",
+    "tiles": [
+     [
+      "TAILOR"
+     ],
+     [
+      "SAILOR"
+     ],
+     [
+      "BEGGAR"
+     ],
+     [
+      "THIEF"
+     ]
+    ]
+   },
+   {
+    "link": "Toy ___",
+    "note": "Toy soldier, toybox, toyshop, Toy Story",
+    "tiles": [
+     [
+      "SOLDIER"
+     ],
+     [
+      "BOX",
+      "📦"
+     ],
+     [
+      "SHOP",
+      "🏪"
+     ],
+     [
+      "STORY"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding TIN",
+    "note": "TINker, TINsel, saTIN, marTINi",
+    "tiles": [
+     [
+      "TINKER"
+     ],
+     [
+      "TINSEL"
+     ],
+     [
+      "SATIN"
+     ],
+     [
+      "MARTINI",
+      "🍸"
+     ]
+    ]
+   },
+   {
+    "link": "Christmas decorations",
+    "tiles": [
+     [
+      "BAUBLE"
+     ],
+     [
+      "HOLLY"
+     ],
+     [
+      "ANGEL",
+      "👼"
+     ],
+     [
+      "LIGHTS"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TINKER": [
+    "'Tinker, Tailor' rhyme"
+   ],
+   "SOLDIER": [
+    "'Tinker, Tailor' rhyme"
+   ],
+   "TINSEL": [
+    "Christmas decorations"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Chinese zodiac animals",
+    "tiles": [
+     [
+      "OX"
+     ],
+     [
+      "TIGER"
+     ],
+     [
+      "SNAKE",
+      "🐍"
+     ],
+     [
+      "ROOSTER"
+     ]
+    ]
+   },
+   {
+    "link": "Star sign symbols",
+    "tiles": [
+     [
+      "CRAB",
+      "🦀"
+     ],
+     [
+      "SCORPION"
+     ],
+     [
+      "ARCHER"
+     ],
+     [
+      "GOAT"
+     ]
+    ]
+   },
+   {
+    "link": "Magician's props",
+    "tiles": [
+     [
+      "RABBIT",
+      "🐇"
+     ],
+     [
+      "WAND"
+     ],
+     [
+      "DOVE",
+      "🕊️"
+     ],
+     [
+      "HAT"
+     ]
+    ]
+   },
+   {
+    "link": "Under ___",
+    "note": "Underdog, underground, understudy, underpass",
+    "tiles": [
+     [
+      "DOG",
+      "🐕"
+     ],
+     [
+      "GROUND"
+     ],
+     [
+      "STUDY"
+     ],
+     [
+      "PASS"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "GOAT": [
+    "Chinese zodiac animals"
+   ],
+   "RABBIT": [
+    "Chinese zodiac animals"
+   ],
+   "DOG": [
+    "Chinese zodiac animals"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Months",
+    "tiles": [
+     [
+      "APRIL"
+     ],
+     [
+      "AUGUST"
+     ],
+     [
+      "JUNE"
+     ],
+     [
+      "JULY"
+     ]
+    ]
+   },
+   {
+    "link": "Wedding ___",
+    "note": "Wedding march, wedding cake, wedding rings, wedding dress",
+    "tiles": [
+     [
+      "MARCH"
+     ],
+     [
+      "CAKE",
+      "🎂"
+     ],
+     [
+      "RINGS"
+     ],
+     [
+      "DRESS",
+      "👗"
+     ]
+    ]
+   },
+   {
+    "link": "At a birthday party",
+    "tiles": [
+     [
+      "CANDLE",
+      "🕯️"
+     ],
+     [
+      "BALLOON",
+      "🎈"
+     ],
+     [
+      "JELLY"
+     ],
+     [
+      "BANNER"
+     ]
+    ]
+   },
+   {
+    "link": "The Twelve Days of Christmas",
+    "tiles": [
+     [
+      "SWANS"
+     ],
+     [
+      "GEESE"
+     ],
+     [
+      "PIPERS"
+     ],
+     [
+      "DRUMMERS"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MARCH": [
+    "Months"
+   ],
+   "CAKE": [
+    "At a birthday party"
+   ],
+   "RINGS": [
+    "The Twelve Days of Christmas"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Lucky charms",
+    "tiles": [
+     [
+      "HORSESHOE"
+     ],
+     [
+      "CLOVER",
+      "🍀"
+     ],
+     [
+      "WISHBONE"
+     ],
+     [
+      "HEATHER"
+     ]
+    ]
+   },
+   {
+    "link": "Said to bring bad luck",
+    "tiles": [
+     [
+      "LADDER",
+      "🪜"
+     ],
+     [
+      "MAGPIE"
+     ],
+     [
+      "UMBRELLA",
+      "☂️"
+     ],
+     [
+      "THIRTEEN"
+     ]
+    ]
+   },
+   {
+    "link": "Prime numbers",
+    "tiles": [
+     [
+      "FIVE"
+     ],
+     [
+      "ELEVEN"
+     ],
+     [
+      "NINETEEN"
+     ],
+     [
+      "SEVEN"
+     ]
+    ]
+   },
+   {
+    "link": "Wing ___",
+    "note": "Wing mirror, wingnut, wingspan, wingman",
+    "tiles": [
+     [
+      "MIRROR",
+      "🪞"
+     ],
+     [
+      "NUT",
+      "🥜"
+     ],
+     [
+      "SPAN"
+     ],
+     [
+      "MAN"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MIRROR": [
+    "Said to bring bad luck"
+   ],
+   "THIRTEEN": [
+    "Prime numbers"
+   ],
+   "SEVEN": [
+    "Lucky charms"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Wedding anniversaries",
+    "tiles": [
+     [
+      "PAPER",
+      "📰"
+     ],
+     [
+      "COTTON"
+     ],
+     [
+      "CHINA"
+     ],
+     [
+      "CRYSTAL",
+      "🔮"
+     ]
+    ]
+   },
+   {
+    "link": "___ worm",
+    "note": "Silkworm, woodworm, bookworm, glow-worm",
+    "tiles": [
+     [
+      "SILK"
+     ],
+     [
+      "WOOD",
+      "🪵"
+     ],
+     [
+      "BOOK",
+      "📖"
+     ],
+     [
+      "GLOW"
+     ]
+    ]
+   },
+   {
+    "link": "Shades of grey",
+    "tiles": [
+     [
+      "STEEL"
+     ],
+     [
+      "SLATE"
+     ],
+     [
+      "CHARCOAL"
+     ],
+     [
+      "PEWTER"
+     ]
+    ]
+   },
+   {
+    "link": "Signs of the zodiac",
+    "tiles": [
+     [
+      "ARIES"
+     ],
+     [
+      "LIBRA"
+     ],
+     [
+      "PISCES"
+     ],
+     [
+      "TAURUS"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SILK": [
+    "Wedding anniversaries"
+   ],
+   "WOOD": [
+    "Wedding anniversaries"
+   ],
+   "STEEL": [
+    "Wedding anniversaries"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "French numbers",
+    "tiles": [
+     [
+      "TROIS"
+     ],
+     [
+      "QUATRE"
+     ],
+     [
+      "DEUX"
+     ],
+     [
+      "DIX"
+     ]
+    ]
+   },
+   {
+    "link": "Words ending in X",
+    "tiles": [
+     [
+      "HOAX"
+     ],
+     [
+      "ONYX"
+     ],
+     [
+      "FOX",
+      "🦊"
+     ],
+     [
+      "SAX",
+      "🎷"
+     ]
+    ]
+   },
+   {
+    "link": "Even numbers",
+    "tiles": [
+     [
+      "SIX"
+     ],
+     [
+      "EIGHT"
+     ],
+     [
+      "TWELVE"
+     ],
+     [
+      "TWENTY"
+     ]
+    ]
+   },
+   {
+    "link": "Bad-luck spells",
+    "tiles": [
+     [
+      "JINX"
+     ],
+     [
+      "HEX"
+     ],
+     [
+      "CURSE",
+      "🤬"
+     ],
+     [
+      "HOODOO"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SIX": [
+    "French numbers",
+    "Words ending in X"
+   ],
+   "DEUX": [
+    "Words ending in X"
+   ],
+   "DIX": [
+    "Words ending in X"
+   ],
+   "JINX": [
+    "Words ending in X"
+   ],
+   "HEX": [
+    "Words ending in X"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Snow White's dwarfs",
+    "tiles": [
+     [
+      "DOC"
+     ],
+     [
+      "DOPEY"
+     ],
+     [
+      "HAPPY",
+      "😊"
+     ],
+     [
+      "SLEEPY",
+      "😴"
+     ]
+    ]
+   },
+   {
+    "link": "Feeling happy",
+    "tiles": [
+     [
+      "MERRY"
+     ],
+     [
+      "JOLLY"
+     ],
+     [
+      "GLAD"
+     ],
+     [
+      "CHEERFUL"
+     ]
+    ]
+   },
+   {
+    "link": "Feeling tired",
+    "tiles": [
+     [
+      "DROWSY"
+     ],
+     [
+      "WEARY",
+      "😩"
+     ],
+     [
+      "DRAINED"
+     ],
+     [
+      "SHATTERED"
+     ]
+    ]
+   },
+   {
+    "link": "Double Z",
+    "tiles": [
+     [
+      "FRAZZLED"
+     ],
+     [
+      "DIZZY",
+      "💫"
+     ],
+     [
+      "FIZZY"
+     ],
+     [
+      "FUZZY"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "HAPPY": [
+    "Feeling happy"
+   ],
+   "SLEEPY": [
+    "Feeling tired"
+   ],
+   "DOPEY": [
+    "Feeling tired"
+   ],
+   "FRAZZLED": [
+    "Feeling tired"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "At a wedding",
+    "tiles": [
+     [
+      "VEIL"
+     ],
+     [
+      "GROOM",
+      "🤵"
+     ],
+     [
+      "CONFETTI"
+     ],
+     [
+      "BOUQUET",
+      "💐"
+     ]
+    ]
+   },
+   {
+    "link": "Party things",
+    "tiles": [
+     [
+      "STREAMER"
+     ],
+     [
+      "PINATA"
+     ],
+     [
+      "POPPER",
+      "🎉"
+     ],
+     [
+      "KAZOO"
+     ]
+    ]
+   },
+   {
+    "link": "Words for a smell",
+    "tiles": [
+     [
+      "SCENT"
+     ],
+     [
+      "AROMA"
+     ],
+     [
+      "ODOUR"
+     ],
+     [
+      "WHIFF"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding VOW",
+    "note": "VOWs, VOWel, aVOWed, disaVOW",
+    "tiles": [
+     [
+      "VOWS"
+     ],
+     [
+      "VOWEL"
+     ],
+     [
+      "AVOWED"
+     ],
+     [
+      "DISAVOW"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "VOWS": [
+    "At a wedding"
+   ],
+   "CONFETTI": [
+    "Party things"
+   ],
+   "BOUQUET": [
+    "Words for a smell"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Tastes",
+    "tiles": [
+     [
+      "SOUR"
+     ],
+     [
+      "SALTY"
+     ],
+     [
+      "BITTER"
+     ],
+     [
+      "SAVOURY"
+     ]
+    ]
+   },
+   {
+    "link": "___ tooth",
+    "note": "Sweet tooth, sawtooth, buck tooth, false tooth",
+    "tiles": [
+     [
+      "SWEET"
+     ],
+     [
+      "SAW",
+      "🪚"
+     ],
+     [
+      "BUCK"
+     ],
+     [
+      "FALSE"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding TAR",
+    "note": "TARt, guiTAR, TARget, necTAR",
+    "tiles": [
+     [
+      "TART"
+     ],
+     [
+      "GUITAR",
+      "🎸"
+     ],
+     [
+      "TARGET",
+      "🎯"
+     ],
+     [
+      "NECTAR"
+     ]
+    ]
+   },
+   {
+    "link": "Shades of yellow",
+    "tiles": [
+     [
+      "LEMON",
+      "🍋"
+     ],
+     [
+      "PRIMROSE"
+     ],
+     [
+      "CANARY"
+     ],
+     [
+      "MUSTARD"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SWEET": [
+    "Tastes"
+   ],
+   "TART": [
+    "Tastes"
+   ],
+   "MUSTARD": [
+    "Words hiding TAR"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Animal sounds",
+    "tiles": [
+     [
+      "HISS"
+     ],
+     [
+      "CROAK"
+     ],
+     [
+      "NEIGH"
+     ],
+     [
+      "TRUMPET",
+      "🎺"
+     ]
+    ]
+   },
+   {
+    "link": "Sounds of a bell",
+    "tiles": [
+     [
+      "DING"
+     ],
+     [
+      "PEAL"
+     ],
+     [
+      "TOLL"
+     ],
+     [
+      "KNELL"
+     ]
+    ]
+   },
+   {
+    "link": "Up ___",
+    "note": "Uproar, uplift, uphill, upward",
+    "tiles": [
+     [
+      "ROAR"
+     ],
+     [
+      "LIFT",
+      "🛗"
+     ],
+     [
+      "HILL"
+     ],
+     [
+      "WARD"
+     ]
+    ]
+   },
+   {
+    "link": "Wind ___",
+    "note": "Wind chime, windmill, windscreen, windsock",
+    "tiles": [
+     [
+      "CHIME"
+     ],
+     [
+      "MILL"
+     ],
+     [
+      "SCREEN"
+     ],
+     [
+      "SOCK",
+      "🧦"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ROAR": [
+    "Animal sounds"
+   ],
+   "CHIME": [
+    "Sounds of a bell"
+   ],
+   "WARD": [
+    "Wind ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Fireworks",
+    "tiles": [
+     [
+      "ROCKET",
+      "🚀"
+     ],
+     [
+      "SPARKLER"
+     ],
+     [
+      "BANGER"
+     ],
+     [
+      "FOUNTAIN",
+      "⛲"
+     ]
+    ]
+   },
+   {
+    "link": "On the Christmas table",
+    "tiles": [
+     [
+      "CRACKER"
+     ],
+     [
+      "TURKEY",
+      "🦃"
+     ],
+     [
+      "SPROUTS"
+     ],
+     [
+      "PUDDING"
+     ]
+    ]
+   },
+   {
+    "link": "Water ___",
+    "note": "Watermelon, waterfall, watercolour, watercress",
+    "tiles": [
+     [
+      "MELON",
+      "🍈"
+     ],
+     [
+      "FALL"
+     ],
+     [
+      "COLOUR"
+     ],
+     [
+      "CRESS"
+     ]
+    ]
+   },
+   {
+    "link": "Thunder ___",
+    "note": "Thunderclap, thunderbolt, thunderstorm, Thunderbird",
+    "tiles": [
+     [
+      "CLAP"
+     ],
+     [
+      "BOLT",
+      "🔩"
+     ],
+     [
+      "STORM"
+     ],
+     [
+      "BIRD"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CRACKER": [
+    "Fireworks",
+    "Water ___"
+   ],
+   "FOUNTAIN": [
+    "Water ___"
+   ],
+   "BIRD": [
+    "Water ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "In Cinderella",
+    "tiles": [
+     [
+      "SLIPPER"
+     ],
+     [
+      "PUMPKIN",
+      "🎃"
+     ],
+     [
+      "COACH"
+     ],
+     [
+      "MIDNIGHT"
+     ]
+    ]
+   },
+   {
+    "link": "Times of day",
+    "tiles": [
+     [
+      "DAWN"
+     ],
+     [
+      "DUSK"
+     ],
+     [
+      "NOON"
+     ],
+     [
+      "SUNRISE",
+      "🌅"
+     ]
+    ]
+   },
+   {
+    "link": "___ zone",
+    "note": "Twilight zone, comfort zone, buffer zone, danger zone",
+    "tiles": [
+     [
+      "TWILIGHT"
+     ],
+     [
+      "COMFORT"
+     ],
+     [
+      "BUFFER"
+     ],
+     [
+      "DANGER"
+     ]
+    ]
+   },
+   {
+    "link": "Hallowe'en",
+    "tiles": [
+     [
+      "GHOST",
+      "👻"
+     ],
+     [
+      "SKELETON"
+     ],
+     [
+      "COBWEB"
+     ],
+     [
+      "LANTERN",
+      "🏮"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MIDNIGHT": [
+    "Times of day"
+   ],
+   "TWILIGHT": [
+    "Times of day"
+   ],
+   "PUMPKIN": [
+    "Hallowe'en"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Hey Diddle Diddle",
+    "tiles": [
+     [
+      "CAT",
+      "🐈"
+     ],
+     [
+      "FIDDLE",
+      "🎻"
+     ],
+     [
+      "COW",
+      "🐄"
+     ],
+     [
+      "DISH"
+     ]
+    ]
+   },
+   {
+    "link": "Tea ___",
+    "note": "Teaspoon, tea towel, tea cosy, tea chest",
+    "tiles": [
+     [
+      "SPOON",
+      "🥄"
+     ],
+     [
+      "TOWEL"
+     ],
+     [
+      "COSY"
+     ],
+     [
+      "CHEST"
+     ]
+    ]
+   },
+   {
+    "link": "Pirate things",
+    "tiles": [
+     [
+      "CUTLASS"
+     ],
+     [
+      "PARROT",
+      "🦜"
+     ],
+     [
+      "PLANK"
+     ],
+     [
+      "EYEPATCH"
+     ]
+    ]
+   },
+   {
+    "link": "Jack and the Beanstalk",
+    "tiles": [
+     [
+      "BEANS"
+     ],
+     [
+      "GIANT"
+     ],
+     [
+      "HARP"
+     ],
+     [
+      "GOOSE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SPOON": [
+    "Hey Diddle Diddle"
+   ],
+   "COW": [
+    "Jack and the Beanstalk"
+   ],
+   "CHEST": [
+    "Pirate things"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Fictional pirates",
+    "tiles": [
+     [
+      "HOOK",
+      "🪝"
+     ],
+     [
+      "SPARROW"
+     ],
+     [
+      "PUGWASH"
+     ],
+     [
+      "SMEE"
+     ]
+    ]
+   },
+   {
+    "link": "Peter Pan characters",
+    "tiles": [
+     [
+      "WENDY"
+     ],
+     [
+      "NANA"
+     ],
+     [
+      "MICHAEL"
+     ],
+     [
+      "JOHN"
+     ]
+    ]
+   },
+   {
+    "link": "In a treasure chest",
+    "tiles": [
+     [
+      "GOLD"
+     ],
+     [
+      "JEWELS"
+     ],
+     [
+      "COINS",
+      "🪙"
+     ],
+     [
+      "SILVER"
+     ]
+    ]
+   },
+   {
+    "link": "___ up",
+    "note": "Make-up, pick-up, warm-up, catch-up",
+    "tiles": [
+     [
+      "MAKE"
+     ],
+     [
+      "PICK",
+      "⛏️"
+     ],
+     [
+      "WARM"
+     ],
+     [
+      "CATCH"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "HOOK": [
+    "Peter Pan characters",
+    "___ up"
+   ],
+   "SMEE": [
+    "Peter Pan characters"
+   ],
+   "SILVER": [
+    "Fictional pirates"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Seasons",
+    "tiles": [
+     [
+      "SPRING"
+     ],
+     [
+      "SUMMER"
+     ],
+     [
+      "AUTUMN",
+      "🍂"
+     ],
+     [
+      "WINTER"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a clock",
+    "tiles": [
+     [
+      "FACE",
+      "🙂"
+     ],
+     [
+      "HANDS",
+      "🙌"
+     ],
+     [
+      "DIAL"
+     ],
+     [
+      "PENDULUM"
+     ]
+    ]
+   },
+   {
+    "link": "Fractions",
+    "tiles": [
+     [
+      "QUARTER"
+     ],
+     [
+      "THIRD"
+     ],
+     [
+      "FIFTH"
+     ],
+     [
+      "EIGHTH"
+     ]
+    ]
+   },
+   {
+    "link": "___ time",
+    "note": "Bedtime, half-time, playtime, lunchtime",
+    "tiles": [
+     [
+      "BED",
+      "🛏️"
+     ],
+     [
+      "HALF"
+     ],
+     [
+      "PLAY"
+     ],
+     [
+      "LUNCH"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SPRING": [
+    "Parts of a clock",
+    "___ time"
+   ],
+   "SUMMER": [
+    "___ time"
+   ],
+   "WINTER": [
+    "___ time"
+   ],
+   "HALF": [
+    "Fractions"
+   ],
+   "FACE": [
+    "___ time"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Units of time",
+    "tiles": [
+     [
+      "DECADE"
+     ],
+     [
+      "FORTNIGHT"
+     ],
+     [
+      "MONTH"
+     ],
+     [
+      "CENTURY"
+     ]
+    ]
+   },
+   {
+    "link": "Words for a number",
+    "tiles": [
+     [
+      "DOZEN"
+     ],
+     [
+      "SCORE",
+      "🎼"
+     ],
+     [
+      "GROSS",
+      "🤢"
+     ],
+     [
+      "BRACE"
+     ]
+    ]
+   },
+   {
+    "link": "___ wind",
+    "note": "Second wind, tailwind, headwind, whirlwind",
+    "tiles": [
+     [
+      "SECOND",
+      "🥈"
+     ],
+     [
+      "TAIL"
+     ],
+     [
+      "HEAD"
+     ],
+     [
+      "WHIRL"
+     ]
+    ]
+   },
+   {
+    "link": "Zero ___",
+    "note": "Zero hour, zero gravity, zero tolerance, zero-sum",
+    "tiles": [
+     [
+      "HOUR"
+     ],
+     [
+      "GRAVITY"
+     ],
+     [
+      "TOLERANCE"
+     ],
+     [
+      "SUM"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SECOND": [
+    "Units of time"
+   ],
+   "HOUR": [
+    "Units of time"
+   ],
+   "CENTURY": [
+    "Words for a number"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Things that come in pairs",
+    "tiles": [
+     [
+      "SCISSORS",
+      "✂️"
+     ],
+     [
+      "GLASSES",
+      "👓"
+     ],
+     [
+      "PLIERS"
+     ],
+     [
+      "SHORTS",
+      "🩳"
+     ]
+    ]
+   },
+   {
+    "link": "Bird sounds",
+    "tiles": [
+     [
+      "CHIRP"
+     ],
+     [
+      "SQUAWK"
+     ],
+     [
+      "CLUCK"
+     ],
+     [
+      "COO"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding WEE",
+    "note": "tWEEzers, tWEEt, WEEd, sWEEp",
+    "tiles": [
+     [
+      "TWEEZERS"
+     ],
+     [
+      "TWEET"
+     ],
+     [
+      "WEED"
+     ],
+     [
+      "SWEEP"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding TON",
+    "note": "TONgs, butTON, carTON, baTON",
+    "tiles": [
+     [
+      "TONGS"
+     ],
+     [
+      "BUTTON"
+     ],
+     [
+      "CARTON"
+     ],
+     [
+      "BATON"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TWEEZERS": [
+    "Things that come in pairs"
+   ],
+   "TONGS": [
+    "Things that come in pairs"
+   ],
+   "TWEET": [
+    "Bird sounds"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Patterns",
+    "tiles": [
+     [
+      "PAISLEY"
+     ],
+     [
+      "GINGHAM"
+     ],
+     [
+      "ARGYLE"
+     ],
+     [
+      "CHEVRON"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding TAN",
+    "note": "tarTAN, TANgerine, sulTAN, boTANy",
+    "tiles": [
+     [
+      "TARTAN"
+     ],
+     [
+      "TANGERINE"
+     ],
+     [
+      "SULTAN"
+     ],
+     [
+      "BOTANY"
+     ]
+    ]
+   },
+   {
+    "link": "Shades of orange",
+    "tiles": [
+     [
+      "APRICOT"
+     ],
+     [
+      "AMBER"
+     ],
+     [
+      "PEACH",
+      "🍑"
+     ],
+     [
+      "CARROT",
+      "🥕"
+     ]
+    ]
+   },
+   {
+    "link": "In Aladdin",
+    "tiles": [
+     [
+      "GENIE",
+      "🧞"
+     ],
+     [
+      "LAMP"
+     ],
+     [
+      "CARPET"
+     ],
+     [
+      "JASMINE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TARTAN": [
+    "Patterns"
+   ],
+   "TANGERINE": [
+    "Shades of orange"
+   ],
+   "SULTAN": [
+    "In Aladdin"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Colours of the rainbow",
+    "tiles": [
+     [
+      "RED"
+     ],
+     [
+      "ORANGE",
+      "🍊"
+     ],
+     [
+      "YELLOW"
+     ],
+     [
+      "GREEN"
+     ]
+    ]
+   },
+   {
+    "link": "Shades of purple",
+    "tiles": [
+     [
+      "LILAC"
+     ],
+     [
+      "MAUVE"
+     ],
+     [
+      "LAVENDER"
+     ],
+     [
+      "VIOLET"
+     ]
+    ]
+   },
+   {
+    "link": "Shades of pink",
+    "tiles": [
+     [
+      "SALMON"
+     ],
+     [
+      "CORAL"
+     ],
+     [
+      "BLUSH"
+     ],
+     [
+      "FLAMINGO",
+      "🦩"
+     ]
+    ]
+   },
+   {
+    "link": "___ wine",
+    "note": "Rosé wine, mulled wine, table wine, dessert wine",
+    "tiles": [
+     [
+      "ROSE",
+      "🌹"
+     ],
+     [
+      "MULLED"
+     ],
+     [
+      "TABLE"
+     ],
+     [
+      "DESSERT"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "VIOLET": [
+    "Colours of the rainbow"
+   ],
+   "ROSE": [
+    "Shades of pink"
+   ],
+   "RED": [
+    "___ wine"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Shades of brown",
+    "tiles": [
+     [
+      "CHESTNUT",
+      "🌰"
+     ],
+     [
+      "FAWN"
+     ],
+     [
+      "SEPIA"
+     ],
+     [
+      "MAHOGANY"
+     ]
+    ]
+   },
+   {
+    "link": "Witch ___",
+    "note": "Witch hazel, witchcraft, witch-hunt, witch doctor",
+    "tiles": [
+     [
+      "HAZEL"
+     ],
+     [
+      "CRAFT"
+     ],
+     [
+      "HUNT"
+     ],
+     [
+      "DOCTOR"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding URN",
+    "note": "aubURN, tURNip, joURNey, fURNace",
+    "tiles": [
+     [
+      "AUBURN"
+     ],
+     [
+      "TURNIP"
+     ],
+     [
+      "JOURNEY"
+     ],
+     [
+      "FURNACE"
+     ]
+    ]
+   },
+   {
+    "link": "At Easter",
+    "tiles": [
+     [
+      "EGG",
+      "🥚"
+     ],
+     [
+      "BUNNY"
+     ],
+     [
+      "CHICK",
+      "🐥"
+     ],
+     [
+      "LAMB"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "HAZEL": [
+    "Shades of brown"
+   ],
+   "AUBURN": [
+    "Shades of brown"
+   ],
+   "HUNT": [
+    "At Easter"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "In the Nativity story",
+    "tiles": [
+     [
+      "SHEPHERD"
+     ],
+     [
+      "MANGER"
+     ],
+     [
+      "STABLE"
+     ],
+     [
+      "DONKEY"
+     ]
+    ]
+   },
+   {
+    "link": "Y is the only vowel",
+    "tiles": [
+     [
+      "MYRRH"
+     ],
+     [
+      "NYMPH"
+     ],
+     [
+      "RHYTHM"
+     ],
+     [
+      "HYMN"
+     ]
+    ]
+   },
+   {
+    "link": "Fairy folk",
+    "tiles": [
+     [
+      "ELF",
+      "🧝"
+     ],
+     [
+      "GNOME"
+     ],
+     [
+      "GOBLIN",
+      "👺"
+     ],
+     [
+      "PIXIE"
+     ]
+    ]
+   },
+   {
+    "link": "Add W at the front",
+    "note": "Wimp, witch, wheat, whole",
+    "tiles": [
+     [
+      "IMP"
+     ],
+     [
+      "ITCH"
+     ],
+     [
+      "HEAT"
+     ],
+     [
+      "HOLE",
+      "🕳️"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MYRRH": [
+    "In the Nativity story"
+   ],
+   "NYMPH": [
+    "Fairy folk"
+   ],
+   "IMP": [
+    "Fairy folk"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "First words of carols",
+    "tiles": [
+     [
+      "HARK"
+     ],
+     [
+      "AWAY"
+     ],
+     [
+      "ONCE"
+     ],
+     [
+      "DECK"
+     ]
+    ]
+   },
+   {
+    "link": "Christmas greenery",
+    "tiles": [
+     [
+      "IVY"
+     ],
+     [
+      "FIR"
+     ],
+     [
+      "PINE"
+     ],
+     [
+      "MISTLETOE"
+     ]
+    ]
+   },
+   {
+    "link": "Silent T",
+    "tiles": [
+     [
+      "CASTLE",
+      "🏰"
+     ],
+     [
+      "WHISTLE"
+     ],
+     [
+      "BALLET",
+      "🩰"
+     ],
+     [
+      "THISTLE"
+     ]
+    ]
+   },
+   {
+    "link": "Anagrams of TINSEL",
+    "tiles": [
+     [
+      "LISTEN",
+      "👂"
+     ],
+     [
+      "SILENT"
+     ],
+     [
+      "ENLIST"
+     ],
+     [
+      "INLETS"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SILENT": [
+    "First words of carols"
+   ],
+   "LISTEN": [
+    "Silent T"
+   ],
+   "MISTLETOE": [
+    "Silent T"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "In a playground",
+    "tiles": [
+     [
+      "SLIDE"
+     ],
+     [
+      "SEESAW"
+     ],
+     [
+      "SANDPIT"
+     ],
+     [
+      "SWING"
+     ]
+    ]
+   },
+   {
+    "link": "Playground games",
+    "tiles": [
+     [
+      "HOPSCOTCH"
+     ],
+     [
+      "CONKERS"
+     ],
+     [
+      "LEAPFROG"
+     ],
+     [
+      "MARBLES"
+     ]
+    ]
+   },
+   {
+    "link": "Nursery rhymes begin...",
+    "tiles": [
+     [
+      "HUMPTY"
+     ],
+     [
+      "HICKORY"
+     ],
+     [
+      "INCY"
+     ],
+     [
+      "POLLY"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding WIN",
+    "note": "tWINe, WINdow, WINe, tWINkle",
+    "tiles": [
+     [
+      "TWINE"
+     ],
+     [
+      "WINDOW",
+      "🪟"
+     ],
+     [
+      "WINE",
+      "🍷"
+     ],
+     [
+      "TWINKLE",
+      "✨"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SWING": [
+    "Words hiding WIN"
+   ],
+   "SEESAW": [
+    "Nursery rhymes begin..."
+   ],
+   "TWINKLE": [
+    "Nursery rhymes begin..."
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Fairy-tale villains",
+    "tiles": [
+     [
+      "WOLF",
+      "🐺"
+     ],
+     [
+      "OGRE",
+      "👹"
+     ],
+     [
+      "TROLL"
+     ],
+     [
+      "DRAGON",
+      "🐉"
+     ]
+    ]
+   },
+   {
+    "link": "Workers of magic",
+    "tiles": [
+     [
+      "WIZARD"
+     ],
+     [
+      "SORCERER"
+     ],
+     [
+      "MAGICIAN"
+     ],
+     [
+      "WITCH"
+     ]
+    ]
+   },
+   {
+    "link": "In a child's bedroom",
+    "tiles": [
+     [
+      "BUNK"
+     ],
+     [
+      "DUVET"
+     ],
+     [
+      "PILLOW"
+     ],
+     [
+      "MOBILE",
+      "📱"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding WAR",
+    "note": "WARlock, WARdrobe, dWARf, aWARd",
+    "tiles": [
+     [
+      "WARLOCK"
+     ],
+     [
+      "WARDROBE"
+     ],
+     [
+      "DWARF"
+     ],
+     [
+      "AWARD",
+      "🏆"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "WITCH": [
+    "Fairy-tale villains"
+   ],
+   "SORCERER": [
+    "Fairy-tale villains"
+   ],
+   "WARLOCK": [
+    "Workers of magic"
+   ],
+   "WARDROBE": [
+    "In a child's bedroom"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "At the circus",
+    "tiles": [
+     [
+      "CLOWN",
+      "🤡"
+     ],
+     [
+      "ACROBAT"
+     ],
+     [
+      "JUGGLER"
+     ],
+     [
+      "UNICYCLE"
+     ]
+    ]
+   },
+   {
+    "link": "On a pirate ship",
+    "tiles": [
+     [
+      "CANNON"
+     ],
+     [
+      "ANCHOR",
+      "⚓"
+     ],
+     [
+      "MAST"
+     ],
+     [
+      "RIGGING"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding TRAP",
+    "note": "TRAPeze, sTRAP, enTRAP, clapTRAP",
+    "tiles": [
+     [
+      "TRAPEZE"
+     ],
+     [
+      "STRAP"
+     ],
+     [
+      "ENTRAP"
+     ],
+     [
+      "CLAPTRAP"
+     ]
+    ]
+   },
+   {
+    "link": "___ walker",
+    "note": "Tightrope walker, sleepwalker, Skywalker, baby walker",
+    "tiles": [
+     [
+      "TIGHTROPE"
+     ],
+     [
+      "SLEEP",
+      "💤"
+     ],
+     [
+      "SKY"
+     ],
+     [
+      "BABY",
+      "👶"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CANNON": [
+    "At the circus"
+   ],
+   "TRAPEZE": [
+    "At the circus"
+   ],
+   "TIGHTROPE": [
+    "At the circus"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Toys",
+    "tiles": [
+     [
+      "TEDDY",
+      "🧸"
+     ],
+     [
+      "YOYO",
+      "🪀"
+     ],
+     [
+      "PUPPET"
+     ],
+     [
+      "ROBOT",
+      "🤖"
+     ]
+    ]
+   },
+   {
+    "link": "For a baby",
+    "tiles": [
+     [
+      "DUMMY"
+     ],
+     [
+      "BIB"
+     ],
+     [
+      "PRAM"
+     ],
+     [
+      "NAPPY"
+     ]
+    ]
+   },
+   {
+    "link": "Feeling down",
+    "tiles": [
+     [
+      "DEJECTED"
+     ],
+     [
+      "DEFLATED"
+     ],
+     [
+      "GLUM"
+     ],
+     [
+      "GLOOMY"
+     ]
+    ]
+   },
+   {
+    "link": "Words hiding TED",
+    "note": "uniTED, wanTED, TEDious, knitTED",
+    "tiles": [
+     [
+      "UNITED"
+     ],
+     [
+      "WANTED"
+     ],
+     [
+      "TEDIOUS"
+     ],
+     [
+      "KNITTED"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TEDDY": [
+    "Words hiding TED",
+    "For a baby"
+   ],
+   "DEJECTED": [
+    "Words hiding TED"
+   ],
+   "DEFLATED": [
+    "Words hiding TED"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Magpie counting rhyme",
+    "tiles": [
+     [
+      "SORROW"
+     ],
+     [
+      "JOY"
+     ],
+     [
+      "GIRL",
+      "👧"
+     ],
+     [
+      "SECRET"
+     ]
+    ]
+   },
+   {
+    "link": "Emotions",
+    "tiles": [
+     [
+      "ANGER"
+     ],
+     [
+      "FEAR"
+     ],
+     [
+      "DISGUST"
+     ],
+     [
+      "SHAME"
+     ]
+    ]
+   },
+   {
+    "link": "Deadly sins",
+    "tiles": [
+     [
+      "PRIDE"
+     ],
+     [
+      "ENVY"
+     ],
+     [
+      "WRATH"
+     ],
+     [
+      "SLOTH",
+      "🦥"
+     ]
+    ]
+   },
+   {
+    "link": "Top ___",
+    "note": "Top gear, topcoat, topknot, topsoil",
+    "tiles": [
+     [
+      "GEAR",
+      "⚙️"
+     ],
+     [
+      "COAT",
+      "🧥"
+     ],
+     [
+      "KNOT",
+      "🪢"
+     ],
+     [
+      "SOIL"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SECRET": [
+    "Top ___"
+   ],
+   "JOY": [
+    "Emotions"
+   ],
+   "SORROW": [
+    "Emotions"
+   ],
+   "PRIDE": [
+    "Emotions"
+   ],
+   "ENVY": [
+    "Emotions"
+   ]
+  }
+ }
+]
