@@ -62,4 +62,19 @@ json.dump(ids,open(op,'w'),indent=0)
 p=f'{root}/kannect.html'; s=open(p,encoding='utf8').read()
 a=s.index('const LEVELS=['); b=s.index('];\n',a)+3
 body=',\n'.join(json.dumps(w,ensure_ascii=False,separators=(',',':')) for w in out)
-open(p,'w',encoding='utf8').write(s[:a]+'const LEVELS=[\n'+body+'\n];\n'+s[b:])
+page=s[:a]+'const LEVELS=[\n'+body+'\n];\n'+s[b:]
+open(p,'w',encoding='utf8').write(page)
+# index.html: the same game as a complete web page, for hosting anywhere (GitHub Pages etc.)
+SHELL='''<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#E4ECEF" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0F1820" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<style>:root{color-scheme:light;padding:env(safe-area-inset-top,0px) 0 env(safe-area-inset-bottom,0px)}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
+'''
+t=page.index('<style>')
+open(f'{root}/index.html','w',encoding='utf8').write(SHELL+page[:t]+'</head>\n<body>\n'+page[t:]+'</body>\n</html>\n')
