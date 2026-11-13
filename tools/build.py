@@ -53,7 +53,8 @@ for n,i,w in pool:
     if any(same_combo(a,c) for a in mine for c in combos+pending): dropped[n+': repeated group']+=1; continue
     pending+=mine; placed.add(k); (feature if w.get('feature') else regular).append(w)
 # feature walls (marked "feature": true, e.g. personal ones) are spaced evenly through this build's new walls
-for j,w in enumerate(feature): regular.insert(round((j+.5)*len(regular)/len(feature))+j,w)
+total=len(regular)+len(feature)
+for j,w in enumerate(feature): regular.insert(int((j+.5)*total/len(feature)),w)
 for w in regular: take(w)
 print(f'{len(out)} walls: {kept} already placed, {len(out)-kept} appended; {sum(dropped.values())} dropped',dict(dropped))
 print(len(words),'distinct words; most reused:',words.most_common(8))
