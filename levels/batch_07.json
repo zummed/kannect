@@ -1,0 +1,2682 @@
+[
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Rooms",
+    "tiles": [
+     [
+      "KITCHEN"
+     ],
+     [
+      "LOUNGE"
+     ],
+     [
+      "STUDY"
+     ],
+     [
+      "CELLAR"
+     ]
+    ]
+   },
+   {
+    "link": "___ mark",
+    "note": "Hallmark, Denmark, earmark, bookmark",
+    "tiles": [
+     [
+      "HALL"
+     ],
+     [
+      "DEN"
+     ],
+     [
+      "EAR",
+      "👂"
+     ],
+     [
+      "BOOK",
+      "📖"
+     ]
+    ]
+   },
+   {
+    "link": "Seats",
+    "tiles": [
+     [
+      "BENCH"
+     ],
+     [
+      "STOOL"
+     ],
+     [
+      "SOFA",
+      "🛋️"
+     ],
+     [
+      "THRONE"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a staircase",
+    "tiles": [
+     [
+      "LANDING"
+     ],
+     [
+      "BANISTER"
+     ],
+     [
+      "RISER"
+     ],
+     [
+      "STEP"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "HALL": [
+    "Rooms"
+   ],
+   "DEN": [
+    "Rooms"
+   ],
+   "BENCH": [
+    "___ mark"
+   ],
+   "LANDING": [
+    "Rooms"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Types of paint",
+    "tiles": [
+     [
+      "MATT"
+     ],
+     [
+      "GLOSS"
+     ],
+     [
+      "EGGSHELL"
+     ],
+     [
+      "EMULSION"
+     ]
+    ]
+   },
+   {
+    "link": "Fabrics",
+    "tiles": [
+     [
+      "SILK"
+     ],
+     [
+      "VELVET"
+     ],
+     [
+      "WOOL",
+      "🧶"
+     ],
+     [
+      "TWEED"
+     ]
+    ]
+   },
+   {
+    "link": "Make-up",
+    "tiles": [
+     [
+      "MASCARA"
+     ],
+     [
+      "BLUSHER"
+     ],
+     [
+      "LIPSTICK",
+      "💄"
+     ],
+     [
+      "CONCEALER"
+     ]
+    ]
+   },
+   {
+    "link": "Hidden metals",
+    "note": "saTIN, IRONy, pLEAD, marTINi",
+    "tiles": [
+     [
+      "SATIN"
+     ],
+     [
+      "IRONY"
+     ],
+     [
+      "PLEAD"
+     ],
+     [
+      "MARTINI",
+      "🍸"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SATIN": [
+    "Types of paint",
+    "Fabrics"
+   ],
+   "SILK": [
+    "Types of paint"
+   ],
+   "GLOSS": [
+    "Make-up"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Building materials",
+    "tiles": [
+     [
+      "BRICK",
+      "🧱"
+     ],
+     [
+      "MORTAR"
+     ],
+     [
+      "PLASTER",
+      "🩹"
+     ],
+     [
+      "TIMBER"
+     ]
+    ]
+   },
+   {
+    "link": "Roadside features",
+    "tiles": [
+     [
+      "KERB"
+     ],
+     [
+      "VERGE"
+     ],
+     [
+      "GUTTER"
+     ],
+     [
+      "BOLLARD"
+     ]
+    ]
+   },
+   {
+    "link": "Types of window",
+    "tiles": [
+     [
+      "SASH"
+     ],
+     [
+      "BAY"
+     ],
+     [
+      "ROSE",
+      "🌹"
+     ],
+     [
+      "DORMER"
+     ]
+    ]
+   },
+   {
+    "link": "Hidden MEN",
+    "note": "ceMENt, paveMENt, caseMENt, ornaMENt",
+    "tiles": [
+     [
+      "CEMENT"
+     ],
+     [
+      "PAVEMENT"
+     ],
+     [
+      "CASEMENT"
+     ],
+     [
+      "ORNAMENT"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CEMENT": [
+    "Building materials"
+   ],
+   "PAVEMENT": [
+    "Roadside features"
+   ],
+   "CASEMENT": [
+    "Types of window"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Hats",
+    "tiles": [
+     [
+      "BERET"
+     ],
+     [
+      "TRILBY"
+     ],
+     [
+      "FEZ"
+     ],
+     [
+      "CAP",
+      "🧢"
+     ]
+    ]
+   },
+   {
+    "link": "Dresses",
+    "tiles": [
+     [
+      "FROCK"
+     ],
+     [
+      "SARI",
+      "🥻"
+     ],
+     [
+      "SHIFT"
+     ],
+     [
+      "GOWN"
+     ]
+    ]
+   },
+   {
+    "link": "Jewellery",
+    "tiles": [
+     [
+      "BROOCH"
+     ],
+     [
+      "BANGLE"
+     ],
+     [
+      "PENDANT"
+     ],
+     [
+      "LOCKET"
+     ]
+    ]
+   },
+   {
+    "link": "Night ___",
+    "note": "Nightmare, nightfall, night owl, night watch",
+    "tiles": [
+     [
+      "MARE"
+     ],
+     [
+      "FALL"
+     ],
+     [
+      "OWL",
+      "🦉"
+     ],
+     [
+      "WATCH",
+      "⌚"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CAP": [
+    "Night ___"
+   ],
+   "SHIFT": [
+    "Night ___"
+   ],
+   "GOWN": [
+    "Night ___"
+   ],
+   "WATCH": [
+    "Jewellery"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Train tickets",
+    "tiles": [
+     [
+      "RETURN"
+     ],
+     [
+      "SEASON"
+     ],
+     [
+      "ADVANCE"
+     ],
+     [
+      "ROVER"
+     ]
+    ]
+   },
+   {
+    "link": "Car makes",
+    "tiles": [
+     [
+      "FORD"
+     ],
+     [
+      "SKODA"
+     ],
+     [
+      "SEAT",
+      "💺"
+     ],
+     [
+      "MINI"
+     ]
+    ]
+   },
+   {
+    "link": "Bed sizes",
+    "tiles": [
+     [
+      "DOUBLE"
+     ],
+     [
+      "KING"
+     ],
+     [
+      "QUEEN"
+     ],
+     [
+      "SINGLE"
+     ]
+    ]
+   },
+   {
+    "link": "___ market",
+    "note": "Flea market, stock market, bear market, fish market",
+    "tiles": [
+     [
+      "FLEA"
+     ],
+     [
+      "STOCK"
+     ],
+     [
+      "BEAR",
+      "🐻"
+     ],
+     [
+      "FISH",
+      "🐟"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SINGLE": [
+    "Train tickets",
+    "___ market"
+   ],
+   "ROVER": [
+    "Car makes"
+   ],
+   "MINI": [
+    "___ market"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Floor coverings",
+    "tiles": [
+     [
+      "LINO"
+     ],
+     [
+      "PARQUET"
+     ],
+     [
+      "LAMINATE"
+     ],
+     [
+      "RUG"
+     ]
+    ]
+   },
+   {
+    "link": "Lights",
+    "tiles": [
+     [
+      "TORCH",
+      "🔦"
+     ],
+     [
+      "CANDLE",
+      "🕯️"
+     ],
+     [
+      "LAMP"
+     ],
+     [
+      "LANTERN"
+     ]
+    ]
+   },
+   {
+    "link": "Cleaning kit",
+    "tiles": [
+     [
+      "MOP"
+     ],
+     [
+      "DUSTER"
+     ],
+     [
+      "BUCKET"
+     ],
+     [
+      "BROOM",
+      "🧹"
+     ]
+    ]
+   },
+   {
+    "link": "Magic ___",
+    "note": "Magic carpet, Magic Sponge, magic wand, Magic Circle",
+    "tiles": [
+     [
+      "CARPET"
+     ],
+     [
+      "SPONGE",
+      "🧽"
+     ],
+     [
+      "WAND"
+     ],
+     [
+      "CIRCLE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CARPET": [
+    "Floor coverings"
+   ],
+   "SPONGE": [
+    "Cleaning kit"
+   ],
+   "LAMP": [
+    "Magic ___"
+   ],
+   "LANTERN": [
+    "Magic ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Hand tools",
+    "tiles": [
+     [
+      "HAMMER",
+      "🔨"
+     ],
+     [
+      "CHISEL"
+     ],
+     [
+      "SPANNER"
+     ],
+     [
+      "PLANE",
+      "✈️"
+     ]
+    ]
+   },
+   {
+    "link": "Sewing kit",
+    "tiles": [
+     [
+      "NEEDLE"
+     ],
+     [
+      "THIMBLE"
+     ],
+     [
+      "BOBBIN"
+     ],
+     [
+      "THREAD",
+      "🧵"
+     ]
+    ]
+   },
+   {
+    "link": "Aircraft",
+    "tiles": [
+     [
+      "GLIDER"
+     ],
+     [
+      "JET"
+     ],
+     [
+      "BALLOON",
+      "🎈"
+     ],
+     [
+      "DRONE"
+     ]
+    ]
+   },
+   {
+    "link": "___ mill",
+    "note": "Sawmill, cotton mill, pepper mill, windmill",
+    "tiles": [
+     [
+      "SAW"
+     ],
+     [
+      "COTTON"
+     ],
+     [
+      "PEPPER"
+     ],
+     [
+      "WIND"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SAW": [
+    "Hand tools"
+   ],
+   "COTTON": [
+    "Sewing kit"
+   ],
+   "PLANE": [
+    "Aircraft"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Around the fireplace",
+    "tiles": [
+     [
+      "GRATE"
+     ],
+     [
+      "HEARTH"
+     ],
+     [
+      "POKER"
+     ],
+     [
+      "MANTEL"
+     ]
+    ]
+   },
+   {
+    "link": "Houses",
+    "tiles": [
+     [
+      "BUNGALOW"
+     ],
+     [
+      "COTTAGE"
+     ],
+     [
+      "VILLA"
+     ],
+     [
+      "MANSION"
+     ]
+    ]
+   },
+   {
+    "link": "Laundry day",
+    "tiles": [
+     [
+      "PEG"
+     ],
+     [
+      "AIRER"
+     ],
+     [
+      "STARCH"
+     ],
+     [
+      "SOAP",
+      "🧼"
+     ]
+    ]
+   },
+   {
+    "link": "Hidden MAN",
+    "note": "MANgle, ottoMAN, MANgo, woMAN",
+    "tiles": [
+     [
+      "MANGLE"
+     ],
+     [
+      "OTTOMAN"
+     ],
+     [
+      "MANGO",
+      "🥭"
+     ],
+     [
+      "WOMAN",
+      "👩"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MANTEL": [
+    "Hidden MAN"
+   ],
+   "MANSION": [
+    "Hidden MAN"
+   ],
+   "MANGLE": [
+    "Laundry day"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Boats",
+    "tiles": [
+     [
+      "YACHT"
+     ],
+     [
+      "DINGHY"
+     ],
+     [
+      "CANOE",
+      "🛶"
+     ],
+     [
+      "JUNK"
+     ]
+    ]
+   },
+   {
+    "link": "Vauxhall models",
+    "tiles": [
+     [
+      "ASTRA"
+     ],
+     [
+      "CORSA"
+     ],
+     [
+      "VIVA"
+     ],
+     [
+      "NOVA"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a ship",
+    "tiles": [
+     [
+      "ANCHOR",
+      "⚓"
+     ],
+     [
+      "KEEL"
+     ],
+     [
+      "MAST"
+     ],
+     [
+      "DECK"
+     ]
+    ]
+   },
+   {
+    "link": "Start with a short month",
+    "note": "MARina, APRon, OCTopus, JANitor",
+    "tiles": [
+     [
+      "MARINA"
+     ],
+     [
+      "APRON"
+     ],
+     [
+      "OCTOPUS",
+      "🐙"
+     ],
+     [
+      "JANITOR"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "JUNK": [
+    "Start with a short month"
+   ],
+   "NOVA": [
+    "Start with a short month"
+   ],
+   "DECK": [
+    "Start with a short month"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Storage furniture",
+    "tiles": [
+     [
+      "WARDROBE"
+     ],
+     [
+      "DRESSER"
+     ],
+     [
+      "SIDEBOARD"
+     ],
+     [
+      "CHEST"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a plane",
+    "tiles": [
+     [
+      "FUSELAGE"
+     ],
+     [
+      "COCKPIT"
+     ],
+     [
+      "TAIL"
+     ],
+     [
+      "WING"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a door",
+    "tiles": [
+     [
+      "HINGE"
+     ],
+     [
+      "HANDLE"
+     ],
+     [
+      "KNOCKER"
+     ],
+     [
+      "LOCK",
+      "🔒"
+     ]
+    ]
+   },
+   {
+    "link": "___ nut",
+    "note": "Doughnut, peanut, butternut, monkey nut",
+    "tiles": [
+     [
+      "DOUGH"
+     ],
+     [
+      "PEA"
+     ],
+     [
+      "BUTTER",
+      "🧈"
+     ],
+     [
+      "MONKEY",
+      "🐒"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CHEST": [
+    "___ nut"
+   ],
+   "WING": [
+    "___ nut"
+   ],
+   "LOCK": [
+    "___ nut"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Bedding",
+    "tiles": [
+     [
+      "DUVET"
+     ],
+     [
+      "PILLOW"
+     ],
+     [
+      "BLANKET"
+     ],
+     [
+      "SHEET"
+     ]
+    ]
+   },
+   {
+    "link": "Outbuildings",
+    "tiles": [
+     [
+      "SHED"
+     ],
+     [
+      "BARN"
+     ],
+     [
+      "STABLE"
+     ],
+     [
+      "GARAGE"
+     ]
+    ]
+   },
+   {
+    "link": "Garden furniture",
+    "tiles": [
+     [
+      "HAMMOCK"
+     ],
+     [
+      "PARASOL",
+      "⛱️"
+     ],
+     [
+      "LOUNGER"
+     ],
+     [
+      "SWING"
+     ]
+    ]
+   },
+   {
+    "link": "___ music",
+    "note": "Chamber music, folk music, rock music, dance music",
+    "tiles": [
+     [
+      "CHAMBER"
+     ],
+     [
+      "FOLK"
+     ],
+     [
+      "ROCK",
+      "🪨"
+     ],
+     [
+      "DANCE",
+      "💃"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SHEET": [
+    "___ music"
+   ],
+   "GARAGE": [
+    "___ music"
+   ],
+   "SWING": [
+    "___ music"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "In the bathroom",
+    "tiles": [
+     [
+      "BASIN"
+     ],
+     [
+      "SHOWER",
+      "🚿"
+     ],
+     [
+      "TOILET"
+     ],
+     [
+      "BATH",
+      "🛁"
+     ]
+    ]
+   },
+   {
+    "link": "Hair accessories",
+    "tiles": [
+     [
+      "CLIP"
+     ],
+     [
+      "GRIP"
+     ],
+     [
+      "SCRUNCHIE"
+     ],
+     [
+      "SLIDE"
+     ]
+    ]
+   },
+   {
+    "link": "Railway jobs",
+    "tiles": [
+     [
+      "DRIVER"
+     ],
+     [
+      "PORTER"
+     ],
+     [
+      "SIGNALMAN"
+     ],
+     [
+      "GUARD"
+     ]
+    ]
+   },
+   {
+    "link": "Mud ___",
+    "note": "Mud pie, mudlark, mud pack, mudflap",
+    "tiles": [
+     [
+      "PIE",
+      "🥧"
+     ],
+     [
+      "LARK"
+     ],
+     [
+      "PACK"
+     ],
+     [
+      "FLAP"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BATH": [
+    "Mud ___"
+   ],
+   "SLIDE": [
+    "Mud ___"
+   ],
+   "GUARD": [
+    "Mud ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Beds",
+    "tiles": [
+     [
+      "BUNK"
+     ],
+     [
+      "COT"
+     ],
+     [
+      "FUTON"
+     ],
+     [
+      "DIVAN"
+     ]
+    ]
+   },
+   {
+    "link": "Decorating supplies",
+    "tiles": [
+     [
+      "SCRAPER"
+     ],
+     [
+      "SANDER"
+     ],
+     [
+      "BRUSH",
+      "🖌️"
+     ],
+     [
+      "VARNISH"
+     ]
+    ]
+   },
+   {
+    "link": "Cleaning products",
+    "tiles": [
+     [
+      "BLEACH"
+     ],
+     [
+      "DETERGENT"
+     ],
+     [
+      "DESCALER"
+     ],
+     [
+      "POLISH"
+     ]
+    ]
+   },
+   {
+    "link": "Nail ___",
+    "note": "Nail bed, nail file, nail gun, nail salon",
+    "tiles": [
+     [
+      "BED",
+      "🛏️"
+     ],
+     [
+      "FILE",
+      "📁"
+     ],
+     [
+      "GUN",
+      "🔫"
+     ],
+     [
+      "SALON"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BED": [
+    "Beds"
+   ],
+   "BRUSH": [
+    "Nail ___"
+   ],
+   "VARNISH": [
+    "Nail ___"
+   ],
+   "POLISH": [
+    "Nail ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "On a jacket",
+    "tiles": [
+     [
+      "COLLAR"
+     ],
+     [
+      "CUFF"
+     ],
+     [
+      "LAPEL"
+     ],
+     [
+      "SLEEVE"
+     ]
+    ]
+   },
+   {
+    "link": "Clothes fastenings",
+    "tiles": [
+     [
+      "BUTTON"
+     ],
+     [
+      "ZIP",
+      "🤐"
+     ],
+     [
+      "BUCKLE"
+     ],
+     [
+      "TOGGLE"
+     ]
+    ]
+   },
+   {
+    "link": "DIY fixings",
+    "tiles": [
+     [
+      "SCREW"
+     ],
+     [
+      "RIVET"
+     ],
+     [
+      "TACK"
+     ],
+     [
+      "STAPLE"
+     ]
+    ]
+   },
+   {
+    "link": "___ money",
+    "note": "Pocket money, pin money, hush money, danger money",
+    "tiles": [
+     [
+      "POCKET"
+     ],
+     [
+      "PIN",
+      "📌"
+     ],
+     [
+      "HUSH",
+      "🤫"
+     ],
+     [
+      "DANGER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "POCKET": [
+    "On a jacket"
+   ],
+   "PIN": [
+    "DIY fixings",
+    "Clothes fastenings"
+   ],
+   "BUTTON": [
+    "On a jacket"
+   ],
+   "ZIP": [
+    "On a jacket"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Workshop tools",
+    "tiles": [
+     [
+      "DRILL"
+     ],
+     [
+      "JIGSAW"
+     ],
+     [
+      "PLIERS"
+     ],
+     [
+      "MALLET"
+     ]
+    ]
+   },
+   {
+    "link": "Airline cabin classes",
+    "tiles": [
+     [
+      "ECONOMY"
+     ],
+     [
+      "FIRST",
+      "🥇"
+     ],
+     [
+      "PREMIUM"
+     ],
+     [
+      "BUSINESS"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a bicycle",
+    "tiles": [
+     [
+      "SADDLE"
+     ],
+     [
+      "PEDAL"
+     ],
+     [
+      "SPOKE"
+     ],
+     [
+      "BELL",
+      "🔔"
+     ]
+    ]
+   },
+   {
+    "link": "Monkey ___",
+    "note": "Monkey wrench, monkey puzzle, monkey bars, monkey nut",
+    "tiles": [
+     [
+      "WRENCH"
+     ],
+     [
+      "PUZZLE"
+     ],
+     [
+      "BARS"
+     ],
+     [
+      "NUT",
+      "🥜"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "WRENCH": [
+    "Workshop tools"
+   ],
+   "BUSINESS": [
+    "Monkey ___"
+   ],
+   "BARS": [
+    "Parts of a bicycle"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Hairstyles",
+    "tiles": [
+     [
+      "BOB"
+     ],
+     [
+      "MULLET"
+     ],
+     [
+      "QUIFF"
+     ],
+     [
+      "PERM"
+     ]
+    ]
+   },
+   {
+    "link": "Window dressings",
+    "tiles": [
+     [
+      "BLIND"
+     ],
+     [
+      "SHUTTER"
+     ],
+     [
+      "PELMET"
+     ],
+     [
+      "CURTAINS"
+     ]
+    ]
+   },
+   {
+    "link": "Trimmings",
+    "tiles": [
+     [
+      "RIBBON",
+      "🎀"
+     ],
+     [
+      "FEATHER",
+      "🪶"
+     ],
+     [
+      "FRINGE"
+     ],
+     [
+      "BRAID"
+     ]
+    ]
+   },
+   {
+    "link": "Hidden NIT",
+    "note": "vaNITy, graNITe, moNITor, kNITting",
+    "tiles": [
+     [
+      "VANITY"
+     ],
+     [
+      "GRANITE"
+     ],
+     [
+      "MONITOR"
+     ],
+     [
+      "KNITTING",
+      "🧶"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CURTAINS": [
+    "Hairstyles"
+   ],
+   "FRINGE": [
+    "Hairstyles"
+   ],
+   "BRAID": [
+    "Hairstyles"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Working boats",
+    "tiles": [
+     [
+      "TUG"
+     ],
+     [
+      "TRAWLER"
+     ],
+     [
+      "BARGE"
+     ],
+     [
+      "FERRY",
+      "⛴️"
+     ]
+    ]
+   },
+   {
+    "link": "Railway rolling stock",
+    "tiles": [
+     [
+      "CARRIAGE"
+     ],
+     [
+      "WAGON"
+     ],
+     [
+      "TENDER"
+     ],
+     [
+      "COACH"
+     ]
+    ]
+   },
+   {
+    "link": "Cleaning actions",
+    "tiles": [
+     [
+      "SWEEP"
+     ],
+     [
+      "SCRUB"
+     ],
+     [
+      "WIPE"
+     ],
+     [
+      "RINSE"
+     ]
+    ]
+   },
+   {
+    "link": "___ man",
+    "note": "Snowman, postman, doorman, dustman",
+    "tiles": [
+     [
+      "SNOW",
+      "❄️"
+     ],
+     [
+      "POST",
+      "📮"
+     ],
+     [
+      "DOOR",
+      "🚪"
+     ],
+     [
+      "DUST"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "FERRY": [
+    "___ man"
+   ],
+   "COACH": [
+    "___ man"
+   ],
+   "BARGE": [
+    "___ man"
+   ],
+   "DUST": [
+    "Cleaning actions"
+   ],
+   "TENDER": [
+    "Working boats"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "On the railway",
+    "tiles": [
+     [
+      "BUFFER"
+     ],
+     [
+      "SIGNAL"
+     ],
+     [
+      "POINTS"
+     ],
+     [
+      "SIDING"
+     ]
+    ]
+   },
+   {
+    "link": "Sailing boat parts",
+    "tiles": [
+     [
+      "BOOM",
+      "💥"
+     ],
+     [
+      "TILLER"
+     ],
+     [
+      "RUDDER"
+     ],
+     [
+      "JIB"
+     ]
+    ]
+   },
+   {
+    "link": "Curtain fittings",
+    "tiles": [
+     [
+      "RAIL"
+     ],
+     [
+      "POLE"
+     ],
+     [
+      "HOOK",
+      "🪝"
+     ],
+     [
+      "TIEBACK"
+     ]
+    ]
+   },
+   {
+    "link": "Main ___",
+    "note": "Mainsail, mainline, mainstream, mainframe",
+    "tiles": [
+     [
+      "SAIL"
+     ],
+     [
+      "LINE"
+     ],
+     [
+      "STREAM"
+     ],
+     [
+      "FRAME",
+      "🖼️"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LINE": [
+    "On the railway",
+    "Sailing boat parts"
+   ],
+   "RAIL": [
+    "On the railway"
+   ],
+   "SAIL": [
+    "Sailing boat parts"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Triumph cars",
+    "tiles": [
+     [
+      "HERALD"
+     ],
+     [
+      "DOLOMITE"
+     ],
+     [
+      "TOLEDO"
+     ],
+     [
+      "STAG"
+     ]
+    ]
+   },
+   {
+    "link": "WW2 aircraft",
+    "tiles": [
+     [
+      "HURRICANE",
+      "🌀"
+     ],
+     [
+      "LANCASTER"
+     ],
+     [
+      "MOSQUITO",
+      "🦟"
+     ],
+     [
+      "SPITFIRE"
+     ]
+    ]
+   },
+   {
+    "link": "Famous ships",
+    "tiles": [
+     [
+      "TITANIC"
+     ],
+     [
+      "BEAGLE"
+     ],
+     [
+      "VICTORY"
+     ],
+     [
+      "MAYFLOWER"
+     ]
+    ]
+   },
+   {
+    "link": "___ night",
+    "note": "Hen night, Bonfire Night, Twelfth Night, Burns Night",
+    "tiles": [
+     [
+      "HEN",
+      "🐔"
+     ],
+     [
+      "BONFIRE"
+     ],
+     [
+      "TWELFTH"
+     ],
+     [
+      "BURNS"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "STAG": [
+    "___ night"
+   ],
+   "SPITFIRE": [
+    "Triumph cars"
+   ],
+   "MAYFLOWER": [
+    "Triumph cars"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Worn below the waist",
+    "tiles": [
+     [
+      "SHORTS",
+      "🩳"
+     ],
+     [
+      "LEGGINGS"
+     ],
+     [
+      "CULOTTES"
+     ],
+     [
+      "JEANS",
+      "👖"
+     ]
+    ]
+   },
+   {
+    "link": "Steam locomotive parts",
+    "tiles": [
+     [
+      "BOILER"
+     ],
+     [
+      "FUNNEL"
+     ],
+     [
+      "WHISTLE"
+     ],
+     [
+      "CAB"
+     ]
+    ]
+   },
+   {
+    "link": "Kitchen utensils",
+    "tiles": [
+     [
+      "LADLE"
+     ],
+     [
+      "WHISK"
+     ],
+     [
+      "SIEVE"
+     ],
+     [
+      "GRATER"
+     ]
+    ]
+   },
+   {
+    "link": "Mini ___",
+    "note": "Miniskirt, minibreak, minibus, miniseries",
+    "tiles": [
+     [
+      "SKIRT"
+     ],
+     [
+      "BREAK"
+     ],
+     [
+      "BUS",
+      "🚌"
+     ],
+     [
+      "SERIES"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SKIRT": [
+    "Worn below the waist"
+   ],
+   "CAB": [
+    "Mini ___"
+   ],
+   "FUNNEL": [
+    "Kitchen utensils"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Helicopters",
+    "tiles": [
+     [
+      "CHINOOK"
+     ],
+     [
+      "APACHE"
+     ],
+     [
+      "MERLIN"
+     ],
+     [
+      "LYNX"
+     ]
+    ]
+   },
+   {
+    "link": "Ford models",
+    "tiles": [
+     [
+      "FIESTA"
+     ],
+     [
+      "FOCUS"
+     ],
+     [
+      "MONDEO"
+     ],
+     [
+      "PUMA"
+     ]
+    ]
+   },
+   {
+    "link": "RAF aircraft",
+    "tiles": [
+     [
+      "JAGUAR"
+     ],
+     [
+      "HARRIER"
+     ],
+     [
+      "TORNADO",
+      "🌪️"
+     ],
+     [
+      "TYPHOON"
+     ]
+    ]
+   },
+   {
+    "link": "Mountain ___",
+    "note": "Mountain lion, mountain goat, mountain bike, mountain rescue",
+    "tiles": [
+     [
+      "LION",
+      "🦁"
+     ],
+     [
+      "GOAT",
+      "🐐"
+     ],
+     [
+      "BIKE"
+     ],
+     [
+      "RESCUE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PUMA": [
+    "Helicopters",
+    "RAF aircraft"
+   ],
+   "CHINOOK": [
+    "RAF aircraft"
+   ],
+   "MERLIN": [
+    "RAF aircraft"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Drinking glasses",
+    "tiles": [
+     [
+      "TUMBLER"
+     ],
+     [
+      "FLUTE"
+     ],
+     [
+      "GOBLET"
+     ],
+     [
+      "SCHOONER"
+     ]
+    ]
+   },
+   {
+    "link": "Sailing ships",
+    "tiles": [
+     [
+      "CLIPPER"
+     ],
+     [
+      "GALLEON"
+     ],
+     [
+      "SLOOP"
+     ],
+     [
+      "CUTTER"
+     ]
+    ]
+   },
+   {
+    "link": "Cutting tools",
+    "tiles": [
+     [
+      "SHEARS"
+     ],
+     [
+      "SCISSORS",
+      "✂️"
+     ],
+     [
+      "SECATEURS"
+     ],
+     [
+      "KNIFE",
+      "🔪"
+     ]
+    ]
+   },
+   {
+    "link": "Mother ___",
+    "note": "Mothership, motherhood, motherland, Mother Goose",
+    "tiles": [
+     [
+      "SHIP",
+      "🚢"
+     ],
+     [
+      "HOOD"
+     ],
+     [
+      "LAND"
+     ],
+     [
+      "GOOSE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SCHOONER": [
+    "Sailing ships"
+   ],
+   "CUTTER": [
+    "Cutting tools"
+   ],
+   "CLIPPER": [
+    "Cutting tools"
+   ],
+   "SHIP": [
+    "Sailing ships"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Shoes",
+    "tiles": [
+     [
+      "BROGUE"
+     ],
+     [
+      "LOAFER"
+     ],
+     [
+      "SANDAL",
+      "👡"
+     ],
+     [
+      "COURT"
+     ]
+    ]
+   },
+   {
+    "link": "Street name endings",
+    "tiles": [
+     [
+      "CLOSE"
+     ],
+     [
+      "DRIVE"
+     ],
+     [
+      "AVENUE"
+     ],
+     [
+      "CRESCENT",
+      "🌙"
+     ]
+    ]
+   },
+   {
+    "link": "At a railway station",
+    "tiles": [
+     [
+      "PLATFORM"
+     ],
+     [
+      "CONCOURSE"
+     ],
+     [
+      "BARRIER"
+     ],
+     [
+      "KIOSK"
+     ]
+    ]
+   },
+   {
+    "link": "___ moon",
+    "note": "Honeymoon, harvest moon, full moon, half moon",
+    "tiles": [
+     [
+      "HONEY",
+      "🍯"
+     ],
+     [
+      "HARVEST"
+     ],
+     [
+      "FULL"
+     ],
+     [
+      "HALF"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "COURT": [
+    "Street name endings"
+   ],
+   "CRESCENT": [
+    "___ moon"
+   ],
+   "PLATFORM": [
+    "Shoes"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Formal menswear",
+    "tiles": [
+     [
+      "TUXEDO"
+     ],
+     [
+      "WAISTCOAT"
+     ],
+     [
+      "CRAVAT"
+     ],
+     [
+      "TAILS"
+     ]
+    ]
+   },
+   {
+    "link": "Coats",
+    "tiles": [
+     [
+      "PARKA"
+     ],
+     [
+      "ANORAK"
+     ],
+     [
+      "CAGOULE"
+     ],
+     [
+      "DUFFEL"
+     ]
+    ]
+   },
+   {
+    "link": "One-piece outfits",
+    "tiles": [
+     [
+      "ONESIE"
+     ],
+     [
+      "JUMPSUIT"
+     ],
+     [
+      "LEOTARD"
+     ],
+     [
+      "SWIMSUIT",
+      "🩱"
+     ]
+    ]
+   },
+   {
+    "link": "Morning ___",
+    "note": "Morning coat, morning suit, morning dress, morning glory",
+    "tiles": [
+     [
+      "COAT",
+      "🧥"
+     ],
+     [
+      "SUIT"
+     ],
+     [
+      "DRESS",
+      "👗"
+     ],
+     [
+      "GLORY"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SUIT": [
+    "Formal menswear"
+   ],
+   "COAT": [
+    "Coats"
+   ],
+   "DRESS": [
+    "One-piece outfits"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Luggage",
+    "tiles": [
+     [
+      "SUITCASE",
+      "🧳"
+     ],
+     [
+      "HOLDALL"
+     ],
+     [
+      "SATCHEL"
+     ],
+     [
+      "RUCKSACK",
+      "🎒"
+     ]
+    ]
+   },
+   {
+    "link": "Underwear",
+    "tiles": [
+     [
+      "VEST",
+      "🦺"
+     ],
+     [
+      "KNICKERS"
+     ],
+     [
+      "CORSET"
+     ],
+     [
+      "BRIEFS",
+      "🩲"
+     ]
+    ]
+   },
+   {
+    "link": "Storage containers",
+    "tiles": [
+     [
+      "CRATE"
+     ],
+     [
+      "HAMPER"
+     ],
+     [
+      "CADDY"
+     ],
+     [
+      "TRUNK"
+     ]
+    ]
+   },
+   {
+    "link": "Mail ___",
+    "note": "Mailbag, mailbox, mail order, mailshot",
+    "tiles": [
+     [
+      "BAG"
+     ],
+     [
+      "BOX"
+     ],
+     [
+      "ORDER"
+     ],
+     [
+      "SHOT"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BAG": [
+    "Luggage"
+   ],
+   "BOX": [
+    "Storage containers"
+   ],
+   "TRUNK": [
+    "Luggage"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Parts of a castle",
+    "tiles": [
+     [
+      "KEEP"
+     ],
+     [
+      "MOAT"
+     ],
+     [
+      "DUNGEON"
+     ],
+     [
+      "TOWER",
+      "🗼"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a church",
+    "tiles": [
+     [
+      "NAVE"
+     ],
+     [
+      "AISLE"
+     ],
+     [
+      "CRYPT"
+     ],
+     [
+      "SPIRE"
+     ]
+    ]
+   },
+   {
+    "link": "Places to moor a boat",
+    "tiles": [
+     [
+      "JETTY"
+     ],
+     [
+      "PIER"
+     ],
+     [
+      "WHARF"
+     ],
+     [
+      "DOCK"
+     ]
+    ]
+   },
+   {
+    "link": "New ___",
+    "note": "Newcastle, Newport, Newquay, new wave",
+    "tiles": [
+     [
+      "CASTLE",
+      "🏰"
+     ],
+     [
+      "PORT"
+     ],
+     [
+      "QUAY"
+     ],
+     [
+      "WAVE",
+      "🌊"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PORT": [
+    "Places to moor a boat"
+   ],
+   "QUAY": [
+    "Places to moor a boat"
+   ],
+   "TOWER": [
+    "Parts of a church"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Gemstones",
+    "tiles": [
+     [
+      "RUBY"
+     ],
+     [
+      "EMERALD"
+     ],
+     [
+      "OPAL"
+     ],
+     [
+      "TOPAZ"
+     ]
+    ]
+   },
+   {
+    "link": "In the nursery",
+    "tiles": [
+     [
+      "CRADLE"
+     ],
+     [
+      "CRIB"
+     ],
+     [
+      "PLAYPEN"
+     ],
+     [
+      "MOBILE",
+      "📱"
+     ]
+    ]
+   },
+   {
+    "link": "Fitted kitchen",
+    "tiles": [
+     [
+      "WORKTOP"
+     ],
+     [
+      "SINK"
+     ],
+     [
+      "HOB"
+     ],
+     [
+      "TAP",
+      "🚰"
+     ]
+    ]
+   },
+   {
+    "link": "Words ending in NET",
+    "note": "garNET, bassiNET, cabiNET, magNET",
+    "tiles": [
+     [
+      "GARNET"
+     ],
+     [
+      "BASSINET"
+     ],
+     [
+      "CABINET"
+     ],
+     [
+      "MAGNET",
+      "🧲"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "GARNET": [
+    "Gemstones"
+   ],
+   "BASSINET": [
+    "In the nursery"
+   ],
+   "CABINET": [
+    "Fitted kitchen"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Fabric patterns",
+    "tiles": [
+     [
+      "TARTAN"
+     ],
+     [
+      "PAISLEY"
+     ],
+     [
+      "GINGHAM"
+     ],
+     [
+      "CHECK"
+     ]
+    ]
+   },
+   {
+    "link": "Types of earring",
+    "tiles": [
+     [
+      "STUD"
+     ],
+     [
+      "HOOP"
+     ],
+     [
+      "SLEEPER"
+     ],
+     [
+      "DROP",
+      "💧"
+     ]
+    ]
+   },
+   {
+    "link": "Measuring tools",
+    "tiles": [
+     [
+      "RULER",
+      "📏"
+     ],
+     [
+      "LEVEL"
+     ],
+     [
+      "SQUARE"
+     ],
+     [
+      "GAUGE"
+     ]
+    ]
+   },
+   {
+    "link": "Name ___",
+    "note": "Name tag, namesake, name badge, name tape",
+    "tiles": [
+     [
+      "TAG",
+      "🏷️"
+     ],
+     [
+      "SAKE"
+     ],
+     [
+      "BADGE"
+     ],
+     [
+      "TAPE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CHECK": [
+    "Name ___"
+   ],
+   "DROP": [
+    "Name ___"
+   ],
+   "TAPE": [
+    "Measuring tools"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Plumbing",
+    "tiles": [
+     [
+      "PIPE"
+     ],
+     [
+      "VALVE"
+     ],
+     [
+      "CISTERN"
+     ],
+     [
+      "STOPCOCK"
+     ]
+    ]
+   },
+   {
+    "link": "Electrics",
+    "tiles": [
+     [
+      "SOCKET"
+     ],
+     [
+      "FUSE"
+     ],
+     [
+      "FLEX"
+     ],
+     [
+      "SWITCH"
+     ]
+    ]
+   },
+   {
+    "link": "Mouse ___",
+    "note": "Mousetrap, mouse mat, mouse pad, mouse hole",
+    "tiles": [
+     [
+      "TRAP"
+     ],
+     [
+      "MAT"
+     ],
+     [
+      "PAD"
+     ],
+     [
+      "HOLE",
+      "🕳️"
+     ]
+    ]
+   },
+   {
+    "link": "Master ___",
+    "note": "Master key, masterpiece, masterclass, MasterChef",
+    "tiles": [
+     [
+      "KEY",
+      "🔑"
+     ],
+     [
+      "PIECE"
+     ],
+     [
+      "CLASS"
+     ],
+     [
+      "CHEF",
+      "👨‍🍳"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TRAP": [
+    "Plumbing"
+   ],
+   "SWITCH": [
+    "Master ___"
+   ],
+   "SOCKET": [
+    "Master ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "On a motorway",
+    "tiles": [
+     [
+      "JUNCTION"
+     ],
+     [
+      "GANTRY"
+     ],
+     [
+      "BRIDGE",
+      "🌉"
+     ],
+     [
+      "LANE"
+     ]
+    ]
+   },
+   {
+    "link": "Seen from a narrowboat",
+    "tiles": [
+     [
+      "TOWPATH"
+     ],
+     [
+      "AQUEDUCT"
+     ],
+     [
+      "SLUICE"
+     ],
+     [
+      "MOORING"
+     ]
+    ]
+   },
+   {
+    "link": "Memory ___",
+    "note": "Memory foam, memory stick, memory game, memory bank",
+    "tiles": [
+     [
+      "FOAM"
+     ],
+     [
+      "STICK"
+     ],
+     [
+      "GAME",
+      "🎮"
+     ],
+     [
+      "BANK",
+      "🏦"
+     ]
+    ]
+   },
+   {
+    "link": "Sound like numbers",
+    "note": "One, eight, four, two",
+    "tiles": [
+     [
+      "WON"
+     ],
+     [
+      "ATE"
+     ],
+     [
+      "FOR"
+     ],
+     [
+      "TOO"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LANE": [
+    "Memory ___"
+   ],
+   "BANK": [
+    "Seen from a narrowboat"
+   ],
+   "JUNCTION": [
+    "Seen from a narrowboat"
+   ],
+   "BRIDGE": [
+    "Seen from a narrowboat"
+   ]
+  }
+ }
+]

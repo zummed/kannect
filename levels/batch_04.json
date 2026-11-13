@@ -1,0 +1,2678 @@
+[
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Foot ___",
+    "note": "Football, footstep, footprint, footpath",
+    "tiles": [
+     [
+      "BALL"
+     ],
+     [
+      "STEP"
+     ],
+     [
+      "PRINT",
+      "🖨️"
+     ],
+     [
+      "PATH"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a guitar",
+    "tiles": [
+     [
+      "FRET"
+     ],
+     [
+      "NECK"
+     ],
+     [
+      "NUT",
+      "🥜"
+     ],
+     [
+      "BRIDGE",
+      "🌉"
+     ]
+    ]
+   },
+   {
+    "link": "Music notation",
+    "tiles": [
+     [
+      "SHARP"
+     ],
+     [
+      "FLAT"
+     ],
+     [
+      "CLEF"
+     ],
+     [
+      "NOTE",
+      "📝"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a drum kit",
+    "tiles": [
+     [
+      "SNARE"
+     ],
+     [
+      "CYMBAL"
+     ],
+     [
+      "PEDAL"
+     ],
+     [
+      "HIHAT"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "NOTE": [
+    "Foot ___"
+   ],
+   "BRIDGE": [
+    "Foot ___"
+   ],
+   "PEDAL": [
+    "Foot ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Gold ___",
+    "note": "Goldfinger, goldmine, gold dust, gold leaf",
+    "tiles": [
+     [
+      "FINGER",
+      "👆"
+     ],
+     [
+      "MINE",
+      "⛏️"
+     ],
+     [
+      "DUST"
+     ],
+     [
+      "LEAF",
+      "🍃"
+     ]
+    ]
+   },
+   {
+    "link": "Doctor Who actors",
+    "tiles": [
+     [
+      "BAKER"
+     ],
+     [
+      "TENNANT"
+     ],
+     [
+      "SMITH"
+     ],
+     [
+      "PERTWEE"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a book",
+    "tiles": [
+     [
+      "SPINE"
+     ],
+     [
+      "JACKET",
+      "🧥"
+     ],
+     [
+      "INDEX"
+     ],
+     [
+      "COVER"
+     ]
+    ]
+   },
+   {
+    "link": "Rock bands",
+    "tiles": [
+     [
+      "RUSH"
+     ],
+     [
+      "YES"
+     ],
+     [
+      "GENESIS"
+     ],
+     [
+      "FREE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SMITH": [
+    "Gold ___"
+   ],
+   "RUSH": [
+    "Gold ___"
+   ],
+   "LEAF": [
+    "Parts of a book"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Green ___",
+    "note": "Greenpeace, greengrocer, green belt, Greenland",
+    "tiles": [
+     [
+      "PEACE",
+      "🕊️"
+     ],
+     [
+      "GROCER"
+     ],
+     [
+      "BELT"
+     ],
+     [
+      "LAND",
+      "🛬"
+     ]
+    ]
+   },
+   {
+    "link": "Brass instruments",
+    "tiles": [
+     [
+      "HORN",
+      "📯"
+     ],
+     [
+      "TUBA"
+     ],
+     [
+      "CORNET"
+     ],
+     [
+      "TRUMPET"
+     ]
+    ]
+   },
+   {
+    "link": "Music genres",
+    "tiles": [
+     [
+      "HOUSE",
+      "🏠"
+     ],
+     [
+      "GARAGE"
+     ],
+     [
+      "GRIME"
+     ],
+     [
+      "DRILL"
+     ]
+    ]
+   },
+   {
+    "link": "Pixar films",
+    "tiles": [
+     [
+      "SOUL"
+     ],
+     [
+      "UP"
+     ],
+     [
+      "CARS"
+     ],
+     [
+      "COCO"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "HOUSE": [
+    "Green ___"
+   ],
+   "HORN": [
+    "Green ___"
+   ],
+   "SOUL": [
+    "Music genres"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Ginger ___",
+    "note": "Ginger beer, ginger snap, ginger ale, gingerbread",
+    "tiles": [
+     [
+      "BEER",
+      "🍺"
+     ],
+     [
+      "SNAP"
+     ],
+     [
+      "ALE"
+     ],
+     [
+      "BREAD",
+      "🍞"
+     ]
+    ]
+   },
+   {
+    "link": "Sitcoms",
+    "tiles": [
+     [
+      "CHEERS",
+      "🥂"
+     ],
+     [
+      "FRASIER"
+     ],
+     [
+      "PORRIDGE"
+     ],
+     [
+      "EXTRAS"
+     ]
+    ]
+   },
+   {
+    "link": "A Midsummer Night's Dream",
+    "tiles": [
+     [
+      "BOTTOM"
+     ],
+     [
+      "OBERON"
+     ],
+     [
+      "TITANIA"
+     ],
+     [
+      "QUINCE"
+     ]
+    ]
+   },
+   {
+    "link": "Famous dancers",
+    "tiles": [
+     [
+      "ROGERS"
+     ],
+     [
+      "ASTAIRE"
+     ],
+     [
+      "KELLY"
+     ],
+     [
+      "FONTEYN"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BREAD": [
+    "Sitcoms"
+   ],
+   "BOTTOM": [
+    "Sitcoms"
+   ],
+   "ROGERS": [
+    "Ginger ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Grand ___",
+    "note": "Grandstand, grand slam, grandchild, grandfather",
+    "tiles": [
+     [
+      "STAND"
+     ],
+     [
+      "SLAM"
+     ],
+     [
+      "CHILD",
+      "🧒"
+     ],
+     [
+      "FATHER"
+     ]
+    ]
+   },
+   {
+    "link": "Italian musical terms",
+    "tiles": [
+     [
+      "PIANO",
+      "🎹"
+     ],
+     [
+      "FORTE"
+     ],
+     [
+      "LARGO"
+     ],
+     [
+      "PRESTO"
+     ]
+    ]
+   },
+   {
+    "link": "Doctor Who villains",
+    "tiles": [
+     [
+      "MASTER"
+     ],
+     [
+      "DALEK"
+     ],
+     [
+      "CYBERMAN"
+     ],
+     [
+      "DAVROS"
+     ]
+    ]
+   },
+   {
+    "link": "Bond villains",
+    "tiles": [
+     [
+      "BLOFELD"
+     ],
+     [
+      "DRAX"
+     ],
+     [
+      "ODDJOB"
+     ],
+     [
+      "JAWS",
+      "🦈"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PIANO": [
+    "Grand ___"
+   ],
+   "MASTER": [
+    "Grand ___"
+   ],
+   "LARGO": [
+    "Bond villains"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Flat ___",
+    "note": "Flatmate, flat-pack, flat cap, flat iron",
+    "tiles": [
+     [
+      "MATE"
+     ],
+     [
+      "PACK"
+     ],
+     [
+      "CAP",
+      "🧢"
+     ],
+     [
+      "IRON"
+     ]
+    ]
+   },
+   {
+    "link": "Poetry terms",
+    "tiles": [
+     [
+      "LINE"
+     ],
+     [
+      "FOOT",
+      "🦶"
+     ],
+     [
+      "VERSE"
+     ],
+     [
+      "STANZA"
+     ]
+    ]
+   },
+   {
+    "link": "Romantic poets",
+    "tiles": [
+     [
+      "BLAKE"
+     ],
+     [
+      "KEATS"
+     ],
+     [
+      "BYRON"
+     ],
+     [
+      "SHELLEY"
+     ]
+    ]
+   },
+   {
+    "link": "British painters",
+    "tiles": [
+     [
+      "TURNER"
+     ],
+     [
+      "CONSTABLE",
+      "👮"
+     ],
+     [
+      "LOWRY"
+     ],
+     [
+      "HOCKNEY"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LINE": [
+    "Flat ___"
+   ],
+   "FOOT": [
+    "Flat ___"
+   ],
+   "BLAKE": [
+    "British painters"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Full ___",
+    "note": "Full back, full time, full marks, full board",
+    "tiles": [
+     [
+      "BACK"
+     ],
+     [
+      "TIME"
+     ],
+     [
+      "MARKS"
+     ],
+     [
+      "BOARD"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of an organ",
+    "tiles": [
+     [
+      "STOP",
+      "🛑"
+     ],
+     [
+      "PIPE"
+     ],
+     [
+      "MANUAL"
+     ],
+     [
+      "BELLOWS"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a theatre",
+    "tiles": [
+     [
+      "CIRCLE",
+      "⭕"
+     ],
+     [
+      "STALLS"
+     ],
+     [
+      "GODS"
+     ],
+     [
+      "WINGS"
+     ]
+    ]
+   },
+   {
+    "link": "70s bands",
+    "tiles": [
+     [
+      "SLADE"
+     ],
+     [
+      "MUD"
+     ],
+     [
+      "SWEET",
+      "🍬"
+     ],
+     [
+      "WIZZARD"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "STOP": [
+    "Full ___"
+   ],
+   "CIRCLE": [
+    "Full ___"
+   ],
+   "WINGS": [
+    "70s bands"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "French ___",
+    "note": "French toast, French polish, French window, French fries",
+    "tiles": [
+     [
+      "TOAST"
+     ],
+     [
+      "POLISH",
+      "💅"
+     ],
+     [
+      "WINDOW",
+      "🪟"
+     ],
+     [
+      "FRIES"
+     ]
+    ]
+   },
+   {
+    "link": "American bands",
+    "tiles": [
+     [
+      "KISS",
+      "💋"
+     ],
+     [
+      "EAGLES"
+     ],
+     [
+      "DOORS"
+     ],
+     [
+      "BLONDIE"
+     ]
+    ]
+   },
+   {
+    "link": "Dickens title characters",
+    "tiles": [
+     [
+      "NICKLEBY"
+     ],
+     [
+      "DORRIT"
+     ],
+     [
+      "DROOD"
+     ],
+     [
+      "RUDGE"
+     ]
+    ]
+   },
+   {
+    "link": "Party dances",
+    "tiles": [
+     [
+      "TWIST"
+     ],
+     [
+      "CONGA"
+     ],
+     [
+      "LIMBO"
+     ],
+     [
+      "MACARENA"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "KISS": [
+    "French ___"
+   ],
+   "DOORS": [
+    "French ___"
+   ],
+   "TWIST": [
+    "Dickens title characters",
+    "French ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "___ gun",
+    "note": "Stun gun, machine gun, nail gun, glue gun",
+    "tiles": [
+     [
+      "STUN"
+     ],
+     [
+      "MACHINE"
+     ],
+     [
+      "NAIL"
+     ],
+     [
+      "GLUE"
+     ]
+    ]
+   },
+   {
+    "link": "Musicals",
+    "tiles": [
+     [
+      "TOMMY"
+     ],
+     [
+      "GREASE"
+     ],
+     [
+      "EVITA"
+     ],
+     [
+      "CATS"
+     ]
+    ]
+   },
+   {
+    "link": "Superheroes",
+    "tiles": [
+     [
+      "FLASH",
+      "📸"
+     ],
+     [
+      "THOR",
+      "🔨"
+     ],
+     [
+      "HULK"
+     ],
+     [
+      "STORM",
+      "⛈️"
+     ]
+    ]
+   },
+   {
+    "link": "TV quiz shows",
+    "tiles": [
+     [
+      "COUNTDOWN"
+     ],
+     [
+      "POINTLESS"
+     ],
+     [
+      "EGGHEADS"
+     ],
+     [
+      "CHASE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TOMMY": [
+    "___ gun"
+   ],
+   "GREASE": [
+    "___ gun"
+   ],
+   "FLASH": [
+    "___ gun"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Gate ___",
+    "note": "Gateway, gatepost, gatekeeper, gatefold",
+    "tiles": [
+     [
+      "WAY"
+     ],
+     [
+      "POST",
+      "📮"
+     ],
+     [
+      "KEEPER"
+     ],
+     [
+      "FOLD"
+     ]
+    ]
+   },
+   {
+    "link": "Best Picture Oscar winners",
+    "tiles": [
+     [
+      "CRASH",
+      "💥"
+     ],
+     [
+      "ROCKY"
+     ],
+     [
+      "GANDHI"
+     ],
+     [
+      "TITANIC",
+      "🚢"
+     ]
+    ]
+   },
+   {
+    "link": "Bands named after places",
+    "tiles": [
+     [
+      "BOSTON"
+     ],
+     [
+      "KANSAS"
+     ],
+     [
+      "EUROPE",
+      "🌍"
+     ],
+     [
+      "CHICAGO"
+     ]
+    ]
+   },
+   {
+    "link": "Hitchcock films",
+    "tiles": [
+     [
+      "PSYCHO"
+     ],
+     [
+      "VERTIGO"
+     ],
+     [
+      "REBECCA"
+     ],
+     [
+      "MARNIE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CRASH": [
+    "Gate ___"
+   ],
+   "CHICAGO": [
+    "Best Picture Oscar winners"
+   ],
+   "REBECCA": [
+    "Best Picture Oscar winners"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "Golden ___",
+    "note": "Golden syrup, golden goose, golden retriever, golden ticket",
+    "tiles": [
+     [
+      "SYRUP"
+     ],
+     [
+      "GOOSE"
+     ],
+     [
+      "RETRIEVER"
+     ],
+     [
+      "TICKET",
+      "🎫"
+     ]
+    ]
+   },
+   {
+    "link": "London theatres",
+    "tiles": [
+     [
+      "GLOBE",
+      "🌐"
+     ],
+     [
+      "SAVOY"
+     ],
+     [
+      "LYCEUM"
+     ],
+     [
+      "PALLADIUM"
+     ]
+    ]
+   },
+   {
+    "link": "Classic British comics",
+    "tiles": [
+     [
+      "EAGLE",
+      "🦅"
+     ],
+     [
+      "BEANO"
+     ],
+     [
+      "DANDY"
+     ],
+     [
+      "BUNTY"
+     ]
+    ]
+   },
+   {
+    "link": "Quidditch",
+    "tiles": [
+     [
+      "SNITCH"
+     ],
+     [
+      "QUAFFLE"
+     ],
+     [
+      "BLUDGER"
+     ],
+     [
+      "SEEKER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "GLOBE": [
+    "Golden ___"
+   ],
+   "EAGLE": [
+    "Golden ___"
+   ],
+   "SNITCH": [
+    "Golden ___"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Gas ___",
+    "note": "Gas mask, gasworks, gasbag, gas meter",
+    "tiles": [
+     [
+      "MASK",
+      "😷"
+     ],
+     [
+      "WORKS"
+     ],
+     [
+      "BAG",
+      "👜"
+     ],
+     [
+      "METER"
+     ]
+    ]
+   },
+   {
+    "link": "Horror films",
+    "tiles": [
+     [
+      "RING",
+      "💍"
+     ],
+     [
+      "SCREAM",
+      "😱"
+     ],
+     [
+      "SAW",
+      "🪚"
+     ],
+     [
+      "OMEN"
+     ]
+    ]
+   },
+   {
+    "link": "Stephen King novels",
+    "tiles": [
+     [
+      "MISERY"
+     ],
+     [
+      "CARRIE"
+     ],
+     [
+      "CUJO"
+     ],
+     [
+      "IT"
+     ]
+    ]
+   },
+   {
+    "link": "Ridley Scott films",
+    "tiles": [
+     [
+      "ALIEN",
+      "👽"
+     ],
+     [
+      "GLADIATOR"
+     ],
+     [
+      "NAPOLEON"
+     ],
+     [
+      "HANNIBAL"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "RING": [
+    "Gas ___"
+   ],
+   "ALIEN": [
+    "Horror films"
+   ],
+   "HANNIBAL": [
+    "Horror films"
+   ],
+   "MISERY": [
+    "Horror films"
+   ],
+   "CARRIE": [
+    "Horror films"
+   ],
+   "CUJO": [
+    "Horror films"
+   ],
+   "IT": [
+    "Horror films"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Fore ___",
+    "note": "Forehead, foresight, foreground, forecourt",
+    "tiles": [
+     [
+      "HEAD"
+     ],
+     [
+      "SIGHT"
+     ],
+     [
+      "GROUND"
+     ],
+     [
+      "COURT"
+     ]
+    ]
+   },
+   {
+    "link": "Theatre words",
+    "tiles": [
+     [
+      "ACT"
+     ],
+     [
+      "SCENE"
+     ],
+     [
+      "CAST"
+     ],
+     [
+      "PLAY"
+     ]
+    ]
+   },
+   {
+    "link": "Film-making terms",
+    "tiles": [
+     [
+      "CUT",
+      "✂️"
+     ],
+     [
+      "TAKE"
+     ],
+     [
+      "WRAP",
+      "🌯"
+     ],
+     [
+      "PAN",
+      "🍳"
+     ]
+    ]
+   },
+   {
+    "link": "Peter Pan characters",
+    "tiles": [
+     [
+      "HOOK",
+      "🪝"
+     ],
+     [
+      "WENDY"
+     ],
+     [
+      "SMEE"
+     ],
+     [
+      "NANA"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "CAST": [
+    "Fore ___",
+    "Film-making terms"
+   ],
+   "PLAY": [
+    "Fore ___"
+   ],
+   "SCENE": [
+    "Film-making terms"
+   ],
+   "PAN": [
+    "Peter Pan characters"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Hidden fish",
+    "note": "forTUNAte, conSOLE, sHAKEr, CHARt",
+    "tiles": [
+     [
+      "FORTUNATE"
+     ],
+     [
+      "CONSOLE",
+      "🎮"
+     ],
+     [
+      "SHAKER",
+      "🧂"
+     ],
+     [
+      "CHART",
+      "📈"
+     ]
+    ]
+   },
+   {
+    "link": "Folk dances",
+    "tiles": [
+     [
+      "REEL",
+      "🎞️"
+     ],
+     [
+      "FLING"
+     ],
+     [
+      "JIG"
+     ],
+     [
+      "HORNPIPE"
+     ]
+    ]
+   },
+   {
+    "link": "Parts of a song",
+    "tiles": [
+     [
+      "CODA"
+     ],
+     [
+      "CHORUS"
+     ],
+     [
+      "INTRO"
+     ],
+     [
+      "SOLO"
+     ]
+    ]
+   },
+   {
+    "link": "Kinds of poem",
+    "tiles": [
+     [
+      "SONNET"
+     ],
+     [
+      "HAIKU"
+     ],
+     [
+      "ODE"
+     ],
+     [
+      "BALLAD"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "REEL": [
+    "Hidden fish"
+   ],
+   "FLING": [
+    "Hidden fish"
+   ],
+   "CODA": [
+    "Hidden fish"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Hidden girls' names",
+    "note": "nutMEG, dilEMMA, tisSUE, cELLAr",
+    "tiles": [
+     [
+      "NUTMEG"
+     ],
+     [
+      "DILEMMA"
+     ],
+     [
+      "TISSUE"
+     ],
+     [
+      "CELLAR"
+     ]
+    ]
+   },
+   {
+    "link": "Shakespeare title characters",
+    "tiles": [
+     [
+      "MACBETH"
+     ],
+     [
+      "HAMLET"
+     ],
+     [
+      "OTHELLO"
+     ],
+     [
+      "ROMEO"
+     ]
+    ]
+   },
+   {
+    "link": "String instruments",
+    "tiles": [
+     [
+      "BANJO",
+      "🪕"
+     ],
+     [
+      "GUITAR",
+      "🎸"
+     ],
+     [
+      "VIOLIN",
+      "🎻"
+     ],
+     [
+      "HARP"
+     ]
+    ]
+   },
+   {
+    "link": "BBC factual programmes",
+    "tiles": [
+     [
+      "PANORAMA"
+     ],
+     [
+      "HORIZON"
+     ],
+     [
+      "NEWSNIGHT"
+     ],
+     [
+      "WATCHDOG"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MACBETH": [
+    "Hidden girls' names"
+   ],
+   "BANJO": [
+    "Hidden girls' names"
+   ],
+   "PANORAMA": [
+    "Hidden girls' names"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Add G at the front",
+    "note": "Glove, grain, gear, goat",
+    "tiles": [
+     [
+      "LOVE",
+      "❤️"
+     ],
+     [
+      "RAIN",
+      "🌧️"
+     ],
+     [
+      "EAR",
+      "👂"
+     ],
+     [
+      "OAT"
+     ]
+    ]
+   },
+   {
+    "link": "Film directors",
+    "tiles": [
+     [
+      "LEAN"
+     ],
+     [
+      "REED"
+     ],
+     [
+      "FORD"
+     ],
+     [
+      "SCOTT"
+     ]
+    ]
+   },
+   {
+    "link": "Thunderbirds' Tracy brothers",
+    "tiles": [
+     [
+      "VIRGIL"
+     ],
+     [
+      "ALAN"
+     ],
+     [
+      "GORDON"
+     ],
+     [
+      "JOHN"
+     ]
+    ]
+   },
+   {
+    "link": "Composers",
+    "tiles": [
+     [
+      "RAVEL"
+     ],
+     [
+      "HOLST"
+     ],
+     [
+      "ELGAR"
+     ],
+     [
+      "BACH"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LEAN": [
+    "Add G at the front"
+   ],
+   "REED": [
+    "Add G at the front"
+   ],
+   "RAVEL": [
+    "Add G at the front"
+   ],
+   "SCOTT": [
+    "Thunderbirds' Tracy brothers"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Add F at the front",
+    "note": "Flight, fright, feast, flake",
+    "tiles": [
+     [
+      "LIGHT",
+      "💡"
+     ],
+     [
+      "RIGHT"
+     ],
+     [
+      "EAST"
+     ],
+     [
+      "LAKE"
+     ]
+    ]
+   },
+   {
+    "link": "Star Wars characters",
+    "tiles": [
+     [
+      "LUKE"
+     ],
+     [
+      "HAN"
+     ],
+     [
+      "LEIA"
+     ],
+     [
+      "YODA"
+     ]
+    ]
+   },
+   {
+    "link": "Winnie-the-Pooh characters",
+    "tiles": [
+     [
+      "OWL",
+      "🦉"
+     ],
+     [
+      "PIGLET"
+     ],
+     [
+      "EEYORE"
+     ],
+     [
+      "TIGGER"
+     ]
+    ]
+   },
+   {
+    "link": "Horror film actors",
+    "tiles": [
+     [
+      "LEE"
+     ],
+     [
+      "CUSHING"
+     ],
+     [
+      "PRICE",
+      "🏷️"
+     ],
+     [
+      "KARLOFF"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LUKE": [
+    "Add F at the front"
+   ],
+   "OWL": [
+    "Add F at the front"
+   ],
+   "LEE": [
+    "Add F at the front"
+   ]
+  }
+ },
+ {
+  "difficulty": 1,
+  "groups": [
+   {
+    "link": "___ fly",
+    "note": "Butterfly, hoverfly, blowfly, barfly",
+    "tiles": [
+     [
+      "BUTTER",
+      "🧈"
+     ],
+     [
+      "HOVER"
+     ],
+     [
+      "BLOW"
+     ],
+     [
+      "BAR"
+     ]
+    ]
+   },
+   {
+    "link": "Shrek characters",
+    "tiles": [
+     [
+      "SHREK"
+     ],
+     [
+      "DONKEY"
+     ],
+     [
+      "FIONA"
+     ],
+     [
+      "DRAGON",
+      "🐉"
+     ]
+    ]
+   },
+   {
+    "link": "Friends surnames",
+    "tiles": [
+     [
+      "GREEN",
+      "🟢"
+     ],
+     [
+      "GELLER"
+     ],
+     [
+      "BING"
+     ],
+     [
+      "BUFFAY"
+     ]
+    ]
+   },
+   {
+    "link": "Pantomime characters",
+    "tiles": [
+     [
+      "DAME"
+     ],
+     [
+      "GENIE",
+      "🧞"
+     ],
+     [
+      "BUTTONS"
+     ],
+     [
+      "HORSE",
+      "🐴"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "DRAGON": [
+    "___ fly"
+   ],
+   "GREEN": [
+    "___ fly"
+   ],
+   "HORSE": [
+    "___ fly"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Field ___",
+    "note": "Field marshal, field trip, field event, field goal",
+    "tiles": [
+     [
+      "MARSHAL"
+     ],
+     [
+      "TRIP"
+     ],
+     [
+      "EVENT"
+     ],
+     [
+      "GOAL",
+      "🥅"
+     ]
+    ]
+   },
+   {
+    "link": "The Gruffalo characters",
+    "tiles": [
+     [
+      "MOUSE",
+      "🖱️"
+     ],
+     [
+      "FOX",
+      "🦊"
+     ],
+     [
+      "SNAKE",
+      "🐍"
+     ],
+     [
+      "GRUFFALO"
+     ]
+    ]
+   },
+   {
+    "link": "Stars of film musicals",
+    "tiles": [
+     [
+      "DAY"
+     ],
+     [
+      "GARLAND"
+     ],
+     [
+      "ANDREWS"
+     ],
+     [
+      "STREISAND"
+     ]
+    ]
+   },
+   {
+    "link": "Film studios",
+    "tiles": [
+     [
+      "UNIVERSAL"
+     ],
+     [
+      "PARAMOUNT"
+     ],
+     [
+      "COLUMBIA"
+     ],
+     [
+      "WARNER"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "MOUSE": [
+    "Field ___"
+   ],
+   "DAY": [
+    "Field ___"
+   ],
+   "FOX": [
+    "Film studios"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "___ fall",
+    "note": "Waterfall, nightfall, windfall, pratfall",
+    "tiles": [
+     [
+      "WATER",
+      "🚰"
+     ],
+     [
+      "NIGHT",
+      "🌃"
+     ],
+     [
+      "WIND",
+      "🌬️"
+     ],
+     [
+      "PRAT"
+     ]
+    ]
+   },
+   {
+    "link": "Game of Thrones surnames",
+    "tiles": [
+     [
+      "SNOW",
+      "🌨️"
+     ],
+     [
+      "STARK"
+     ],
+     [
+      "LANNISTER"
+     ],
+     [
+      "GREYJOY"
+     ]
+    ]
+   },
+   {
+    "link": "Superheroes' real surnames",
+    "tiles": [
+     [
+      "BANNER"
+     ],
+     [
+      "PARKER"
+     ],
+     [
+      "KENT"
+     ],
+     [
+      "WAYNE"
+     ]
+    ]
+   },
+   {
+    "link": "Stars of westerns",
+    "tiles": [
+     [
+      "EASTWOOD"
+     ],
+     [
+      "COOPER"
+     ],
+     [
+      "FONDA"
+     ],
+     [
+      "STEWART"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "SNOW": [
+    "___ fall"
+   ],
+   "STARK": [
+    "Superheroes' real surnames"
+   ],
+   "WAYNE": [
+    "Stars of westerns"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "Father ___",
+    "note": "Father Christmas, father figure, fatherhood, Father Ted",
+    "tiles": [
+     [
+      "CHRISTMAS",
+      "🎄"
+     ],
+     [
+      "FIGURE"
+     ],
+     [
+      "HOOD"
+     ],
+     [
+      "TED",
+      "🧸"
+     ]
+    ]
+   },
+   {
+    "link": "TV detectives",
+    "tiles": [
+     [
+      "MORSE"
+     ],
+     [
+      "FROST"
+     ],
+     [
+      "VERA"
+     ],
+     [
+      "BROWN",
+      "🟤"
+     ]
+    ]
+   },
+   {
+    "link": "Coronation Street characters",
+    "tiles": [
+     [
+      "KEN"
+     ],
+     [
+      "RITA"
+     ],
+     [
+      "DEIRDRE"
+     ],
+     [
+      "HILDA"
+     ]
+    ]
+   },
+   {
+    "link": "Toy Story characters",
+    "tiles": [
+     [
+      "WOODY"
+     ],
+     [
+      "BUZZ"
+     ],
+     [
+      "REX",
+      "🦖"
+     ],
+     [
+      "HAMM"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "BROWN": [
+    "Father ___"
+   ],
+   "VERA": [
+    "Coronation Street characters"
+   ],
+   "KEN": [
+    "Toy Story characters"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Front ___",
+    "note": "Front door, front bench, front room, front row",
+    "tiles": [
+     [
+      "DOOR",
+      "🚪"
+     ],
+     [
+      "BENCH"
+     ],
+     [
+      "ROOM"
+     ],
+     [
+      "ROW",
+      "🚣"
+     ]
+    ]
+   },
+   {
+    "link": "Led Zeppelin",
+    "tiles": [
+     [
+      "PAGE",
+      "📄"
+     ],
+     [
+      "PLANT",
+      "🪴"
+     ],
+     [
+      "BONHAM"
+     ],
+     [
+      "JONES"
+     ]
+    ]
+   },
+   {
+    "link": "Film crew",
+    "tiles": [
+     [
+      "RUNNER"
+     ],
+     [
+      "GAFFER"
+     ],
+     [
+      "GRIP"
+     ],
+     [
+      "EDITOR"
+     ]
+    ]
+   },
+   {
+    "link": "Rolling Stones",
+    "tiles": [
+     [
+      "JAGGER"
+     ],
+     [
+      "RICHARDS"
+     ],
+     [
+      "WATTS"
+     ],
+     [
+      "WYMAN"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PAGE": [
+    "Front ___"
+   ],
+   "RUNNER": [
+    "Front ___"
+   ],
+   "JONES": [
+    "Rolling Stones"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Swap first letter for a fruit",
+    "note": "Fig, pear, peach, lemon",
+    "tiles": [
+     [
+      "PIG",
+      "🐷"
+     ],
+     [
+      "BEAR",
+      "🐻"
+     ],
+     [
+      "BEACH",
+      "🏖️"
+     ],
+     [
+      "DEMON"
+     ]
+    ]
+   },
+   {
+    "link": "Strictly dances",
+    "tiles": [
+     [
+      "TANGO"
+     ],
+     [
+      "RUMBA"
+     ],
+     [
+      "SAMBA"
+     ],
+     [
+      "WALTZ"
+     ]
+    ]
+   },
+   {
+    "link": "Kings in Shakespeare",
+    "tiles": [
+     [
+      "LEAR"
+     ],
+     [
+      "DUNCAN"
+     ],
+     [
+      "CLAUDIUS"
+     ],
+     [
+      "RICHARD"
+     ]
+    ]
+   },
+   {
+    "link": "Kinds of stage show",
+    "tiles": [
+     [
+      "MIME"
+     ],
+     [
+      "REVUE"
+     ],
+     [
+      "OPERA"
+     ],
+     [
+      "FARCE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "TANGO": [
+    "Swap first letter for a fruit"
+   ],
+   "LEAR": [
+    "Swap first letter for a fruit"
+   ],
+   "MIME": [
+    "Swap first letter for a fruit"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Hidden flowers",
+    "note": "moROSE, IRISh, eASTER, POPPYcock",
+    "tiles": [
+     [
+      "MOROSE"
+     ],
+     [
+      "IRISH",
+      "☘️"
+     ],
+     [
+      "EASTER",
+      "🐣"
+     ],
+     [
+      "POPPYCOCK"
+     ]
+    ]
+   },
+   {
+    "link": "Peanuts characters",
+    "tiles": [
+     [
+      "SNOOPY"
+     ],
+     [
+      "LINUS"
+     ],
+     [
+      "SCHROEDER"
+     ],
+     [
+      "WOODSTOCK"
+     ]
+    ]
+   },
+   {
+    "link": "Forms of writing",
+    "tiles": [
+     [
+      "PROSE"
+     ],
+     [
+      "POETRY"
+     ],
+     [
+      "DRAMA",
+      "🎭"
+     ],
+     [
+      "FICTION"
+     ]
+    ]
+   },
+   {
+    "link": "Russian writers",
+    "tiles": [
+     [
+      "PASTERNAK"
+     ],
+     [
+      "TOLSTOY"
+     ],
+     [
+      "CHEKHOV"
+     ],
+     [
+      "PUSHKIN"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "PROSE": [
+    "Hidden flowers"
+   ],
+   "WOODSTOCK": [
+    "Hidden flowers"
+   ],
+   "PASTERNAK": [
+    "Hidden flowers"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Hidden games",
+    "note": "asteRISK, liverPOOL, vinTAGe, sPONGe",
+    "tiles": [
+     [
+      "ASTERISK"
+     ],
+     [
+      "LIVERPOOL"
+     ],
+     [
+      "VINTAGE"
+     ],
+     [
+      "SPONGE",
+      "🧽"
+     ]
+    ]
+   },
+   {
+    "link": "Alice in Wonderland",
+    "tiles": [
+     [
+      "DUCHESS"
+     ],
+     [
+      "HATTER",
+      "🎩"
+     ],
+     [
+      "DORMOUSE"
+     ],
+     [
+      "DODO",
+      "🦤"
+     ]
+    ]
+   },
+   {
+    "link": "American painters",
+    "tiles": [
+     [
+      "WHISTLER"
+     ],
+     [
+      "ROTHKO"
+     ],
+     [
+      "POLLOCK"
+     ],
+     [
+      "HOPPER"
+     ]
+    ]
+   },
+   {
+    "link": "Words in Austen titles",
+    "tiles": [
+     [
+      "PREJUDICE"
+     ],
+     [
+      "PRIDE"
+     ],
+     [
+      "SENSE"
+     ],
+     [
+      "ABBEY"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "DUCHESS": [
+    "Hidden games"
+   ],
+   "WHISTLER": [
+    "Hidden games"
+   ],
+   "PREJUDICE": [
+    "Hidden games"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "___ fever",
+    "note": "Hay fever, spring fever, scarlet fever, gold fever",
+    "tiles": [
+     [
+      "HAY"
+     ],
+     [
+      "SPRING"
+     ],
+     [
+      "SCARLET"
+     ],
+     [
+      "GOLD",
+      "🥇"
+     ]
+    ]
+   },
+   {
+    "link": "Coldplay songs",
+    "tiles": [
+     [
+      "YELLOW",
+      "🟡"
+     ],
+     [
+      "CLOCKS"
+     ],
+     [
+      "PARADISE"
+     ],
+     [
+      "TROUBLE"
+     ]
+    ]
+   },
+   {
+    "link": "Styles of dance music",
+    "tiles": [
+     [
+      "JUNGLE"
+     ],
+     [
+      "DISCO",
+      "🕺"
+     ],
+     [
+      "TECHNO"
+     ],
+     [
+      "TRANCE"
+     ]
+    ]
+   },
+   {
+    "link": "Britpop bands",
+    "tiles": [
+     [
+      "OASIS"
+     ],
+     [
+      "BLUR"
+     ],
+     [
+      "PULP"
+     ],
+     [
+      "SUEDE"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "YELLOW": [
+    "___ fever"
+   ],
+   "JUNGLE": [
+    "___ fever"
+   ],
+   "DISCO": [
+    "___ fever"
+   ]
+  }
+ },
+ {
+  "difficulty": 4,
+  "groups": [
+   {
+    "link": "Good ___",
+    "note": "Goodbye, good luck, good grief, good morning",
+    "tiles": [
+     [
+      "BYE",
+      "👋"
+     ],
+     [
+      "LUCK",
+      "🍀"
+     ],
+     [
+      "GRIEF"
+     ],
+     [
+      "MORNING",
+      "🌅"
+     ]
+    ]
+   },
+   {
+    "link": "Stranger Things characters",
+    "tiles": [
+     [
+      "WILL"
+     ],
+     [
+      "MIKE",
+      "🎤"
+     ],
+     [
+      "DUSTIN"
+     ],
+     [
+      "ELEVEN"
+     ]
+    ]
+   },
+   {
+    "link": "Fictional servants",
+    "tiles": [
+     [
+      "FRIDAY"
+     ],
+     [
+      "JEEVES"
+     ],
+     [
+      "BALDRICK"
+     ],
+     [
+      "CARSON"
+     ]
+    ]
+   },
+   {
+    "link": "The Addams Family",
+    "tiles": [
+     [
+      "WEDNESDAY"
+     ],
+     [
+      "GOMEZ"
+     ],
+     [
+      "PUGSLEY"
+     ],
+     [
+      "LURCH"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "WILL": [
+    "Good ___"
+   ],
+   "FRIDAY": [
+    "Good ___"
+   ],
+   "LURCH": [
+    "Fictional servants"
+   ]
+  }
+ },
+ {
+  "difficulty": 3,
+  "groups": [
+   {
+    "link": "___ food",
+    "note": "Seafood, junk food, comfort food, health food",
+    "tiles": [
+     [
+      "SEA",
+      "🌊"
+     ],
+     [
+      "JUNK"
+     ],
+     [
+      "COMFORT"
+     ],
+     [
+      "HEALTH"
+     ]
+    ]
+   },
+   {
+    "link": "Madonna songs",
+    "tiles": [
+     [
+      "FROZEN",
+      "🥶"
+     ],
+     [
+      "VOGUE"
+     ],
+     [
+      "HOLIDAY"
+     ],
+     [
+      "MUSIC",
+      "🎵"
+     ]
+    ]
+   },
+   {
+    "link": "Jazz greats",
+    "tiles": [
+     [
+      "ELLINGTON"
+     ],
+     [
+      "BASIE"
+     ],
+     [
+      "COLTRANE"
+     ],
+     [
+      "ARMSTRONG"
+     ]
+    ]
+   },
+   {
+    "link": "Quiz show hosts",
+    "tiles": [
+     [
+      "WALSH"
+     ],
+     [
+      "PAXMAN"
+     ],
+     [
+      "TARRANT"
+     ],
+     [
+      "ROBINSON"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "FROZEN": [
+    "___ food"
+   ],
+   "HOLIDAY": [
+    "Jazz greats"
+   ],
+   "ARMSTRONG": [
+    "Quiz show hosts"
+   ]
+  }
+ },
+ {
+  "difficulty": 2,
+  "groups": [
+   {
+    "link": "Fast ___",
+    "note": "Fast food, fast bowler, fast forward, fast fashion",
+    "tiles": [
+     [
+      "FOOD",
+      "🍲"
+     ],
+     [
+      "BOWLER",
+      "🎳"
+     ],
+     [
+      "FORWARD"
+     ],
+     [
+      "FASHION"
+     ]
+    ]
+   },
+   {
+    "link": "Words for a song",
+    "tiles": [
+     [
+      "TRACK",
+      "🛤️"
+     ],
+     [
+      "TUNE"
+     ],
+     [
+      "NUMBER"
+     ],
+     [
+      "DITTY"
+     ]
+    ]
+   },
+   {
+    "link": "Superman characters",
+    "tiles": [
+     [
+      "LANE"
+     ],
+     [
+      "LUTHOR"
+     ],
+     [
+      "OLSEN"
+     ],
+     [
+      "ZOD"
+     ]
+    ]
+   },
+   {
+    "link": "David Bowie songs",
+    "tiles": [
+     [
+      "HEROES"
+     ],
+     [
+      "STARMAN"
+     ],
+     [
+      "CHANGES"
+     ],
+     [
+      "FAME"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "LANE": [
+    "Fast ___"
+   ],
+   "TRACK": [
+    "Fast ___"
+   ],
+   "FASHION": [
+    "David Bowie songs"
+   ]
+  }
+ },
+ {
+  "difficulty": 5,
+  "groups": [
+   {
+    "link": "Hidden furniture",
+    "note": "BEDlam, sTABLE, nauSEATe, sCOTch",
+    "tiles": [
+     [
+      "BEDLAM"
+     ],
+     [
+      "STABLE"
+     ],
+     [
+      "NAUSEATE"
+     ],
+     [
+      "SCOTCH",
+      "🥃"
+     ]
+    ]
+   },
+   {
+    "link": "Musical ensembles",
+    "tiles": [
+     [
+      "ORCHESTRA"
+     ],
+     [
+      "CHOIR"
+     ],
+     [
+      "QUARTET"
+     ],
+     [
+      "BAND"
+     ]
+    ]
+   },
+   {
+    "link": "Radio DJs",
+    "tiles": [
+     [
+      "COTTON",
+      "🧵"
+     ],
+     [
+      "MOYLES"
+     ],
+     [
+      "WHILEY"
+     ],
+     [
+      "PEEL"
+     ]
+    ]
+   },
+   {
+    "link": "Literary Misters",
+    "tiles": [
+     [
+      "ROCHESTER"
+     ],
+     [
+      "DARCY"
+     ],
+     [
+      "HYDE"
+     ],
+     [
+      "CHIPS",
+      "🍟"
+     ]
+    ]
+   }
+  ],
+  "overlaps": {
+   "ORCHESTRA": [
+    "Hidden furniture"
+   ],
+   "COTTON": [
+    "Hidden furniture"
+   ],
+   "ROCHESTER": [
+    "Hidden furniture"
+   ]
+  }
+ }
+]
