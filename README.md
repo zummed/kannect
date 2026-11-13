@@ -11,6 +11,7 @@ One self-contained page, `kannect.html`.
 | `levels/core.json` | The first ten walls. Always kept, always first, in this order. |
 | `levels/batch_NN.json` | Further walls, one file per batch. Add new files here. |
 | `levels/BRIEF.md` | How to write a good wall, and the exact file format. |
+| `levels/order.json` | Generated. The permanent play order, by wall id. |
 | `tools/validate.py` | Checks one level file. |
 | `tools/build.py` | Merges every level file into `kannect.html`. |
 
@@ -20,9 +21,10 @@ One self-contained page, `kannect.html`.
 2. `python3 tools/validate.py levels/batch_NN.json` and fix anything it reports.
 3. `python3 tools/build.py --dry` to see what would be kept, then `python3 tools/build.py` to write the game.
 
-The build drops any wall that fails validation, repeats a link already used by an earlier wall, or would use
-the same tile word a third time across the whole game. It orders walls from gentle to hard using each wall's
-`difficulty`, alternating between batch files so subjects stay mixed.
+Wall numbers are permanent. `levels/order.json` records the play order: walls already listed keep their
+number, and new walls are appended to the end. Walls added in the same build are mixed among themselves,
+gentle to hard, alternating between their batch files so subjects do not clump. Commit `order.json` with
+every build, and do not delete or change the words of a wall that is already listed.
 
-Progress is saved on the player's device by wall number. Adding a batch can change which wall has which
-number, so completed ticks may shift after a rebuild.
+A new wall is dropped if it fails validation, repeats a link already in the game, or would use the same
+tile word a third time across the whole game.
