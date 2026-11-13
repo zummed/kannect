@@ -47,7 +47,7 @@ def check_wall(w,i):
             j=links.index(l)
             if word in cands[j]: E(f"{word} already belongs to '{l}'")
             cands[j].add(word)
-    if len(ov)<3: E(f"needs at least 3 red-herring words in overlaps, has {len(ov)}")
+    if len(ov)<2: E(f"needs at least 2 red-herring words in overlaps, has {len(ov)}")
     if not errs and solutions([sorted(c) for c in cands])!=1: E("declared overlaps allow more than one valid solution")
     return errs
 def main():

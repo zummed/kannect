@@ -1,6 +1,6 @@
-# Brief for writing Kannect walls
+# Brief for writing Kategories walls
 
-Kannect is a relaxed phone game for a British adult who enjoys the "connecting wall" style of quiz puzzle.
+Kategories is a relaxed phone game for a British adult who enjoys the "connecting wall" style of quiz puzzle.
 A wall is 16 tiles that sort into 4 hidden groups of 4. The player taps four tiles; a correct group locks.
 When all are sorted she guesses each group's link and reveals it. No timer, unlimited guesses.
 A "Pictures" switch replaces some word tiles with an emoji the player must translate back into the word.

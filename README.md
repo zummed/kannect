@@ -1,4 +1,4 @@
-# Kannect
+# Kategories
 
 A relaxed connecting-wall word game: sort sixteen tiles into four hidden groups of four, then reveal each link.
 One self-contained page, `kannect.html`.
