@@ -471,7 +471,7 @@ const LEVELS=[
 ];
 
 const KEY='kannect.v1', $=id=>document.getElementById(id);
-let save={pics:false,cur:0,done:{},live:null};
+let save={pics:true,cur:0,done:{},live:null};
 try{ Object.assign(save, JSON.parse(localStorage.getItem(KEY)||'{}')) }catch(e){}
 const persist=()=>{ try{ localStorage.setItem(KEY,JSON.stringify(save)) }catch(e){} };
 
