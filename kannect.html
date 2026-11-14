@@ -89,11 +89,11 @@ header{display:flex;align-items:baseline;gap:10px}
 .btn{border:1.5px solid var(--line);border-radius:999px;padding:10px 22px;font-weight:600}
 .btn.main{background:var(--g4);color:var(--on-g);border-color:var(--g4)}
 
-.done{text-align:center;display:flex;flex-direction:column;align-items:center;gap:6px;padding-top:6px}
+.done{text-align:center;display:flex;flex-direction:column;align-items:center;gap:10px}
 .done h3{font-family:var(--display);font-size:1.5rem;margin:0}
 .done:not([hidden]){animation:drop .5s ease-out .15s backwards}
 #fx{position:fixed;inset:0;width:100%;height:100%;pointer-events:none;z-index:15}
-.done p{margin:0 0 8px;color:var(--muted)}
+.done p{margin:0;color:var(--muted);font-size:.95rem}
 .bar{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
 
 .scrim{position:fixed;inset:0;background:var(--scrim);z-index:20;display:flex;align-items:flex-end;justify-content:center}
@@ -139,9 +139,8 @@ details ol{margin:8px 0 0;padding-left:1.2em;display:flex;flex-direction:column;
   </div>
   <div class="clues" id="clues" aria-live="polite"></div>
   <div class="done" id="done" hidden>
-    <h3 id="done-title"></h3>
-    <p id="done-text"></p>
     <div class="bar"><button class="btn main" id="next">Next wall</button><button class="btn" id="replay">Play again</button></div>
+    <p id="done-text"></p>
   </div>
 </div>
 
@@ -537,7 +536,6 @@ function render(){
   $('pics').setAttribute('aria-pressed',save.pics);
   const fin=complete(); $('done').hidden=!fin;
   if(fin){
-    $('done-title').textContent=`Wall ${S.lvl+1} complete`;
     $('done-text').textContent=(S.tries?`${S.tries} wrong guess${S.tries===1?'':'es'}`:'No wrong guesses')+(S.clues?` · ${S.clues} clue${S.clues===1?'':'s'}`:'');
     $('next').hidden=S.lvl>=LEVELS.length-1;
   }
