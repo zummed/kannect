@@ -90,10 +90,11 @@ header{display:flex;align-items:baseline;gap:10px}
 @media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}
 
 .foot{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:2.7em}
-.foot p{margin:0;color:var(--muted);min-width:0}
+.foot p{margin:0;color:var(--muted);min-width:0;flex:1;text-align:center}
+#hint{padding:8px 12px 8px 0}
 .quiet{color:var(--muted);font-weight:600;padding:8px 0 8px 12px;white-space:nowrap}
 .acts{display:flex;white-space:nowrap}
-.clues{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:8px;margin-top:-6px}
+.clues{display:flex;flex-wrap:wrap;gap:8px;margin-top:-6px}
 .clues:empty{display:none}
 .clues span{display:flex;align-items:center;gap:8px;background:var(--tile);border-radius:999px;padding:6px 14px 6px 10px;box-shadow:0 2px 0 var(--shade);font-weight:600;font-size:.95rem;animation:drop .35s cubic-bezier(.2,.9,.3,1.2)}
 .clues span::before{content:"";width:10px;height:10px;border-radius:50%;background:var(--sel);box-shadow:0 0 0 3px color-mix(in srgb,var(--sel) 30%,transparent)}
@@ -144,8 +145,9 @@ details ol{margin:8px 0 0;padding-left:1.2em;display:flex;flex-direction:column;
   <div class="rows" id="rows"></div>
   <div class="grid" id="grid"></div>
   <div class="foot" id="foot">
+    <button class="quiet" id="hint">Clue</button>
     <p id="msg" aria-live="polite"></p>
-    <span class="acts"><button class="quiet" id="hint">Clue</button><button class="quiet" id="shuffle">Shuffle</button></span>
+    <button class="quiet" id="shuffle">Shuffle</button>
   </div>
   <div class="clues" id="clues" aria-live="polite"></div>
   <div class="done" id="done" hidden>
