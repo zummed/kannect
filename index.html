@@ -32,7 +32,8 @@
   --panel:#18242F; --scrim:rgba(0,0,0,.6);
   --g1:#3A86AD; --g2:#A05A93; --g3:#35957A; --g4:#CC5574; color-scheme:dark }
 
-html,body{height:100%}
+html,body{height:100%;overflow-x:hidden;overflow-x:clip;max-width:100%}
+*,*::before,*::after{box-sizing:border-box}
 [hidden]{display:none!important}
 body{background:var(--bg) linear-gradient(165deg,var(--bg) 0%,var(--bg2) 100%) fixed;color:var(--ink);font-family:var(--ui);font-size:17px;line-height:1.35;
   padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:10px 20px;
@@ -59,7 +60,7 @@ header{display:flex;align-items:baseline;gap:10px}
 .row.new{animation:drop .45s cubic-bezier(.2,.9,.3,1.2)}
 .c0{background:var(--g1)}.c1{background:var(--g2)}.c2{background:var(--g3)}.c3{background:var(--g4)}
 .chips{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;align-items:end}
-.chip{text-align:center;min-width:0}
+.chip{text-align:center;min-width:0;overflow:hidden}
 .chip b{display:block;font-weight:700;letter-spacing:.02em;font-size:calc(var(--tw)*.2)}
 .chip.l b{font-size:calc(var(--tw)*.17)}
 .chip i{font-style:normal;display:block;line-height:1.15;font-size:calc(var(--tw)*.34)}
