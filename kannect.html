@@ -509,7 +509,7 @@ function start(lvl){
 function keep(){ save.live=S; persist(); }
 const sorted=()=>S.locked.length===4;
 const complete=sorted;
-function say(t){ $('msg').textContent=t; }
+function say(t){}  // status line removed by request; the wall speaks for itself
 function idle(){
   const left=4-S.locked.length;
   say(sorted()?(S.locked.every(g=>S.named[g])?'':'What links each group? Tap to reveal.'):'');
@@ -528,7 +528,7 @@ function render(){
   $('grid').innerHTML=S.order.map((id,k)=>{const t=tile(id),n=t[0].length,on=sel.includes(id);
     return `<button class="tile${n>8?' l9':n>7?' l8':''}${on?' on':''}${deal?' deal':''}" style="--i:${k}" data-id="${id}" aria-pressed="${on}">${save.pics&&t[1]?`<i role="img" aria-label="picture">${t[1]}</i>`:`<b>${t[0]}</b>`}</button>`}).join('');
   deal=false;
-  $('grid').hidden=sorted(); $('shuffle').hidden=sorted();
+  $('grid').hidden=sorted(); $('shuffle').hidden=sorted(); $('foot').hidden=sorted();
   // Clues: each tap names one more hidden link; a clue goes away once its group is found.
   const open=S.hints.filter(g=>!S.locked.includes(g));
   $('clues').innerHTML=open.map(g=>`<span>${esc(LEVELS[S.lvl].groups[g].link)}</span>`).join('');
