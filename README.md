@@ -9,6 +9,7 @@ One self-contained page, `kannect.html`.
 | --- | --- |
 | `kannect.html` | The game. The `LEVELS` block inside it is generated; do not edit it by hand. |
 | `index.html` | Generated. The same game as a complete web page, for hosting (e.g. GitHub Pages). |
+| `manifest.webmanifest`, `sw.js`, `icons/` | Let the hosted page be added to a phone's home screen and played offline. |
 | `levels/core.json` | The first ten walls. Always kept, always first, in this order. |
 | `levels/batch_NN.json` | Further walls, one file per batch. Add new files here. |
 | `levels/BRIEF.md` | How to write a good wall, and the exact file format. |

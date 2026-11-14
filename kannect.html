@@ -107,6 +107,7 @@ header{display:flex;align-items:baseline;gap:10px}
 .label{margin:0 0 -8px;color:var(--muted);font-weight:600;font-size:.85rem;letter-spacing:.08em;text-transform:uppercase}
 .setting{display:flex;justify-content:space-between;align-items:center;gap:12px;text-align:left;padding:4px 0}
 .setting strong{display:block;font-weight:600}
+.setting .add{font-size:1.5rem;line-height:1;color:var(--muted);padding:0 8px}
 .setting small{color:var(--muted);font-size:.9rem}
 .switch{flex:none;width:46px;height:28px;border-radius:14px;background:var(--line);position:relative;transition:background .15s}
 .switch::after{content:"";position:absolute;top:3px;left:3px;width:22px;height:22px;border-radius:50%;background:var(--tile);box-shadow:0 1px 2px var(--shade);transition:transform .15s}
@@ -151,6 +152,9 @@ details ol{margin:8px 0 0;padding-left:1.2em;display:flex;flex-direction:column;
     <div class="sheet-head"><h2>Menu</h2><button class="x" id="close-menu" aria-label="Close menu">×</button></div>
     <button class="setting" id="pics" aria-pressed="false">
       <span><strong>Pictures</strong><small>Swap some words for picture clues</small></span><span class="switch"></span>
+    </button>
+    <button class="setting" id="install" hidden>
+      <span><strong>Add to home screen</strong><small id="install-tip">Open Kategories like an app</small></span><span class="add" aria-hidden="true">+</span>
     </button>
     <p class="label" id="lv-label">Walls</p>
     <div class="pick">
@@ -614,6 +618,20 @@ $('open-menu').onclick=()=>menu(true);
 $('close-menu').onclick=()=>menu(false);
 $('scrim').addEventListener('click',e=>{ if(e.target===$('scrim')) menu(false); });
 $('pics').onclick=()=>{ save.pics=!save.pics; persist(); render(); };
+// Install as an app: only on the hosted page (it has a manifest), and not once already installed.
+let installEvt=null;
+const hosted=!!document.querySelector('link[rel=manifest]');
+const standalone=matchMedia('(display-mode: standalone)').matches||navigator.standalone;
+const ios=/iphone|ipad|ipod/i.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
+if(hosted&&!standalone){
+  addEventListener('beforeinstallprompt',e=>{ e.preventDefault(); installEvt=e; $('install').hidden=false; });
+  addEventListener('appinstalled',()=>{ installEvt=null; $('install').hidden=true; });
+  if(ios) $('install').hidden=false;
+}
+$('install').onclick=async()=>{
+  if(installEvt){ installEvt.prompt(); await installEvt.userChoice; installEvt=null; $('install').hidden=true; }
+  else $('install-tip').textContent='Tap the Share button in Safari, then “Add to Home Screen”';
+};
 $('reset').onclick=()=>{
   if(!armed){ armed=true; $('reset').textContent='Tap again to erase all progress'; return; }
   save.done={}; start(0); menu(true);
