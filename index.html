@@ -524,7 +524,7 @@ const complete=sorted;
 function say(t){ $('msg').textContent=t; }
 function idle(){
   const left=4-S.locked.length;
-  say(sorted()?(S.locked.every(g=>S.named[g])?'':'What links each group? Tap to reveal.'):left===4?'':`${left} group${left>1?'s':''} to find.`);
+  say(sorted()?(S.locked.every(g=>S.named[g])?'':'What links each group? Tap to reveal.'):'');
 }
 
 function rowHTML(g,i){
