@@ -81,9 +81,10 @@ header{display:flex;align-items:baseline;gap:10px}
 .foot p{margin:0;color:var(--muted);min-width:0}
 .quiet{color:var(--muted);font-weight:600;padding:8px 0 8px 12px;white-space:nowrap}
 .acts{display:flex;white-space:nowrap}
-.clues{display:flex;flex-wrap:wrap;gap:6px;margin-top:-6px}
+.clues{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:8px;margin-top:-6px}
 .clues:empty{display:none}
-.clues span{border:1.5px dashed var(--muted);border-radius:999px;padding:4px 12px;color:var(--muted);font-weight:600;font-size:.95rem;animation:drop .3s ease-out}
+.clues span{display:flex;align-items:center;gap:8px;background:var(--tile);border-radius:999px;padding:6px 14px 6px 10px;box-shadow:0 2px 0 var(--shade);font-weight:600;font-size:.95rem;animation:drop .35s cubic-bezier(.2,.9,.3,1.2)}
+.clues span::before{content:"";width:10px;height:10px;border-radius:50%;background:var(--sel);box-shadow:0 0 0 3px color-mix(in srgb,var(--sel) 30%,transparent)}
 .btn{border:1.5px solid var(--line);border-radius:999px;padding:10px 22px;font-weight:600}
 .btn.main{background:var(--g4);color:var(--on-g);border-color:var(--g4)}
 
