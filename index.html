@@ -92,6 +92,10 @@ header{display:flex;align-items:baseline;gap:10px}
 .foot{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:2.7em}
 .foot p{margin:0;color:var(--muted);min-width:0}
 .quiet{color:var(--muted);font-weight:600;padding:8px 0 8px 12px;white-space:nowrap}
+.acts{display:flex;white-space:nowrap}
+.clues{display:flex;flex-wrap:wrap;gap:6px;margin-top:-6px}
+.clues:empty{display:none}
+.clues span{border:1.5px dashed var(--muted);border-radius:999px;padding:4px 12px;color:var(--muted);font-weight:600;font-size:.95rem;animation:drop .3s ease-out}
 .btn{border:1.5px solid var(--line);border-radius:999px;padding:10px 22px;font-weight:600}
 .btn.main{background:var(--g4);color:var(--on-g);border-color:var(--g4)}
 
@@ -140,8 +144,9 @@ details ol{margin:8px 0 0;padding-left:1.2em;display:flex;flex-direction:column;
   <div class="grid" id="grid"></div>
   <div class="foot" id="foot">
     <p id="msg" aria-live="polite"></p>
-    <button class="quiet" id="shuffle">Shuffle</button>
+    <span class="acts"><button class="quiet" id="hint">Clue</button><button class="quiet" id="shuffle">Shuffle</button></span>
   </div>
+  <div class="clues" id="clues" aria-live="polite"></div>
   <div class="done" id="done" hidden>
     <h3 id="done-title"></h3>
     <p id="done-text"></p>
@@ -169,6 +174,7 @@ details ol{margin:8px 0 0;padding-left:1.2em;display:flex;flex-direction:column;
         <li>A correct group locks in at the top. Some tiles fit more than one group, so a group that looks right can still be wrong.</li>
         <li>When all four groups are sorted, decide what links each one, then tap the blurred link to check.</li>
         <li>With Pictures on, work out what each picture stands for. It may not be what it first looks like.</li>
+        <li>Stuck? Clue names one of the hidden links. Tap again for another.</li>
         <li>There is no timer and no limit on guesses.</li>
       </ol>
     </details>
@@ -506,7 +512,7 @@ const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',
 function shuffled(a){a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
 
 function start(lvl){
-  S={lvl,order:shuffled([...Array(16).keys()]),locked:[],named:{},tries:0};
+  S={lvl,order:shuffled([...Array(16).keys()]),locked:[],named:{},tries:0,hints:[],clues:0};
   sel=[];save.cur=lvl;keep();deal=true;render();
 }
 function keep(){ save.live=S; persist(); }
@@ -532,12 +538,16 @@ function render(){
     return `<button class="tile${n>8?' l9':n>7?' l8':''}${on?' on':''}${deal?' deal':''}" style="--i:${k}" data-id="${id}" aria-pressed="${on}">${save.pics&&t[1]?`<i role="img" aria-label="picture">${t[1]}</i>`:`<b>${t[0]}</b>`}</button>`}).join('');
   deal=false;
   $('grid').hidden=sorted(); $('shuffle').hidden=sorted();
+  // Clues: each tap names one more hidden link; a clue goes away once its group is found.
+  const open=S.hints.filter(g=>!S.locked.includes(g));
+  $('clues').innerHTML=open.map(g=>`<span>${esc(LEVELS[S.lvl].groups[g].link)}</span>`).join('');
+  $('hint').hidden=sorted()||!unhinted().length;
   idle();
   $('pics').setAttribute('aria-pressed',save.pics);
   const fin=complete(); $('done').hidden=!fin;
   if(fin){
     $('done-title').textContent=`Wall ${S.lvl+1} complete`;
-    $('done-text').textContent=S.tries?`${S.tries} wrong guess${S.tries===1?'':'es'} along the way`:'No wrong guesses';
+    $('done-text').textContent=(S.tries?`${S.tries} wrong guess${S.tries===1?'':'es'}`:'No wrong guesses')+(S.clues?` · ${S.clues} clue${S.clues===1?'':'s'}`:'');
     $('next').hidden=S.lvl>=LEVELS.length-1;
   }
 }
@@ -584,6 +594,9 @@ $('grid').addEventListener('click',e=>{
   b.classList.toggle('on',sel.includes(id)); b.setAttribute('aria-pressed',sel.includes(id));
   if(sel.length===4){ busy=true; setTimeout(judge,180); }
 });
+const unhinted=()=>[0,1,2,3].filter(g=>!S.locked.includes(g)&&!S.hints.includes(g));
+$('hint').onclick=()=>{ if(busy)return; const u=unhinted(); if(!u.length)return;
+  S.hints.push(u[Math.floor(Math.random()*u.length)]); S.clues++; keep(); render(); };
 $('shuffle').onclick=()=>{ if(busy)return; S.order=shuffled(S.order); keep(); deal=true; render(); };
 
 $('rows').addEventListener('click',e=>{ const b=e.target.closest('[data-show]'); if(!b) return;
@@ -617,7 +630,7 @@ $('reset').onclick=()=>{
 };
 
 const L=save.live;
-if(L&&LEVELS[L.lvl]&&Array.isArray(L.order)&&Array.isArray(L.locked)&&L.order.length+L.locked.length*4===16){ S=L; S.named=S.named||{}; render(); }
+if(L&&LEVELS[L.lvl]&&Array.isArray(L.order)&&Array.isArray(L.locked)&&L.order.length+L.locked.length*4===16){ S=L; S.named=S.named||{}; S.hints=S.hints||[]; S.clues=S.clues||0; render(); }
 else start(Math.min(save.cur||0,LEVELS.length-1));
 </script>
 </body>
